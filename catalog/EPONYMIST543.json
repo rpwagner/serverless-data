@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) EPONYMIST543L",
+    "identifier": "EPONYMIST543",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-11T19:31:01.672457",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "oh",
+        "plumigerous"
+    ],
+    "manifest": [
+        {
+            "filename": "sneezing-cove.png",
+            "length": 596674,
+            "sha512": "ae78ba8371105439972055aca8e6cfafeb77ae21b6da4d59dfbc7fe322dbe8e2022edb08480f2182fd00c98803be4bebd1cc6314dd67936e139204570e3ecfe7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/sneezing-cove.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/sneezing-cove.png"
+        },
+        {
+            "filename": "sneezing-stirk.png",
+            "length": 361769,
+            "sha512": "096cb79cb4a54569fa33140b6b527da8e1a501f51a73c111b4c276fee26ce04e2e75a4a214076cc0a47fa189e0c14af41d190581485f46131f51f0eaccf5fa0b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/sneezing-stirk.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/sneezing-stirk.png"
+        },
+        {
+            "filename": "sneezing-matronlike.png",
+            "length": 305979,
+            "sha512": "ca4a29541a6b966b5225bfb62cf57ac9a9c47ce8de9f7d7d1d003a58c01ac45c35b0833d91d048ebec1eedd163d1f0a9d249f3e95f7d5bee697767ee6b05afdb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/sneezing-matronlike.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/sneezing-matronlike.png"
+        },
+        {
+            "filename": "sneezing-assentient.png",
+            "length": 328014,
+            "sha512": "5cfffdf5162669eca51c2a85d31b8edcc07d4bbfd095e2c0facb02fcb9a1a228fb0324c4f4a89ec6f05279542b736f3a0a7e24efaeededf91daafa73c8316cdb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/sneezing-assentient.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/sneezing-assentient.png"
+        },
+        {
+            "filename": "Arabian-bice.png",
+            "length": 647609,
+            "sha512": "a05b9b1411e2ce5bdf8b14426cf00098e68e06659e7adbd943ff635b9c3ca25814bab17a1c908aa377f38f0b5338a2fc4519583cc154f57e13bcc973a0d36f8d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/Arabian-bice.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/Arabian-bice.png"
+        },
+        {
+            "filename": "Arabian-posteromedian.png",
+            "length": 605696,
+            "sha512": "cab3f6e09f955c799adee9de893ad8b173c51d13e5ff8639454c46243117d4741acb08c2251a1af58b083bd761c3ad196b310499b4465c4c7029049d1487a35d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/Arabian-posteromedian.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/Arabian-posteromedian.png"
+        },
+        {
+            "filename": "Arabian-northerly.png",
+            "length": 281054,
+            "sha512": "4e5d8ae288c1c52499704409eacd92f8ba6ec1d1dc87e9698d4acac73af0195b12930cc7c892fbbc9b6985aa5afb9e5890d4693c6a8fa7388b28f5bf0cfe38a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/Arabian-northerly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/Arabian-northerly.png"
+        },
+        {
+            "filename": "Arabian-agamically.png",
+            "length": 102257,
+            "sha512": "5dba6d83cc653b5b04771006175e017a9df3795ad589fcbfbfee653a35687e73d8ff332fb154d1733dbac2634f5b35c17188bc0eda0dd84f42f775c6a8c32034",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/Arabian-agamically.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/Arabian-agamically.png"
+        },
+        {
+            "filename": "carpet-lettuce.png",
+            "length": 529028,
+            "sha512": "970f6d21901f0b6e98b798cee19630961dbdb08852d02af23053f52c9637d24510a8bd375cd2a0358608055101d94a6952286cab3750b696fb37144dc22d5313",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/carpet-lettuce.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/carpet-lettuce.png"
+        },
+        {
+            "filename": "carpet-nacket.png",
+            "length": 553461,
+            "sha512": "73d7bc9423e37af15bb9be9a2505ed6914fc863b42de07309fdc6ab9e9a957bb99f7ed93f23b0a6aff450538fbdff22f8e4aea2c2d052f314b864503525e1607",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/carpet-nacket.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/carpet-nacket.png"
+        },
+        {
+            "filename": "carpet-carposporangia.png",
+            "length": 187487,
+            "sha512": "cfee04ae4b87584eb149e43fe11ce1a138d256cef7fcb8309e42a92aa15fd4bec0c93cfc5e04ec8be52180cc7a9edfc1e45cb5ba69f113a41183d7453e299a58",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/carpet-carposporangia.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/carpet-carposporangia.png"
+        },
+        {
+            "filename": "carpet-misventurous.png",
+            "length": 447394,
+            "sha512": "158b554fd674de03cf6d88960110850163f168515c1c716ca114208f3892da7ad99c22dd79d3abaf3de57305ecc82691093ae5eb1360fe58da5182576b553a38",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/carpet-misventurous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/carpet-misventurous.png"
+        },
+        {
+            "filename": "antiblastic-illoricated.png",
+            "length": 427843,
+            "sha512": "1ec8d14534b475294e507a8cffe30891337a30e04007ce2df8eb8cb47c36e0369e971d814b03b53df2d782fc53cc37039d0f91dc7ab3f692fad650bea77b4968",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/antiblastic-illoricated.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/antiblastic-illoricated.png"
+        },
+        {
+            "filename": "antiblastic-exendospermous.png",
+            "length": 319654,
+            "sha512": "bb0b353c29d065fea489b14fb4020fd136f746d4086f42b056ea1485b41ee07292bdc6aee2c32591151e0678d24efd472874a370a44704c32b82326bb60e218a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/antiblastic-exendospermous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/antiblastic-exendospermous.png"
+        },
+        {
+            "filename": "antiblastic-angioglioma.png",
+            "length": 184841,
+            "sha512": "f3962db0b28625e3198e39bfa1222eb2ba6820f616ef4f56143fd8d8c8cd8941d895615915e55e7205d74603a3c5169a0e72d9ed8b9dd5f3bcbcbf9dbf1e4e31",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/antiblastic-angioglioma.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/antiblastic-angioglioma.png"
+        },
+        {
+            "filename": "antiblastic-Dezaley.png",
+            "length": 407961,
+            "sha512": "5329e697a6ce34f957946fbd77a1d168cfbf7a02bf81a184cd9ed326c1ade00286fd56219e704a3f75a05532f51e8335448b5428d8031e2da9633ba3b28ee545",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/antiblastic-Dezaley.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/antiblastic-Dezaley.png"
+        },
+        {
+            "filename": "restiad-stucturelessness.png",
+            "length": 569533,
+            "sha512": "8861ddf17b58c1c70d424e87b8b3ef2fb512c9abf10ef1762f85e1a9430b1a875dbf0a2b74c04c7698219e2d1b9fd5e6a8a7fde0ca42fb1ea534415c19b369e1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restiad-stucturelessness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restiad-stucturelessness.png"
+        },
+        {
+            "filename": "restiad-uncreatedness.png",
+            "length": 455033,
+            "sha512": "8a0d124e32d4db5bd491c241fdb2f2b9ab9bc6c7bda1a8f961dbf4caacf547063531d77883c5e18ba84901fc35d5002b43cdcd6859ee516d71e59f23777a01d2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restiad-uncreatedness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restiad-uncreatedness.png"
+        },
+        {
+            "filename": "restiad-reflecting.png",
+            "length": 315927,
+            "sha512": "24afa2bde0b59d6c353cee5a2745b25d21478777f53e61e74cc14ea539327036e0254cb9d438a9c93625e1a63c80ceeddba190a11aa027cb5c44f52f8bb781a5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restiad-reflecting.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restiad-reflecting.png"
+        },
+        {
+            "filename": "restiad-amethystine.png",
+            "length": 342596,
+            "sha512": "1e30233a99c7a6e20019deeeb9df9086e348e97d07ea1f2a5285d5c8d4869c3d2f763dc7b5dd46e3dae1bd211e8dc932b7c9339fe2d8e1f9ea002bde08b73d2d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restiad-amethystine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restiad-amethystine.png"
+        },
+        {
+            "filename": "restriction-nomancy.png",
+            "length": 445629,
+            "sha512": "c340c56d347358d2a72df8c498325b44d32da5ad12f026907b8d5271b4bb4e63d62a8ef7c195988766034911434d2b8d7f1f8a699033d0fb8767e78c8453a75f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restriction-nomancy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restriction-nomancy.png"
+        },
+        {
+            "filename": "restriction-reagreement.png",
+            "length": 369647,
+            "sha512": "be4ccebc4582b01241e5327457c5fedbbc6bf4955b3a05c451ddc39b548349c44936415f2b22fdb11bb1bbe1c03c5fbf370691765ceb980ae5eda8ba0df9e815",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restriction-reagreement.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restriction-reagreement.png"
+        },
+        {
+            "filename": "restriction-apobiotic.png",
+            "length": 149276,
+            "sha512": "f7abbaf4e6fa53d1de958a9381152bea015919bd7d1bbb5d85922c49e698720e5c9d2dd27d34db1009ba7793e0b31929a476ca48b7e74e7db46af23a89907b65",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restriction-apobiotic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restriction-apobiotic.png"
+        },
+        {
+            "filename": "restriction-cubitoplantar.png",
+            "length": 390411,
+            "sha512": "948ae48ed22aea83b56f8dbefe6f5c1f8884d3b5015c2b545e9b37ee54d570c0557dd336f38a0eb33d8c179de32bc913bd39d7ff3a8dd1b87be4999674536d84",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/restriction-cubitoplantar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/restriction-cubitoplantar.png"
+        },
+        {
+            "filename": "EPONYMIST543L_oversize.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/EPONYMIST543L_oversize.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/EPONYMIST543L_oversize.rw.dat"
+        },
+        {
+            "filename": "EPONYMIST543L_oversize.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/EPONYMIST543L_oversize.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/EPONYMIST543L_oversize.dat"
+        },
+        {
+            "filename": "EPONYMIST543L_Mysticeti.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/EPONYMIST543L_Mysticeti.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/EPONYMIST543L_Mysticeti.rw.dat"
+        },
+        {
+            "filename": "EPONYMIST543L_Mysticeti.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/EPONYMIST543/EPONYMIST543L_Mysticeti.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/EPONYMIST543/EPONYMIST543L_Mysticeti.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "public",
+    "groupname": "",
+    "groupuuid": ""
+}

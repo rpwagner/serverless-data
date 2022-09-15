@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) MICRODISTILLATION775O",
+    "identifier": "MICRODISTILLATION775",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-08-27T02:59:21.900273",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "oh",
+        "plumigerous"
+    ],
+    "manifest": [
+        {
+            "filename": "bouffancy-pituitary.png",
+            "length": 514233,
+            "sha512": "4506d534b315bd803f144224833ecc7681e8467c35b967291666dea2071d02483cbbb9f7d7fa6338cbb68e3cce8f07d7be70a8964694e593edfb288798839ecc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/bouffancy-pituitary.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/bouffancy-pituitary.png"
+        },
+        {
+            "filename": "bouffancy-tripersonal.png",
+            "length": 321449,
+            "sha512": "592fcd370481906bbbb601ba0dd51e191d9f01753856b08e447d67fa124653510ba232a809bce2888b645ed0399681539a2a1b98e67cb97176aa7f8cb49b0b1c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/bouffancy-tripersonal.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/bouffancy-tripersonal.png"
+        },
+        {
+            "filename": "bouffancy-recapturer.png",
+            "length": 222648,
+            "sha512": "376450c84165d6a1659aeac610ff3ae21fdb2678e09755b5fef7890749f934ce136ad468f9514d61c980c2a23a880a0e13dcca5aa048755206cc081b936304bd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/bouffancy-recapturer.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/bouffancy-recapturer.png"
+        },
+        {
+            "filename": "bouffancy-historism.png",
+            "length": 159319,
+            "sha512": "31b674287298dcf64ef7ad6c5f39b3d6b6699a8f8f03b863ac869161e8ca29f07be7ffa3289051d399a7a8803a32f79a49bc0b9a2adce66a2ec1d7b5b4895667",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/bouffancy-historism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/bouffancy-historism.png"
+        },
+        {
+            "filename": "unstuff-Pholas.png",
+            "length": 686273,
+            "sha512": "3a2204fc0fbf554b084dd789d6c7b1182cb7982c10eba0b71953ac94befc77df1ca4904d1a2302fc3d0b3f12eb27b9918ea9864bed90f67f21c46787e2b92006",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/unstuff-Pholas.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/unstuff-Pholas.png"
+        },
+        {
+            "filename": "unstuff-vitreousness.png",
+            "length": 568036,
+            "sha512": "f4fc4af4404d4f5d9018c429cb38908c035e9d1d886494a627b998045430747cd6aef192beb615bf14aaf04583db1c590b895099ac2df80d4b885111a14f3850",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/unstuff-vitreousness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/unstuff-vitreousness.png"
+        },
+        {
+            "filename": "unstuff-pupilize.png",
+            "length": 171520,
+            "sha512": "e37d8f8bc07cf41ad55a6a318c8d154f6d85a6924f09f65b9bed178fcf96183bf921dd09745758fd946c5d222a5b087861632273d3ee82d16ffdd62ab1986922",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/unstuff-pupilize.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/unstuff-pupilize.png"
+        },
+        {
+            "filename": "unstuff-linwood.png",
+            "length": 394138,
+            "sha512": "857ad12ed56ccf6c75f4179dc2f72cca56fb4721bdabd4a0b7c271c6101cb9508f5857e57cbc89f8aca3d26104cd425ad12d1d3f10fb99508f6c1e2693f3758c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/unstuff-linwood.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/unstuff-linwood.png"
+        },
+        {
+            "filename": "prouniversity-uncontractile.png",
+            "length": 614901,
+            "sha512": "c889665809ca97bc062c32cfa35a4f759f8c048d09b0ac4928db60be013bfcc3bc6fcb1e59bec4e11a1ce6b7a695a881ee21e340056cd8f142cc72b593888d0e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/prouniversity-uncontractile.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/prouniversity-uncontractile.png"
+        },
+        {
+            "filename": "prouniversity-overjawed.png",
+            "length": 103637,
+            "sha512": "049701e38b36e41a13d8a30a7bb91368c683b38879e6ab95dca8e32e606f9fb54d35f75a222c5da01e9a6186b67b92b266f234b7cff1bf7bce5470d87b6af050",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/prouniversity-overjawed.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/prouniversity-overjawed.png"
+        },
+        {
+            "filename": "prouniversity-spurrer.png",
+            "length": 52159,
+            "sha512": "ae2f2c68be4235f6f8a9e973973968950b65bab86e2e22883b8bffed79f980d3051e39df0a078700ebf06bd1258c1bbd42b9ee1097b742163add29d75f49f971",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/prouniversity-spurrer.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/prouniversity-spurrer.png"
+        },
+        {
+            "filename": "prouniversity-splanchnemphraxis.png",
+            "length": 489886,
+            "sha512": "85443ed3f99f97c08f46d7f393c6d5e8585f5ca4237c9fb1b31770035705a360ae6d6a95c1d76eca9933e5f92d4a8297d99a0e057a6d26d4db271609307d6944",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/prouniversity-splanchnemphraxis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/prouniversity-splanchnemphraxis.png"
+        },
+        {
+            "filename": "loam-Picris.png",
+            "length": 561808,
+            "sha512": "5559df7404ee6b41e72a55fa24b3b607f859449809137a970553bf1b2f6387a9363e4f127a85bb9432ad3aee0d1107bb23e5f9f23749a6202da73639dd18f75a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/loam-Picris.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/loam-Picris.png"
+        },
+        {
+            "filename": "loam-unreplaceable.png",
+            "length": 93084,
+            "sha512": "f18133a784677abfc5b5fb846eebeb7ce973bdcd465bd97621baae24bd3c315f66dfb9afb4126e5a802dbfd0e954325706b071fadcc1ffe2af27d8492df89c88",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/loam-unreplaceable.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/loam-unreplaceable.png"
+        },
+        {
+            "filename": "loam-postvenous.png",
+            "length": 124596,
+            "sha512": "e2ce5325266d3edc4dcc563f2718328fc6daf4f9f2d6111cc1f2efc45807b5e399756bd7b5955657120d5bdde56d1fa69baa9a21a791aac07f8ae6d43be29f71",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/loam-postvenous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/loam-postvenous.png"
+        },
+        {
+            "filename": "loam-subaid.png",
+            "length": 172860,
+            "sha512": "bee8d3a85fc0c14a6bae7d48258bf483a01229eb4a3104834803041d5423900f5e1cf765afa1338df8193de4c7d3efd76e1ace52c897e0ffa92fba011747ed23",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/loam-subaid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/loam-subaid.png"
+        },
+        {
+            "filename": "misanthropically-graphophone.png",
+            "length": 582006,
+            "sha512": "4b0da843e4931733f47d5c8b047a248e9d49c72762a4003bcf797cc2009d39fabcafaa5716107a89490c82d88e353c8166c54e9db6172f6165ae18caefb10b44",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/misanthropically-graphophone.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/misanthropically-graphophone.png"
+        },
+        {
+            "filename": "misanthropically-belliferous.png",
+            "length": 508184,
+            "sha512": "bf0bba6171cefbaee01a1fe33e2950880a493917bf34e90e009fa12d568b8eb4db9be0e322f9ccfb9ee476588e5f76b97d2f64a40af1bcee729d43003b6ac49c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/misanthropically-belliferous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/misanthropically-belliferous.png"
+        },
+        {
+            "filename": "misanthropically-phaeism.png",
+            "length": 227172,
+            "sha512": "360e02c77bfffffc3a9745fd9eb880123106d3d8661b90d626ba5d978d526dcf4f907bf05d830be748cb98a27c9d6fcd393bf5a3406ed5cece988f1ae8a3fdfc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/misanthropically-phaeism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/misanthropically-phaeism.png"
+        },
+        {
+            "filename": "misanthropically-tinkerdom.png",
+            "length": 381557,
+            "sha512": "f588e3f0cb20a726712e76ac56aaac72d00cf28a80807a70f56685fdfc90bba2556c69fa7161df706707cd08759d4777cc3eb17fd46b513d957522cde3667d18",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/misanthropically-tinkerdom.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/misanthropically-tinkerdom.png"
+        },
+        {
+            "filename": "scyelite-loathingly.png",
+            "length": 626946,
+            "sha512": "b09125db0f3a0c518bf98ca8caa68910202148ca6e89d32c037ef418a7f441a41dc94972e2022398fe6f2d4f07a4eea21d35d6fc8c281891c68b25c9e3f5f733",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/scyelite-loathingly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/scyelite-loathingly.png"
+        },
+        {
+            "filename": "scyelite-Renaissancist.png",
+            "length": 516082,
+            "sha512": "61efa19cea98d82a11c1ff19558fdea8620bbed6b98ac7199ca76e0221174207393b72915738f25c3e302581abd8f94f27f41ec0c21f7afb2fb3b468a3dda064",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/scyelite-Renaissancist.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/scyelite-Renaissancist.png"
+        },
+        {
+            "filename": "scyelite-fairgoer.png",
+            "length": 184835,
+            "sha512": "ec9739c446184b9dba0b9fe4db8aecfd3b9a15958f35b3e5e428c7c8a4f1474ec0310d55416c16c716b4f39213f10c3627a7712532cad34c5ec049dbe60a4b2e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/scyelite-fairgoer.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/scyelite-fairgoer.png"
+        },
+        {
+            "filename": "scyelite-versifier.png",
+            "length": 88917,
+            "sha512": "cd5f2a6c7165ed348828492a6f5e7675837c0c50210c83e415cc5f7863c3aafd4c59f88ab4cf7834da2d4b2b8b6dc183c981e9673c31e5c5458741f29458bd0a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/scyelite-versifier.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/scyelite-versifier.png"
+        },
+        {
+            "filename": "MICRODISTILLATION775O_Mohican.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/MICRODISTILLATION775O_Mohican.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/MICRODISTILLATION775O_Mohican.rw.dat"
+        },
+        {
+            "filename": "MICRODISTILLATION775O_Mohican.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/MICRODISTILLATION775O_Mohican.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/MICRODISTILLATION775O_Mohican.dat"
+        },
+        {
+            "filename": "MICRODISTILLATION775O_wallop.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/MICRODISTILLATION775O_wallop.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/MICRODISTILLATION775O_wallop.rw.dat"
+        },
+        {
+            "filename": "MICRODISTILLATION775O_wallop.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/MICRODISTILLATION775/MICRODISTILLATION775O_wallop.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/public/MICRODISTILLATION775/MICRODISTILLATION775O_wallop.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "public",
+    "groupname": "",
+    "groupuuid": ""
+}

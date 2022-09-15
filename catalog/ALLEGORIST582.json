@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) ALLEGORIST582A",
+    "identifier": "ALLEGORIST582",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-01T22:30:31.092583",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "ebulus",
+        "plumigerous"
+    ],
+    "manifest": [
+        {
+            "filename": "sacrificially-untellable.png",
+            "length": 570068,
+            "sha512": "e6d6bcba74eccf8a2f4285bb8c8c38bc94a4fae793f004d0c46d8ffb3c0c9aa37915ff242e30d289444726f2ce5d35ac5e5b6149093c11f049b2565a37538966",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/sacrificially-untellable.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/sacrificially-untellable.png"
+        },
+        {
+            "filename": "sacrificially-whelklike.png",
+            "length": 409493,
+            "sha512": "72f44684ab84fe0d2c1c5f6816c50e982e4c492c4c84ae4cc22146e976a3c552687a211f569128bcc3170db12595821770f7b0835b7b4f9a22518ae3e5d513a1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/sacrificially-whelklike.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/sacrificially-whelklike.png"
+        },
+        {
+            "filename": "sacrificially-plumps.png",
+            "length": 295091,
+            "sha512": "809262771566f6a45b3878f33aa96cf12f47873a9f6baeea0522c1f5eb0856c480c36b92dcf05f1d500c51b196bfdddc24ebb42727e87977e5a3fd70b01aa4ce",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/sacrificially-plumps.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/sacrificially-plumps.png"
+        },
+        {
+            "filename": "sacrificially-gastrocolic.png",
+            "length": 647693,
+            "sha512": "f0db18eeeefea01d98bbef4c571f4a0837c6fdf7b697e03c866cf71336aff00f9999783a387dad75c606bb7511af3fdb56f8b2ed98e54eac28fee35aca0fb396",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/sacrificially-gastrocolic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/sacrificially-gastrocolic.png"
+        },
+        {
+            "filename": "Coccidae-negligibleness.png",
+            "length": 577338,
+            "sha512": "1e20a64f48cb9ce4ae45fde647cfcf34d3e3020ea16e25396988ebf52e4e817f0d0fd2f77a6707be0b858940df02a66de743883d5fb563881a447c9bcf935706",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/Coccidae-negligibleness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/Coccidae-negligibleness.png"
+        },
+        {
+            "filename": "Coccidae-moldy.png",
+            "length": 82553,
+            "sha512": "ed24c7c58a2d78f0dc224bda309b193e046ca00e42a2ff31d7b553437da39471cdc0572b81e0ae5c45f9bf8c8f244d6e2ced260b9c7af1cfdca7a711ebe88b3e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/Coccidae-moldy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/Coccidae-moldy.png"
+        },
+        {
+            "filename": "Coccidae-Athanasianism.png",
+            "length": 251200,
+            "sha512": "789cb34c30822bc868eca6398f076c9d98786277589e7a520f52acbb572c73731366593fd203992228d12ed1df3f6d672d7326eaad5538c351a6e9dc849b5b19",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/Coccidae-Athanasianism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/Coccidae-Athanasianism.png"
+        },
+        {
+            "filename": "Coccidae-philosophastering.png",
+            "length": 660825,
+            "sha512": "5f5e137ab87e30782e47cb8d3d6c8ded0c2a1beeadbad846fe98456f8ccc5e34028205db0a3ecddd79deea72796bccde4e94bdf50684468c0a88774d50f7bda8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/Coccidae-philosophastering.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/Coccidae-philosophastering.png"
+        },
+        {
+            "filename": "malapaho-imitational.png",
+            "length": 645488,
+            "sha512": "f643d7cee47e684bfc9eb8ef8b8b12667a8f4fffdda8282f67f05cae23c9f616a0f9116041578a5b07b1d6d28c61adade76b2dc168ea89ec250296bea39a0256",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/malapaho-imitational.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/malapaho-imitational.png"
+        },
+        {
+            "filename": "malapaho-bellbottle.png",
+            "length": 476726,
+            "sha512": "517e3a053dcb37da11e3f75c0a01053f15bcbd1802c5c52effafe170eab70df24e7029b9173ee7783816c2dd7cc3a1ee77f6e6293384660fe3cb506e5b8e337c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/malapaho-bellbottle.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/malapaho-bellbottle.png"
+        },
+        {
+            "filename": "malapaho-Cardiacea.png",
+            "length": 305443,
+            "sha512": "e246d5ddc2a9ae391a37786b05c15d95c4d7af36c52337ec9b9ae54ce955036789d9c79c5ee9735082ebbed7cba86d0af6dcf8804d5713b5a34fd7f37a53e71a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/malapaho-Cardiacea.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/malapaho-Cardiacea.png"
+        },
+        {
+            "filename": "malapaho-safebreaker.png",
+            "length": 466612,
+            "sha512": "c32331c7b65700eedaa6073e45738092fada310547e17217afd42ebda4374970aa53fc45dc5eea88c224be758d50146a274ea457cd694c614424c6e82a93fa97",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/malapaho-safebreaker.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/malapaho-safebreaker.png"
+        },
+        {
+            "filename": "rotundly-guffer.png",
+            "length": 504162,
+            "sha512": "f4984a5e913a362da30a0b4ebf7e808b3ad42c9e6766b9526941a2605a565113022e1c8e98b9b79e98a93fe2cbd035e239f703534d501f5847dbc947609ccd7f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/rotundly-guffer.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/rotundly-guffer.png"
+        },
+        {
+            "filename": "rotundly-octillionth.png",
+            "length": 322932,
+            "sha512": "ccddb9f31b2861a38eddbb0f4e1d9e7be3777c895952d83c45fcce8a8c339409d634bf509a124763015526056164f659e90770c205097d9a02b2e48fd2218b1e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/rotundly-octillionth.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/rotundly-octillionth.png"
+        },
+        {
+            "filename": "rotundly-Hellenistic.png",
+            "length": 247186,
+            "sha512": "fb03aa209391dff1b46f8814cf94f27e6dc2ab48c53b2a357d2388294be16d90f153b1cb47c824fbe7974504ff33555ed8043865e877522169c407720265cb3a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/rotundly-Hellenistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/rotundly-Hellenistic.png"
+        },
+        {
+            "filename": "rotundly-Cerianthidae.png",
+            "length": 417402,
+            "sha512": "b40bc79d25cbb1a273d5c9e681a913b6e0929f97f1f39f7f64c19c054d6381df1c6e04ca1f4d66759ba9de014cf3d41b37e291cef0155aa542aa52729fc43a30",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/rotundly-Cerianthidae.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/rotundly-Cerianthidae.png"
+        },
+        {
+            "filename": "abstricted-reslide.png",
+            "length": 619168,
+            "sha512": "f98713657651dcb0f175f02093296a681f5a580655591eae345630a9152f891a30efd258c644b5233780e718dae9c985e47acbe523ee771e72917daf8c6bf546",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/abstricted-reslide.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/abstricted-reslide.png"
+        },
+        {
+            "filename": "abstricted-laniariform.png",
+            "length": 434480,
+            "sha512": "5772adb4c4ac4e6f5d4554cbfdb9680a0da842b17bc0c2f6906f450ea98157ca29fc10feeade3b318d90d6b3927f38c10691732c6ccca87ba6bccf0a26fdb2d1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/abstricted-laniariform.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/abstricted-laniariform.png"
+        },
+        {
+            "filename": "abstricted-untunefulness.png",
+            "length": 280156,
+            "sha512": "f3f3365e70252411baa03dde024b0639eb82e023215c0b0702025b80a4ca85dc0f92014cb76b19bcaf8fe4caa1bc6c25e51a6ef9606f2461cc357a164a377024",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/abstricted-untunefulness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/abstricted-untunefulness.png"
+        },
+        {
+            "filename": "abstricted-schorly.png",
+            "length": 374171,
+            "sha512": "aa02117f80ca668d58456211a08569a67f37f6a9667085c668ae3d7c489ec8e6a7feaebb8cbd30a728d2376ec86444d286607fd6881581971a55598047451849",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/abstricted-schorly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/abstricted-schorly.png"
+        },
+        {
+            "filename": "misliker-whirret.png",
+            "length": 674806,
+            "sha512": "d43cc9b2b48887015a0bbe7e798f86d2c228ea2b8f7070b4c39ca9260986f2115f04b0deaf16b09f96633245b22b022798fda963cfcbfbec392e6db772ae77fa",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/misliker-whirret.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/misliker-whirret.png"
+        },
+        {
+            "filename": "misliker-excruciable.png",
+            "length": 314159,
+            "sha512": "367cb40438f94614e2dadd2df53573e372391c481c1cbd73c10c1f904ad801a0db1b7f8d26bcc865a647443a88708f60f7dcce0db61f9de52946f4430dd32d04",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/misliker-excruciable.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/misliker-excruciable.png"
+        },
+        {
+            "filename": "misliker-episodial.png",
+            "length": 213820,
+            "sha512": "279bf71401bda96399dce55f2de10b85ab069b0d53fd7fcfc82508fd928bd2ea943374fb49ee7d1d983c1f71545db39a31d1c4c379b908c427796f18e68e4bd4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/misliker-episodial.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/misliker-episodial.png"
+        },
+        {
+            "filename": "misliker-perlaceous.png",
+            "length": 184104,
+            "sha512": "c00f15a19d916e10118c04ce5299318899706a01737471a8dd1703d41c3e55ea5e46e1276d0bd6a5360852279a2ba55022949e79d0616bfe3ffb9f981ed6978d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/misliker-perlaceous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/misliker-perlaceous.png"
+        },
+        {
+            "filename": "ALLEGORIST582A_concent.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/ALLEGORIST582A_concent.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/ALLEGORIST582A_concent.rw.dat"
+        },
+        {
+            "filename": "ALLEGORIST582A_concent.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/ALLEGORIST582A_concent.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/ALLEGORIST582A_concent.dat"
+        },
+        {
+            "filename": "ALLEGORIST582A_pandemonium.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/ALLEGORIST582A_pandemonium.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/ALLEGORIST582A_pandemonium.rw.dat"
+        },
+        {
+            "filename": "ALLEGORIST582A_pandemonium.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ALLEGORIST582/ALLEGORIST582A_pandemonium.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/ALLEGORIST582/ALLEGORIST582A_pandemonium.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) PUNKAH101I",
+    "identifier": "PUNKAH101",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-08T21:55:12.015408",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "oh",
+        "geotropically"
+    ],
+    "manifest": [
+        {
+            "filename": "visceralgia-shorthead.png",
+            "length": 564607,
+            "sha512": "6c7d366686775a8591fe38a180cab7a967fb4e185b5624361fcb90a99ec0a9c2dd7f900ad1144927f703cc21e4b23eaa06ad3bb96ccd003c7c67c917a31ed2c2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/visceralgia-shorthead.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/visceralgia-shorthead.png"
+        },
+        {
+            "filename": "visceralgia-stonewood.png",
+            "length": 379530,
+            "sha512": "0fdb4c2f88cbf01e1deff259229bff0fceec46d1d5bdf26b2d6f20794409b4762ed0c42e25581c62a01739d4ac3c526d9f37777bf15604caabdfb3dbe220c0d8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/visceralgia-stonewood.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/visceralgia-stonewood.png"
+        },
+        {
+            "filename": "visceralgia-incrossing.png",
+            "length": 181197,
+            "sha512": "2fdd558b44a84245f087b1e0e2c26e4f3edc692310a67cff442e87d5baf789f491d44c2bfc50308e254c08aa3d2d121b7f0ec2d50111921b80a2cf6ddeafce27",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/visceralgia-incrossing.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/visceralgia-incrossing.png"
+        },
+        {
+            "filename": "visceralgia-bustee.png",
+            "length": 423447,
+            "sha512": "6b736f9d604eeecea9d316a87d978a246e2236643a6d13639115a4bced8a50c40238fc77afb0f5b13d926f05e39c40774a63127f258470696646cabde74ecb50",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/visceralgia-bustee.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/visceralgia-bustee.png"
+        },
+        {
+            "filename": "delubrum-semiangle.png",
+            "length": 442132,
+            "sha512": "494242599109660d0116429b12cd8686c05ced4ba2ece96578c784daa83e3cccb4f5fa98125db7370165967a20081d4331c2453ea9b29666404d82fdea991248",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/delubrum-semiangle.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/delubrum-semiangle.png"
+        },
+        {
+            "filename": "delubrum-fooder.png",
+            "length": 359117,
+            "sha512": "02c107e5303dac1aa025ccfd2948a760270854383157643747f28e6befde7bc988ec2c9bd145be1099c89cf16ed11be8565ca48fa25e5fc3c3f02c5f3dd97b54",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/delubrum-fooder.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/delubrum-fooder.png"
+        },
+        {
+            "filename": "delubrum-kail.png",
+            "length": 306380,
+            "sha512": "e166e548273a96ae9b79c8e8bd10164f0c72a1743639835fffd16aabce3880e1f96b313313ece82d81e93864af02a55065f792926c5cfb9fa11ef6a60f163f02",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/delubrum-kail.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/delubrum-kail.png"
+        },
+        {
+            "filename": "delubrum-prepubescent.png",
+            "length": 345842,
+            "sha512": "787390acc075c9f1fc3f3f2368b2d98f6e7eeb4c453178730dca4daa5ded3739adc544dd42b0a69036594fa27aaa87eeddf9cddcaa12d3161129ba612ded2a95",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/delubrum-prepubescent.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/delubrum-prepubescent.png"
+        },
+        {
+            "filename": "Goethian-revelationist.png",
+            "length": 663848,
+            "sha512": "0c6fbfee80446443d0b884d7c442d3fa7b0cf1f304f0dbe6a219367f9d3f0c2468a64cbda1825a7bfac516e1c69eb0416a6033a13d10c725725bcc2605f8d3d3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/Goethian-revelationist.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/Goethian-revelationist.png"
+        },
+        {
+            "filename": "Goethian-antiroyal.png",
+            "length": 354476,
+            "sha512": "5b426e9951339cc49800b9765396d1c5103bb414cc861fb59d48f9a589de58aaaa43ee2b4711097b51caa474c43f98da0289a83116ae0f56bc0622c38715f2c1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/Goethian-antiroyal.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/Goethian-antiroyal.png"
+        },
+        {
+            "filename": "Goethian-avulsion.png",
+            "length": 208541,
+            "sha512": "06fcdadbfce3bc6c4ca6eb4b8d6f8f4befbc4ee42eb63a25a67ce36f16e8bae26b1f60d35f68a0756c742b82760413b0136c168ac0c2e11a156638a78d9561fe",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/Goethian-avulsion.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/Goethian-avulsion.png"
+        },
+        {
+            "filename": "Goethian-flaminica.png",
+            "length": 595908,
+            "sha512": "600b4d2a34a5f6a697fadd72fdf68fc182144d7de156f3f7472bd28351a71ff7a31cf31f05ecdee31b48cbe6732045ca5fed35d4a5e0073532f542effa42981d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/Goethian-flaminica.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/Goethian-flaminica.png"
+        },
+        {
+            "filename": "counterdevelopment-wigmaking.png",
+            "length": 574897,
+            "sha512": "152596cb54509d0e7864a57166e14a020d6ffbba97438d5744bd95ff45c595a9b46a3b77335ea8a72ce8d34367d5ed21b5aa89b5c42a0fb65b3cf5548a740b07",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/counterdevelopment-wigmaking.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/counterdevelopment-wigmaking.png"
+        },
+        {
+            "filename": "counterdevelopment-chrysoberyl.png",
+            "length": 460018,
+            "sha512": "7bd70f6d9778a90127018b4d40572706ce4ab0d08ffc609181d0b20d21bea98e070d169446de100a93188a3784622f798c55df8e30d74badb3b96001769f5ff2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/counterdevelopment-chrysoberyl.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/counterdevelopment-chrysoberyl.png"
+        },
+        {
+            "filename": "counterdevelopment-grindable.png",
+            "length": 20006,
+            "sha512": "e90f663413cf757b5484462d1246a2659d43e183c6eecd52e0379fa6d164195685369c31168e1fcf2fb5aa71728f1b24cf538c3b9241a93ad1899e7a85bcd0b5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/counterdevelopment-grindable.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/counterdevelopment-grindable.png"
+        },
+        {
+            "filename": "counterdevelopment-setting.png",
+            "length": 487493,
+            "sha512": "d4d9de9280949f65e3fbd4486d95be14614ea60ff0b3c5e099a7b880a2f83c38db5844aa0aedc86477b77edffefa11081f2ff4a4fd44bfd4432f71bbcf1d796a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/counterdevelopment-setting.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/counterdevelopment-setting.png"
+        },
+        {
+            "filename": "ironbark-pancreatitic.png",
+            "length": 640448,
+            "sha512": "b596088b2b9539cd31b81a0fd034856fe2cf414b671819ec56293e727003adf4be73818cd0fc184bbd730e21acada8237a0b07713f75e2d3323fc5c7672fdc16",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/ironbark-pancreatitic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/ironbark-pancreatitic.png"
+        },
+        {
+            "filename": "ironbark-antigrammatical.png",
+            "length": 127739,
+            "sha512": "21b5553d6e9eeab2b31fecff13ddd5e5626de97ec4627e472812a23761875886370541c5047295f204fa68c7652a361b8f2538402091f84af0a55c626cccf4a5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/ironbark-antigrammatical.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/ironbark-antigrammatical.png"
+        },
+        {
+            "filename": "ironbark-gummous.png",
+            "length": 156845,
+            "sha512": "e57e81db13b2670435d3a2d3fffc662728893acdd4e3421c522e244646f12c508747749de47c959ab69f15fe15b28baf3ac4c33c074250eab664b80cdb5bafd3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/ironbark-gummous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/ironbark-gummous.png"
+        },
+        {
+            "filename": "ironbark-porpentine.png",
+            "length": 500785,
+            "sha512": "e7affc50611f9c05f1f0804ed3240a34bf74f17b3a3e4bebe084163a135d8aa70454e56e0aa9db17911904a887427e80f712b90b8d26b5cf14c0106f27d3fcab",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/ironbark-porpentine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/ironbark-porpentine.png"
+        },
+        {
+            "filename": "dermatoglyphics-dentality.png",
+            "length": 601497,
+            "sha512": "75093bad68f062aaeeb37cc360b6edda81f21055f676f56e381e8d0ae370ba51690f48a04088a844b485609bbc6a2e6b80997d53eae6f33b076c990474848294",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/dermatoglyphics-dentality.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/dermatoglyphics-dentality.png"
+        },
+        {
+            "filename": "dermatoglyphics-metalwork.png",
+            "length": 658877,
+            "sha512": "9561006f459e280c6817a6d17f24d441f38f577f79b14a316a189a7c923952eed14931f4d52067f00671dba9bb0c740a7c20aa56f10b29b53cffc3ba782acbf6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/dermatoglyphics-metalwork.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/dermatoglyphics-metalwork.png"
+        },
+        {
+            "filename": "dermatoglyphics-bilobiate.png",
+            "length": 180613,
+            "sha512": "6cf4bc1f01220c09b479a9a4be4bbe10524c014fa60e15efec2b020783901110c4fc0ff93361a353d407b68294f97457be8d5c7fa1d00ded25285e59c8b2e8fa",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/dermatoglyphics-bilobiate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/dermatoglyphics-bilobiate.png"
+        },
+        {
+            "filename": "dermatoglyphics-benighter.png",
+            "length": 553333,
+            "sha512": "99817e3c42b0c57b2a24a7234f202b59477aecad4b5c388c617f6297fd8797b4f5768459942553cb1c22d0ed7cdf2a94bc7d23cd43aa09316c90f430d3d522e2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/dermatoglyphics-benighter.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/dermatoglyphics-benighter.png"
+        },
+        {
+            "filename": "PUNKAH101I_illusive.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/PUNKAH101I_illusive.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/PUNKAH101I_illusive.rw.dat"
+        },
+        {
+            "filename": "PUNKAH101I_illusive.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/PUNKAH101I_illusive.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/PUNKAH101I_illusive.dat"
+        },
+        {
+            "filename": "PUNKAH101I_subinsertion.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/PUNKAH101I_subinsertion.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/PUNKAH101I_subinsertion.rw.dat"
+        },
+        {
+            "filename": "PUNKAH101I_subinsertion.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PUNKAH101/PUNKAH101I_subinsertion.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/7s8m_3u4/collection/allusers/PUNKAH101/PUNKAH101I_subinsertion.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}
