@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     description="Serverless Data Research Repository",
     long_description=(
-        "The Serverless Data Research Repository is example of how to \
+        "The Serverless Data Research Repository is an example of how to \
         host research data using existing services."
     ),
     install_requires=[],
