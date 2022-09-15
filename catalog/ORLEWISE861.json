@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) ORLEWISE861S",
+    "identifier": "ORLEWISE861",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-08T10:24:28.308446",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "sclerodermatous",
+        "Chrysosplenium"
+    ],
+    "manifest": [
+        {
+            "filename": "undersearch-chiliarchy.png",
+            "length": 532019,
+            "sha512": "cd8de9d8f772427a96f41fa6eff73da4e494d9a9237df8057cfb230d42caa48751ec9067ff17adb4d20c7a59e3e248b4fb1a1aa9b352b2fe972ca348471cc917",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-chiliarchy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/undersearch-chiliarchy.png"
+        },
+        {
+            "filename": "undersearch-androsporangium.png",
+            "length": 351461,
+            "sha512": "84d21613195e8370e75d78af1439cd7b5cac2ec32bb4b0e2de50d54870bf7397e4a240cd9dc688b25770e49d2f67f5c484fe65f151aaa097211decc8e07f338f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-androsporangium.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/undersearch-androsporangium.png"
+        },
+        {
+            "filename": "undersearch-seignioral.png",
+            "length": 255463,
+            "sha512": "366afb6fd89b7f61e35e6a3f2a3412fe5a90f4e0f145ee77be6af2308ca53c2f49ecab9c0198a058e3b3238385f2bd8cd40ef80dce73293c4582b9b8edf9524d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-seignioral.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/undersearch-seignioral.png"
+        },
+        {
+            "filename": "undersearch-anaschistic.png",
+            "length": 275642,
+            "sha512": "43262857df8591e3f418aa4d26b5d2f69ce09420f9b1b86ff100448931d4c279c605790960eb668e387ecfbcc24a159b80b2d713cc010bc6d89240ee6ed8b74b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-anaschistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/undersearch-anaschistic.png"
+        },
+        {
+            "filename": "whirken-douzieme.png",
+            "length": 625693,
+            "sha512": "dfd03bb916516360c9597e29a3300add715390cfc2bc3fd69a3a8d6cb82cfba73c10fb6bed6e573ade935a252f7fcaad39009524a10cdf790f97655e22770a65",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/whirken-douzieme.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/whirken-douzieme.png"
+        },
+        {
+            "filename": "whirken-placoderm.png",
+            "length": 503537,
+            "sha512": "d2b255c10ad71beb4bba4bd93acb46922cf4d40f72246cfaa86728b26cb5e961a23bfb2a56c76c2246d5e4d7e604e57c5ea6d73896dcf9873c543cb8e0f1a238",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/whirken-placoderm.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/whirken-placoderm.png"
+        },
+        {
+            "filename": "whirken-azide.png",
+            "length": 170865,
+            "sha512": "e4bd0936f2ebdf84be0688301b23e89fea6adb95b1dc4232a3bf97e1b7903a1fdcc6dd6a34da879232a38a2bb386ea4e24c0acfffdaef4b6636369cfd79ea977",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/whirken-azide.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/whirken-azide.png"
+        },
+        {
+            "filename": "whirken-kempt.png",
+            "length": 447139,
+            "sha512": "0c360ea0f67c70fa7309e8e2f2672e9fc61857d1ec5dd02091a35f74aed9f4ec00462134cca34296a3fecc48e7f933108e0448b972b10dfdcd1a32cf5bc313ad",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/whirken-kempt.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/whirken-kempt.png"
+        },
+        {
+            "filename": "dine-face.png",
+            "length": 523778,
+            "sha512": "a32622ae461f62677b316a2d2ae866c51d0db76d239c834b01dde406159d43f6a39bb0bd7fc417962f649e9bc05d119b5b822533fc26cc14b2f8d97e190cdc4a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/dine-face.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/dine-face.png"
+        },
+        {
+            "filename": "dine-plecopteran.png",
+            "length": 285104,
+            "sha512": "d259935ab60e354b3514015064df97cc7c6b5a29d73d05d6f44b8a9263b5b5ede36c7c6fd2edfbf36d790df3e06667c3fe5d3c31b9065f50ef88f8504f6d327e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/dine-plecopteran.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/dine-plecopteran.png"
+        },
+        {
+            "filename": "dine-Theobald.png",
+            "length": 33209,
+            "sha512": "f7e0d8b34f5f9638486504ebee768f57a85e3f6acb3d9b1f33ef5563c6c12041269a8320ab957a64cccd5ae44cca46dea532eb6469dccb43a26c76b1a98d403c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/dine-Theobald.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/dine-Theobald.png"
+        },
+        {
+            "filename": "dine-indeterminableness.png",
+            "length": 464388,
+            "sha512": "b025c443837d17831abe968268cb12379c5f78fa12a2d7d6d4bc11f315087bc5c8a5ad951bb7b5ffc0c576ec75badd9e811f71ef8edb1bcc8b80a150e0b96def",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/dine-indeterminableness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/dine-indeterminableness.png"
+        },
+        {
+            "filename": "desocialization-lactone.png",
+            "length": 599065,
+            "sha512": "76a0a1d370ba2e7917677b4af0760d19640a27cf3ad0d07fc92f2b0c9583119593597d30eaa53bce7c0fcae319b070e0267ae101ef526291d943fafd3f974fe7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/desocialization-lactone.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/desocialization-lactone.png"
+        },
+        {
+            "filename": "desocialization-Camaldolese.png",
+            "length": 496796,
+            "sha512": "e2521746f12205c44f624deeaf251660f41ef9877bc26c81aadce1c60c0120e3452f02d066146b67f5d38d37dba0cf0d35d5b662505ce60086b393c4a9f1aa42",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/desocialization-Camaldolese.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/desocialization-Camaldolese.png"
+        },
+        {
+            "filename": "desocialization-perisarc.png",
+            "length": 227739,
+            "sha512": "fc33e2d22ad5a3f8f667c3ef92a774141115125572e76b297f07eccd6978c51755127b0e183abf7785ac56e7c668d7e010f381ba3a10be883ac768b2496ed087",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/desocialization-perisarc.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/desocialization-perisarc.png"
+        },
+        {
+            "filename": "desocialization-fiercehearted.png",
+            "length": 537594,
+            "sha512": "a71d5131bb0cac3d1987d4c45dc23366a2cccd819ebb17895709a209f6c8edcd80933565c09acb24700a5c63f0d4727f75403d5f1af4e9b2e4fd7a4d714b748c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/desocialization-fiercehearted.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/desocialization-fiercehearted.png"
+        },
+        {
+            "filename": "gynecotelic-diethylstilbestrol.png",
+            "length": 638784,
+            "sha512": "6208fdf3f43c0e0f363e43a542e6ce8ea95411d8b2948b137f2f72331d73cdf8c00b74e5ecc748346d17bcc7c6b8a49ff4326d85cf01f4e0abed21258fa917e6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/gynecotelic-diethylstilbestrol.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/gynecotelic-diethylstilbestrol.png"
+        },
+        {
+            "filename": "gynecotelic-contravene.png",
+            "length": 362559,
+            "sha512": "7fe2589dfc936aca4c02bac5fd422d9dcdd20dd5ac8b53ebead9d2155f895d3bf301bc50dda5d06cd10a801dfa7ad5e52e31b12579f63a3a26261eafaa9cefa6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/gynecotelic-contravene.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/gynecotelic-contravene.png"
+        },
+        {
+            "filename": "gynecotelic-aerophobic.png",
+            "length": 150479,
+            "sha512": "4eb2ad10100854357ce2d715481937a557b64217b4643fde9f2e32124168e4fa2c65305a095ce0886fe6b21574f998bb51ead7fa27a1a67f4b458d55370cfa5f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/gynecotelic-aerophobic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/gynecotelic-aerophobic.png"
+        },
+        {
+            "filename": "gynecotelic-catchfly.png",
+            "length": 563631,
+            "sha512": "5c905c82a34b752e522f026c5ec063ecf882a1889079b82aadce2242ba20aa1bcf3baa3bf607c81dacfa4448e5e14a6cb87a208ac80961c48667e510d3960adc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/gynecotelic-catchfly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/gynecotelic-catchfly.png"
+        },
+        {
+            "filename": "agateware-quean.png",
+            "length": 553398,
+            "sha512": "5ba13f8d539e05dfc008d41f6f476b9dcb8125bcd422cc3d55ad0ef215d5eb674eac9113778a2ef2c08158665a25d436de47945f05e034acc94826c659245c9b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/agateware-quean.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/agateware-quean.png"
+        },
+        {
+            "filename": "agateware-bannock.png",
+            "length": 99082,
+            "sha512": "aff66f49149641e02275f14449b9c98b77af0bfdfa53cf136e3ecd09e91fbe49f26134079043471f5d05b0e1638d1638a1cedbedf49b2fa7d3488fe5d4afa90a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/agateware-bannock.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/agateware-bannock.png"
+        },
+        {
+            "filename": "agateware-linha.png",
+            "length": 278922,
+            "sha512": "9fac85a40a5cea2094f4fbb59b559efa6a987ad514f6e1a3068b5d03a279270c872351ee4c721f40ce7d292bdd85a7a374ae35e1f1203bd22c78f7d9eb3d387f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/agateware-linha.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/agateware-linha.png"
+        },
+        {
+            "filename": "agateware-Brooklynite.png",
+            "length": 512878,
+            "sha512": "e5307b0f38465950eb229bdfb254bbb344846e099e23d5c2e4888669f88fe18961d007b948b86096191fbde877d7e193f2046ba197241d90f24684ff4b4f9dba",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/agateware-Brooklynite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/agateware-Brooklynite.png"
+        },
+        {
+            "filename": "ORLEWISE861S_Orphize.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/ORLEWISE861S_Orphize.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/ORLEWISE861S_Orphize.rw.dat"
+        },
+        {
+            "filename": "ORLEWISE861S_Orphize.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/ORLEWISE861S_Orphize.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/ORLEWISE861S_Orphize.dat"
+        },
+        {
+            "filename": "ORLEWISE861S_morphetic.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/ORLEWISE861S_morphetic.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/ORLEWISE861S_morphetic.rw.dat"
+        },
+        {
+            "filename": "ORLEWISE861S_morphetic.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/ORLEWISE861S_morphetic.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/ORLEWISE861/ORLEWISE861S_morphetic.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) BOUNDEDNESS285G",
+    "identifier": "BOUNDEDNESS285",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-08-30T03:17:24.767050",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "inflame"
+    ],
+    "manifest": [
+        {
+            "filename": "beveil-infinitarily.png",
+            "length": 538759,
+            "sha512": "50f9d095c2f48729e3830cb35e0ef9e6fb2a308710b15c19f30647aba1ae7f8bbd6bacd4ea2305141af8e93aeb0007eac25cf89aaa9316f8ee8434fc76efebc7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-infinitarily.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/beveil-infinitarily.png"
+        },
+        {
+            "filename": "beveil-anapaestical.png",
+            "length": 442923,
+            "sha512": "884925bf9f401b020935d5ca483fd7ef87df30e31408ce5b6523330738149394dca847be22c60383ce511ce9aac10aaea467f4664bc74d1d6188c4a563db5881",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/beveil-anapaestical.png"
+        },
+        {
+            "filename": "beveil-Gleditsia.png",
+            "length": 26155,
+            "sha512": "2b388046e0e34f39e5b351e6a663cef9ce997289d0a7f592798d2aa266fc106dee27410f00de506bd4eb3df147b4aa033c4234ea84e1df6aeb84bc2133467850",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+        },
+        {
+            "filename": "beveil-faulter.png",
+            "length": 404098,
+            "sha512": "269759bea58a84a9dbd29e5767c3eb796d4fe1739d5eef2f65bca3a83304bf6171c02c40dfe28f4b0155454dfadcd3efb3c0ee73cf17a31398c2b9a25692e901",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-faulter.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/beveil-faulter.png"
+        },
+        {
+            "filename": "pressable-inpayment.png",
+            "length": 568806,
+            "sha512": "691d04e4d8d4c8f7513bdbcb9f5be2697d8a5092361656ac75c8bca290e441bc8bab0e68a364d66b0fbba643e0b87f6e725369405fd67ef6f5b7568adec908ce",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/pressable-inpayment.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/pressable-inpayment.png"
+        },
+        {
+            "filename": "pressable-nonadditive.png",
+            "length": 419442,
+            "sha512": "4bd311291fc6e575d0bae1fc0e58ba75590605c3919a14a6fb31783ef8ea6caaf790ec952358e3b065f1f837fc2974264a0ed931cf8dd3aae3304afd59611459",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/pressable-nonadditive.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/pressable-nonadditive.png"
+        },
+        {
+            "filename": "pressable-uncorrelated.png",
+            "length": 215985,
+            "sha512": "7333f751efb602f166aa4caee8bbc468436c35ebe7625bd0d22565e13e04a865d006fe4217b065d7caa9c1860c2cdd2c52e463c1fec898a2e3db8d5a8a9d5076",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/pressable-uncorrelated.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/pressable-uncorrelated.png"
+        },
+        {
+            "filename": "pressable-vesiculigerous.png",
+            "length": 484525,
+            "sha512": "cbc355b1d61298c111f8e304716c7fb6ee749eaeceacdd5823fc6487a4c899494598a31ff082685cd7df4a978f37f55bf4ba161fd3d704a55f056d8067ac52e4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/pressable-vesiculigerous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/pressable-vesiculigerous.png"
+        },
+        {
+            "filename": "hebetative-orchiopexy.png",
+            "length": 579379,
+            "sha512": "efe0e921af5b95ecc3aed78031aae1a903028dbf9c41e04bfbf43c871cd3b200594bc7b8098d276e54a30c57af4294bc9c83719400155a568f7360545560d809",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/hebetative-orchiopexy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/hebetative-orchiopexy.png"
+        },
+        {
+            "filename": "hebetative-micron.png",
+            "length": 253805,
+            "sha512": "eb8c9c277274a2c26181b46c3a260caaa95ff92085af690ccd41af05a9c8d9d19ac984a407d6b1005dab3ed770b7e9c39da053a792081e8128e89f1c906a0ec1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/hebetative-micron.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/hebetative-micron.png"
+        },
+        {
+            "filename": "hebetative-tressured.png",
+            "length": 249829,
+            "sha512": "b18754ae7c5cb3d07d6d7a5ffe02daee62071d7da12cebc0a0ed3c728d3241c0f4780ebb2dd55d166484a1b7aca84c83b556dadbd7d7f864e1b00d2ca1c72fde",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/hebetative-tressured.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/hebetative-tressured.png"
+        },
+        {
+            "filename": "hebetative-downdraft.png",
+            "length": 292555,
+            "sha512": "46c26f804264062da8d5f1d25d62429abb37d8bd3c15ca830ad23af7f2e4bf8ff52f0f1ea1a785aad89ab3316784ef7f5556b4110bc97a5119f3e2897fdbde14",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/hebetative-downdraft.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/hebetative-downdraft.png"
+        },
+        {
+            "filename": "redefine-marbles.png",
+            "length": 594215,
+            "sha512": "7dd0e99c937d80cf5a6a57da3fd75836fa5ef5e6fc0b5eb74b29660c779ad25630a4a8c08e515f8dedf5a53b78948cdc630ba2e6e6eeb12895c0e26b4e60bd1a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/redefine-marbles.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/redefine-marbles.png"
+        },
+        {
+            "filename": "redefine-arbor.png",
+            "length": 482149,
+            "sha512": "812513452feb92fc0122b6f9d16b28fe9907e503959e59105a0ded58799835ad854b5de25358396925af689374958807dd603707b6c12b4736477966b2808a7a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/redefine-arbor.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/redefine-arbor.png"
+        },
+        {
+            "filename": "redefine-unceremonial.png",
+            "length": 191396,
+            "sha512": "10c255c81107cec5de2b5854a17fdd6722ae059cbfe80efbb959d176137b8b15458ea6155c4bb6af7fd4e7b842b25098d80115d833e633f18f542bcc8aba6045",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/redefine-unceremonial.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/redefine-unceremonial.png"
+        },
+        {
+            "filename": "redefine-quietus.png",
+            "length": 502166,
+            "sha512": "4175c5bba3796596997cbea8cdfb4f2815bb786dbddff9492e29da3f5a886f674964466f0a91f238c61d072b942a957348e915a8a26114ac0efe8e6d5bb77acb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/redefine-quietus.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/redefine-quietus.png"
+        },
+        {
+            "filename": "resitting-strawstacker.png",
+            "length": 503646,
+            "sha512": "a1dcb3e3e0a72cce00974b183e6f73941a3da5a71109c96f4a9fee00db6c52d1cdc9b01f6af120c7fa123140ca2b21c91344dbbf0e6a67e42bb05f0283f6f87c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/resitting-strawstacker.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/resitting-strawstacker.png"
+        },
+        {
+            "filename": "resitting-conductional.png",
+            "length": 377706,
+            "sha512": "5fbef690d3029ab64490f403b5fdac2feae1dadf98da68fd2e1bd47af40f7c50718789ace887b349d8436d64f378c3323f3c2a731201c7d7f01e6dafd019faed",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/resitting-conductional.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/resitting-conductional.png"
+        },
+        {
+            "filename": "resitting-fulmination.png",
+            "length": 256364,
+            "sha512": "bcc7ae8730793f957173d704c54ef3e50b4ae8cf71a6875167b762f37c136fbd79da908200641cb97f3a58c7f9394b05807b42a54c20f0482f7e39b8a6527799",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/resitting-fulmination.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/resitting-fulmination.png"
+        },
+        {
+            "filename": "resitting-unpeered.png",
+            "length": 388130,
+            "sha512": "e1bf49ea98ecd3f9ef79983bd9c946fe854c462cc591c43f0bdff561d705d80ce1b85a9d35cdb803ab7185c8178ccc64bf82d85087485f2267cbea889a2bd84b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/resitting-unpeered.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/resitting-unpeered.png"
+        },
+        {
+            "filename": "gastraeal-arbutin.png",
+            "length": 717743,
+            "sha512": "485bac8842612b885a4c4657b1e31505390a79358864a5ca37a59e236ffe01e5c64954ba0e7fb9290f21d1c97f6bdab0d2cc4bbdb6e9434cb28d0bb54e788e7f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/gastraeal-arbutin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/gastraeal-arbutin.png"
+        },
+        {
+            "filename": "gastraeal-sundries.png",
+            "length": 609538,
+            "sha512": "9b2e0f5e56ca21ec63a85727437ae97d2d1e9a763b05dd526c8c68c0de2063a1bcb53b8c030f24ec5fbc22026e2855723f5cdd68a2e117ba3a735e482399cf1d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/gastraeal-sundries.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/gastraeal-sundries.png"
+        },
+        {
+            "filename": "gastraeal-stenocardia.png",
+            "length": 145996,
+            "sha512": "305ea6c54a84d3f931cf51a3257b122876b796a56a24972ed1948190d318f09aa520a4c975b44792e4c26272460ec997e8fb5ea39509767227c936292110d929",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/gastraeal-stenocardia.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/gastraeal-stenocardia.png"
+        },
+        {
+            "filename": "gastraeal-wageworking.png",
+            "length": 453819,
+            "sha512": "9b1eb773a8ee83591fb977d691bd68b04eec805a70316586969404d1d9c7dc883df3a7e3e99447ecfc7a817bf9c28c7aa68d01be1b2f4e08b21d39967fb3bfe4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/gastraeal-wageworking.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/gastraeal-wageworking.png"
+        },
+        {
+            "filename": "BOUNDEDNESS285G_unpolished.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/BOUNDEDNESS285G_unpolished.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/BOUNDEDNESS285G_unpolished.rw.dat"
+        },
+        {
+            "filename": "BOUNDEDNESS285G_unpolished.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/BOUNDEDNESS285G_unpolished.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/BOUNDEDNESS285G_unpolished.dat"
+        },
+        {
+            "filename": "BOUNDEDNESS285G_quadripartite.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/BOUNDEDNESS285G_quadripartite.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/BOUNDEDNESS285G_quadripartite.rw.dat"
+        },
+        {
+            "filename": "BOUNDEDNESS285G_quadripartite.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/BOUNDEDNESS285G_quadripartite.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/BOUNDEDNESS285/BOUNDEDNESS285G_quadripartite.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "public",
+    "groupname": "",
+    "groupuuid": ""
+}

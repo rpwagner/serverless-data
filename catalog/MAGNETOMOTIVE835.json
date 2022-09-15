@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) MAGNETOMOTIVE835Q",
+    "identifier": "MAGNETOMOTIVE835",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-06T09:18:32.431044",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "sclerodermatous",
+        "inflame"
+    ],
+    "manifest": [
+        {
+            "filename": "smoorich-immew.png",
+            "length": 559623,
+            "sha512": "e4b92eacf013205bfd04aa2a79641fc3adf019df63296310d258a4dff4b0dca0344fc45cc1dda17f48e71df700a53c103c119cbdead49266541593509089a647",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-immew.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/smoorich-immew.png"
+        },
+        {
+            "filename": "smoorich-beduke.png",
+            "length": 426560,
+            "sha512": "427ed3a40bd058109e555ce7a07748a8243147d425684b871ecf1e1538ccf25bc4027a0412ed7b75c40a0368c1e77aeea27e8016aa89d53a525d6e59dfa941fd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-beduke.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/smoorich-beduke.png"
+        },
+        {
+            "filename": "smoorich-Lutianus.png",
+            "length": 283247,
+            "sha512": "add6faa3c3223750d4b217a26e7dd439d310b04c022c4f7d1e7ab13ea4a2c83639e921f80009ec6a9d44bc4e4cf2b5cdb0407cc90a0e4bc231b508c118a983ef",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-Lutianus.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/smoorich-Lutianus.png"
+        },
+        {
+            "filename": "smoorich-elver.png",
+            "length": 285230,
+            "sha512": "df0b2fbf1779d053266cc91683f2b69a1145af48b43249a7860033365a0cb3d1ef9506c2f9b556ebf69b9586919139dbaf3f4a7e20fde8530775aa75dae168ec",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-elver.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/smoorich-elver.png"
+        },
+        {
+            "filename": "Bogomilian-incognizance.png",
+            "length": 605146,
+            "sha512": "226b933baa4667f6d167a61c67a4e1e4979473ae835861d59aefe1bb5904a42a623c1ddf807a5826fc923bb743214712fd5b381e7245ecb516a3379d86a5e705",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/Bogomilian-incognizance.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/Bogomilian-incognizance.png"
+        },
+        {
+            "filename": "Bogomilian-parasitologist.png",
+            "length": 535498,
+            "sha512": "4859f87739d198e46b004118bfcb765e3d272cfa5446cbfce9dd71db81fcc4ef6a7f44f953270f616c42b6ca93c26cd956f59191a5430e2515a998a0d14c0f25",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/Bogomilian-parasitologist.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/Bogomilian-parasitologist.png"
+        },
+        {
+            "filename": "Bogomilian-bronze.png",
+            "length": 226196,
+            "sha512": "77b9d3904cb2f4dc078fcffff7d965ccaffc5d8bec9af384a6ddf447078fcdcf3fe5fc36af3ba0a3ba84d4f56f2bc744fb44366e53fc9ad53d9a1615322ae0b9",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/Bogomilian-bronze.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/Bogomilian-bronze.png"
+        },
+        {
+            "filename": "Bogomilian-metochy.png",
+            "length": 378873,
+            "sha512": "0b01e283fe968bc186de43667fb0e0fe986e836dcf86bc9d5175a0a1a2e6f84d0551a41218ee5b660f9d9922ce281be79a3acffb8a7d510647e3130d812bb5a3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/Bogomilian-metochy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/Bogomilian-metochy.png"
+        },
+        {
+            "filename": "persecutrix-cosmicality.png",
+            "length": 699470,
+            "sha512": "323c5d1d24ea65f6fef209b97ef97fce894b76d7b4359888ef2d5e65793a4967fadf3191e0071618b2387355285be679cca04e53eb09c54b3fe10572ddc58784",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/persecutrix-cosmicality.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/persecutrix-cosmicality.png"
+        },
+        {
+            "filename": "persecutrix-alcoholytic.png",
+            "length": 379964,
+            "sha512": "1f6d957affd7a84b106b06bbaf1b3a3b9ba1f70e8b61ebd7b25fe2954436b3a0cd1112677a64a2e16deee6f5a67c4335fdb735c4101e42d787be3d617d5846f3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/persecutrix-alcoholytic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/persecutrix-alcoholytic.png"
+        },
+        {
+            "filename": "persecutrix-broody.png",
+            "length": 62023,
+            "sha512": "f896dc8b26af9ee11a711cc4baec23d8c75b52d0696182575d1aaf2d20c309c25642b90ddf61ed1f3bf74b04e94e3be83e730d3ee45134b71e1481e813b41a03",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/persecutrix-broody.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/persecutrix-broody.png"
+        },
+        {
+            "filename": "persecutrix-tearlessly.png",
+            "length": 143255,
+            "sha512": "fccab3efc8575fcf118c2432d78eac1a0d269f4a4298f96583eb283790c92c804fe58e44a646300da5bdfd7ec44bcd7c4b44a34d1492aca584caaa29fa62e135",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/persecutrix-tearlessly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/persecutrix-tearlessly.png"
+        },
+        {
+            "filename": "nonelopement-clangful.png",
+            "length": 564641,
+            "sha512": "f3103628e7079910debf264107804d2c0e8d563d4e324371950bbcad617be887ad61698e8824fedb1c4f8213bca0ca86d19cb0bab12992b8326b8210097286cf",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/nonelopement-clangful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/nonelopement-clangful.png"
+        },
+        {
+            "filename": "nonelopement-exogenetic.png",
+            "length": 434388,
+            "sha512": "ed7bc826a1077217d51ae5ccf14a6b3695d4649e70d497338530bc82cb53281d05b8250426677af67a21fb701b16c3eb932a366f9ad3708f16f6f580fd58d559",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/nonelopement-exogenetic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/nonelopement-exogenetic.png"
+        },
+        {
+            "filename": "nonelopement-enterochirurgia.png",
+            "length": 210815,
+            "sha512": "5afdcb4d108315736f8e5ce1fbce5a81ba94a8bccba9e3ef71605319cd316cefd6acb9ceb2098734bb94ada6e7565bd53e9b0bc7d5997c07bb6ed75b959c95e4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/nonelopement-enterochirurgia.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/nonelopement-enterochirurgia.png"
+        },
+        {
+            "filename": "nonelopement-saddlenose.png",
+            "length": 269122,
+            "sha512": "4184b0c519833243e2cd30f1607df08ed25f4eab15ac903c4924b27f40c92217316d308e5c5b0571fbb3b56809818f4f86a8d7b111b76fc1ac48025d7ca57dbc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/nonelopement-saddlenose.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/nonelopement-saddlenose.png"
+        },
+        {
+            "filename": "leaflessness-acanthopomatous.png",
+            "length": 538319,
+            "sha512": "213d3ed130b48d3ac72eac62b90590242a9dc87fee5170a9ede84e5ae5e582060fbae0a736c667987085c203fc53fbfbc33831156bf57ee4e7ce48e3b16122fc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/leaflessness-acanthopomatous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/leaflessness-acanthopomatous.png"
+        },
+        {
+            "filename": "leaflessness-briskness.png",
+            "length": 447573,
+            "sha512": "319f8146e2b1359e5253649072387da8d290d200205af90d8baeadd977b2c631d1360eb45c4986880883eeff5c8811ee0b31be9bda8d2c5872e03f93ffa6d746",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/leaflessness-briskness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/leaflessness-briskness.png"
+        },
+        {
+            "filename": "leaflessness-transire.png",
+            "length": 27997,
+            "sha512": "633b2597262481b505ca36e6571a387ef268d43a7dfe66af26b26a5661ecb9fd796fb5cfd049bfb564685492808d62dd332b624324a53526c30772aeeba8e636",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/leaflessness-transire.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/leaflessness-transire.png"
+        },
+        {
+            "filename": "leaflessness-ancistrocladaceous.png",
+            "length": 416587,
+            "sha512": "738d018fd082e44d64e2f293e54fd504094574dc9dccf38e3541071d1724f2efbb42466eeb5ab1cfb663ef9a18f12683c9cb9f55e307caca0cc3214be46f8ceb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/leaflessness-ancistrocladaceous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/leaflessness-ancistrocladaceous.png"
+        },
+        {
+            "filename": "enthusiastic-Pyramidalism.png",
+            "length": 608018,
+            "sha512": "8e245a19ed8027ae8895d990dbf1efbe5ae0132224105f7541ebc717f4185756f732e4016a8cae0066ecb0bde1696e2ab74f62f22b96e0dd928a4bcaf6e74d4f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/enthusiastic-Pyramidalism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/enthusiastic-Pyramidalism.png"
+        },
+        {
+            "filename": "enthusiastic-overrigorous.png",
+            "length": 337024,
+            "sha512": "40d97fe0fe112c027bb58f4eabedfbaec17280857a4e9e782cdf44fb144882be85e1670997afad81c5cb4aaf48e669c536339eafb4f7b5b6b2ba0106dfabb427",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/enthusiastic-overrigorous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/enthusiastic-overrigorous.png"
+        },
+        {
+            "filename": "enthusiastic-atis.png",
+            "length": 144907,
+            "sha512": "9647c404e773431ad799286c6e5284132e3db02ef9c19f7e63ee6f6257e7fcfe2767ebb9cf8cfbf4d2680cb34b4c208316028a374cc84330c7b83b9b2fdc2830",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/enthusiastic-atis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/enthusiastic-atis.png"
+        },
+        {
+            "filename": "enthusiastic-jedding.png",
+            "length": 326480,
+            "sha512": "889c9030587326f4beedbe940d049b34e0740f569ae3559921b18dcd4858b0e97d19b03e1518710eb3ed6186bab3a60621c391905ad829489a975de72b8ff418",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/enthusiastic-jedding.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/enthusiastic-jedding.png"
+        },
+        {
+            "filename": "MAGNETOMOTIVE835Q_haulageway.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_haulageway.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_haulageway.rw.dat"
+        },
+        {
+            "filename": "MAGNETOMOTIVE835Q_haulageway.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_haulageway.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_haulageway.dat"
+        },
+        {
+            "filename": "MAGNETOMOTIVE835Q_pachychymia.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_pachychymia.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_pachychymia.rw.dat"
+        },
+        {
+            "filename": "MAGNETOMOTIVE835Q_pachychymia.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_pachychymia.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/MAGNETOMOTIVE835/MAGNETOMOTIVE835Q_pachychymia.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

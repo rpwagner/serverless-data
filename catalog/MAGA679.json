@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) MAGA679S",
+    "identifier": "MAGA679",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-08-29T04:35:39.938612",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "Chrysosplenium",
+        "inflame"
+    ],
+    "manifest": [
+        {
+            "filename": "transformistic-divinization.png",
+            "length": 536817,
+            "sha512": "376baa50791fade8cd93e08b608ece5a94f9e176798261c4435b2bef38f9e75b6458e542f7a780939b3ac2a24d1c380e40fbb510ca1ca6519dd57da051d1342b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-divinization.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/transformistic-divinization.png"
+        },
+        {
+            "filename": "transformistic-renegado.png",
+            "length": 396127,
+            "sha512": "1043b9bb7448fadd290770f42f4da27571c7f3ac9b0206088ef9953c0d3bd5358ef50b023773d2beaad64a040be3eba4ef01f99ec126ab959edb9bcb8e8a1a2b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-renegado.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/transformistic-renegado.png"
+        },
+        {
+            "filename": "transformistic-cofaster.png",
+            "length": 245562,
+            "sha512": "b1c996502daa4cb881b278b1c35ad2f08517103d0621393654c166be89dadb773ff63c1852c2cd6b281f094efcbf98727aefd72cf6d49d2d2f0f7ef53df2d559",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-cofaster.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/transformistic-cofaster.png"
+        },
+        {
+            "filename": "transformistic-conirostral.png",
+            "length": 418356,
+            "sha512": "8368c8cc46de1beee2c8353a2e29670ab12698d0acf097dbd1b835dc23b30c4a385c7c12ffc1d3255ee51620b67cbf260eb38d0152c3a1e9c275403f847858a1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-conirostral.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/transformistic-conirostral.png"
+        },
+        {
+            "filename": "sanguine-gluemaking.png",
+            "length": 708873,
+            "sha512": "e60ba20efdf0e5139f00bb5a8764dcbf8110b5e4fae22d622865e3be8b7e6c1c8b50978d2015b9158959adbb5153019c299f5847679ab87cc241310b22c164e3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-gluemaking.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/sanguine-gluemaking.png"
+        },
+        {
+            "filename": "sanguine-basiparaplastin.png",
+            "length": 128702,
+            "sha512": "c6e1646b4524eb0b22904148568bad2d38dd5165ae85511ecb3dae39d5be885f9786e577e4657a2361ddb2bc35699121b20b68866e156eb09a6df26c05b0103b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-basiparaplastin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/sanguine-basiparaplastin.png"
+        },
+        {
+            "filename": "sanguine-interwar.png",
+            "length": 39856,
+            "sha512": "ff3b0e4c78563638378031d3e45182183d1ff95473ca2c262cf134f03cca01196620f0561e2bdd8fbe32e3fb9572ea8e5b7d5f653eb9d6c4d0e4d88ec2d9a027",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-interwar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/sanguine-interwar.png"
+        },
+        {
+            "filename": "sanguine-melanorrhea.png",
+            "length": 598734,
+            "sha512": "4694708edd563176c8cb95190c58f23ae264d6858d3af90688937d726c438b28d6bcb6a9665cac765d99692f922b62ac38aa6c3dba4a987d35e77336a04a70ce",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-melanorrhea.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/sanguine-melanorrhea.png"
+        },
+        {
+            "filename": "charbon-unjustled.png",
+            "length": 545014,
+            "sha512": "1db8a7043193dad95020c470b7eb47deb65fd1687db43e8b517fa494ea99eee033e2888c0073dabb117a47e91061ff898a5ff792e9934a73880ab3e6ac91d354",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-unjustled.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/charbon-unjustled.png"
+        },
+        {
+            "filename": "charbon-turgid.png",
+            "length": 330039,
+            "sha512": "a0c2a910f89ac2edfd0132ec8e0aa588e079acb734b2dfd11330e6ed93b848148c24d06a3fae647f15fda3e69f04612ca760a85a11b6118ade1231e7096b997c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-turgid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/charbon-turgid.png"
+        },
+        {
+            "filename": "charbon-deforce.png",
+            "length": 22927,
+            "sha512": "56e0ba06a3f57fb1cc7308e95b517d88e8153a1784985ce7b075d1a3c6ba724ebb1c7c18979e14aa98fd64ad875221f22d5c676bc524e7ad1cac14707e2e41ad",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-deforce.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/charbon-deforce.png"
+        },
+        {
+            "filename": "charbon-histoid.png",
+            "length": 584696,
+            "sha512": "dc93a83bcf3a171e9d6640763e2162df867cf5799e60ffa9cc22c85444c80d971e1d1bceec67ca6af230b4ca2d63739ca469440526e895803cb348118f34d39d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-histoid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/charbon-histoid.png"
+        },
+        {
+            "filename": "misconduct-proclaiming.png",
+            "length": 748063,
+            "sha512": "d584898c723acaf8654b2307414a3390f1a911e6d3091905565fd71d5bab1fee34174fc7266d77a5eb222f4c9ac579077fbc847e2aeda77b425e04df2d2ab2d5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-proclaiming.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/misconduct-proclaiming.png"
+        },
+        {
+            "filename": "misconduct-unmockingly.png",
+            "length": 577154,
+            "sha512": "dac01e221b406e4a5c6244fd849b599ad4c5f46193b0a370b3fe641dffdfe9b6b141a8a161ee8e3bd43b13882f343b9f2d1aca01ecbc59dce2d663dfe138c768",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-unmockingly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/misconduct-unmockingly.png"
+        },
+        {
+            "filename": "misconduct-Rajendra.png",
+            "length": 193114,
+            "sha512": "ac58f87b8b8ed8538a8c378ca7500c0d43f77474bce7441cd1d21f77c82633c88cf56eaa7be1f1e68d7fa0a45d4d5633e9f50ed22608e0e3294a763dcc7a26e6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-Rajendra.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/misconduct-Rajendra.png"
+        },
+        {
+            "filename": "misconduct-systemless.png",
+            "length": 762570,
+            "sha512": "77db688019aa22afbb1a71ef75436e093e5b00354b0980ec3b5ef3225e1cd129a67236838cb401010296a060afdbacc26c55e01c692e3235116b44b65fe646c9",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-systemless.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/misconduct-systemless.png"
+        },
+        {
+            "filename": "Herbartianism-bipyramid.png",
+            "length": 802722,
+            "sha512": "5e21ada6d8208c1786864e7561ba55348f580d86978dc62f1e36eabd6ff964560a2d116b038cb01246cfd865bc7656f25f0a9e312a9e90cc727dfc1a309045f0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-bipyramid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/Herbartianism-bipyramid.png"
+        },
+        {
+            "filename": "Herbartianism-spatialize.png",
+            "length": 522121,
+            "sha512": "f4074c69a591c60acc64d4d4e6a7eb52f7c9b7ac80a69da2eccb4a6f01ccb330424b05593dd70bb36cd3f6ac414ca9faf22456806f95c7d5b960f14cb41b6078",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-spatialize.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/Herbartianism-spatialize.png"
+        },
+        {
+            "filename": "Herbartianism-incavated.png",
+            "length": 222615,
+            "sha512": "19a8911c8483af50866e95846a36e5996d871d2cd4524fa642663987c53322659c69436576e35b90d11306b5b84b7731b2461fa63089d12a94d8807c6ce33ad9",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-incavated.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/Herbartianism-incavated.png"
+        },
+        {
+            "filename": "Herbartianism-otkon.png",
+            "length": 497423,
+            "sha512": "47db0f0e47632af6891db75c7254e5e825c496fbd2ef292a95d7ed3fe9a0b0283b54bc1720d01ec287299eb472a774a843d33e8af803873ddef2411a2d96f7dc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-otkon.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/Herbartianism-otkon.png"
+        },
+        {
+            "filename": "clinograph-Curucanecan.png",
+            "length": 748482,
+            "sha512": "d771679ae247ae61d006b7dc75d68ff37a57984f345b3d816b7182049dee476e4f32ba884b8c82d8c8fa887a333964b59c7c11fe64504759484d07b00ea2518f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-Curucanecan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/clinograph-Curucanecan.png"
+        },
+        {
+            "filename": "clinograph-anconad.png",
+            "length": 800014,
+            "sha512": "4fa8828e1df2cad6cd1f8a7d3f8cf9e95f4350e1b9d951e888f4ff382598085c2347191b895c7e55bce83905abca6f10e59d14b5b40c52f7e1e9d922a47a8408",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-anconad.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/clinograph-anconad.png"
+        },
+        {
+            "filename": "clinograph-mucluc.png",
+            "length": 238999,
+            "sha512": "c0458afc3b874da0c96df163e077c16a3f0b3e252c036cb8d1127a9afaf8fecefca02c94a3a462cde7bb1d647cb4180d6cee4d0822ec521d6c9e216feb6460b4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-mucluc.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/clinograph-mucluc.png"
+        },
+        {
+            "filename": "clinograph-peculiarsome.png",
+            "length": 619723,
+            "sha512": "999d812c51419b3d449d1974824454beff333879df50e212cf26ac81cf3aa7ed7fa694822d816fbc4376f22dcd3a4b677ffcf3f6e24d5128f49740693c1b734f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-peculiarsome.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/clinograph-peculiarsome.png"
+        },
+        {
+            "filename": "MAGA679S_discontiguity.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_discontiguity.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/MAGA679S_discontiguity.rw.dat"
+        },
+        {
+            "filename": "MAGA679S_discontiguity.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_discontiguity.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/MAGA679S_discontiguity.dat"
+        },
+        {
+            "filename": "MAGA679S_knavess.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_knavess.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/MAGA679S_knavess.rw.dat"
+        },
+        {
+            "filename": "MAGA679S_knavess.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_knavess.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/MAGA679/MAGA679S_knavess.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

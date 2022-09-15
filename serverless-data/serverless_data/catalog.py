@@ -20,19 +20,13 @@ class Catalog(Citable):
     def _as_markdown(self, h_prefix = ''):
         md = super()._as_markdown(h_prefix)
         if self.datasets:
-            table_name = 'Datasets'
-            dset_headers = ['Name', 'ID', 'Creator', 'Created', 'Number of Files']
+            md += '## Datasets\n'
+            md += '| {} | {} | {} | {} | {} |\n'.format('Name', 'ID', 'Creator', 'Created', 'Number of Files')
             dset_rows = []
             for dset in self.datasets:
-                name = '[{}]({}.html)'.format(dset.name, dset.identifier)
-                dset_rows.append([name, dset.identifier, dset.creator,
-                                  dset.created, len(dset.manifest)])
-            writer = MarkdownTableWriter(
-                        table_name=table_name,
-                        headers=dset_headers,
-                        value_matrix=dset_rows,
-                        )
-            md += writer.dumps()
+                name = ' [{}]({}.html)  '.format(dset.name, dset.identifier)
+                md += '| {} | {} | {} | {} | {} |\n'.format(name, dset.identifier, dset.creator,
+                                  dset.created, len(dset.manifest))
         return md
 
     def as_json(self):

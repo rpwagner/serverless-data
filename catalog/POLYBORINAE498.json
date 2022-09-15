@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) POLYBORINAE498S",
+    "identifier": "POLYBORINAE498",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-08-24T22:45:32.522276",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "sclerodermatous",
+        "lecama"
+    ],
+    "manifest": [
+        {
+            "filename": "Marsiliaceae-anklebone.png",
+            "length": 669622,
+            "sha512": "081a6d373f23db7cdd571116a16be07b1bf775f18bc3c1eb64c5c23d161b6ca93cbab6eb9cb6067c2160b137e3fa24c187cea928143c943cb0616934a7d27aba",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-anklebone.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/Marsiliaceae-anklebone.png"
+        },
+        {
+            "filename": "Marsiliaceae-Pramnian.png",
+            "length": 418019,
+            "sha512": "05e43d540b52ce304d54ad66d2fd4259f0f9ca79360ec31d0e31b89c898d05c640bc3fa5960b86fb0bf54f28f0055893c63ddf64f730c69aee041a6e84083716",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-Pramnian.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/Marsiliaceae-Pramnian.png"
+        },
+        {
+            "filename": "Marsiliaceae-navar.png",
+            "length": 18207,
+            "sha512": "2e768a0c42eaf9718016519260f3e44e7ca8c8ae59edfb3c538ae741da261ddd9241553f389aa2ef767abf947c09b8ff19dab6a066c00fee04d41e64264d0211",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-navar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/Marsiliaceae-navar.png"
+        },
+        {
+            "filename": "Marsiliaceae-photophobic.png",
+            "length": 620111,
+            "sha512": "dcaaeda76e1b81c1b2f154437b0d03a64dbd0a12ef0033a766ec6b502569ba824110372e1a7bdde8420fc80971d4f913ea391180c667c70db6f3a3c47db5c873",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-photophobic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/Marsiliaceae-photophobic.png"
+        },
+        {
+            "filename": "grandiosely-draggle.png",
+            "length": 540861,
+            "sha512": "50db74499abb9a6c59ceb5998f708e86db8ffd37373c77865c5d33ea06add290cdead18fa84d4172c760bc8f5f35592ff718fc9983a61dedc7303c31f3c0922e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/grandiosely-draggle.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/grandiosely-draggle.png"
+        },
+        {
+            "filename": "grandiosely-chivey.png",
+            "length": 135780,
+            "sha512": "308a9a437f0b26076788bfecd69f99df282602503b59af23fb0f346a31a379b3b1034a3b8e5e4103c78e88a9e6dd969e7b71a4ef2fdcf855375d136073e146e2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/grandiosely-chivey.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/grandiosely-chivey.png"
+        },
+        {
+            "filename": "grandiosely-tyrocidine.png",
+            "length": 148817,
+            "sha512": "5671d82dc79d27bb2480364cb06412a0aca43a67cd036b7144efa2af5fc60a78f7183178a1ef79321f03a16ca6e9aa5d7df8f0115ec9b2c628eb4110b38e31f8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/grandiosely-tyrocidine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/grandiosely-tyrocidine.png"
+        },
+        {
+            "filename": "grandiosely-neurotrophy.png",
+            "length": 288247,
+            "sha512": "ecaf75a63c32528304e8166e90e24f428e4436ec8417611a14bd8020b4b798c40ef5b6735ed105ced0e98b0b9ee815b97831af0a0fede76cd99dd43cb9a39540",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/grandiosely-neurotrophy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/grandiosely-neurotrophy.png"
+        },
+        {
+            "filename": "rostrocaudal-unreputed.png",
+            "length": 522009,
+            "sha512": "5ab3ab8efacd9fc93f089e00973f961851f0cedeb9e3cfb4779a50f40350abee790db108b44e2ce0e2d7937d370fbaaeeb050c8eddc10a784942d9d4596be57a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/rostrocaudal-unreputed.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/rostrocaudal-unreputed.png"
+        },
+        {
+            "filename": "rostrocaudal-hemstitcher.png",
+            "length": 67783,
+            "sha512": "44f1f15e0bfcaa4b60216f1199e9da795e5b42ce7744edeae73b7670ce55656e07c2daba30d1dfbd1fb79bb0cebfdea7218c239709401dc991f90038de595014",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/rostrocaudal-hemstitcher.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/rostrocaudal-hemstitcher.png"
+        },
+        {
+            "filename": "rostrocaudal-fix.png",
+            "length": 242282,
+            "sha512": "f1f56892a2e472f72b852bf487d19465da3841b8b95eba8ff709187f4756ad43ff8e6fb1672784ee0c4b74a92837c02933ece55ac0fd5350ed3e589978ca71e1",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/rostrocaudal-fix.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/rostrocaudal-fix.png"
+        },
+        {
+            "filename": "rostrocaudal-retrocurved.png",
+            "length": 490707,
+            "sha512": "b97d42be9d9bbe4fd339526aeac292db25165f4682d3efb1e3a91e5dfe7d3c0fa976466982845e06fc9544681c5b4ea7e0548da152a4766e25193fd2ee674c65",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/rostrocaudal-retrocurved.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/rostrocaudal-retrocurved.png"
+        },
+        {
+            "filename": "eyelessness-tantalizingness.png",
+            "length": 576451,
+            "sha512": "d79de974f61861e69d3e3da41b8fd2cb613152444d1a1cd4cea846ec72d2bed0e5c5b1e6e863af942421c7e0afd585013aedae3c35183ace9746bc0819607899",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/eyelessness-tantalizingness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/eyelessness-tantalizingness.png"
+        },
+        {
+            "filename": "eyelessness-pitiful.png",
+            "length": 452152,
+            "sha512": "c07231c1b69cc58a6da9a189efa23ce1785a89fcdb71c61f79b40a32a32d4ffa6a29178d01a596a857e52319e805cb59bcd74fa9ebe4634de1d985d9ead58164",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/eyelessness-pitiful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/eyelessness-pitiful.png"
+        },
+        {
+            "filename": "eyelessness-seigneury.png",
+            "length": 172662,
+            "sha512": "2dd78a89e1f6e2c3b515664e6fb11ecf51676b81eb75952cdee328ae42a25efc84ed57f366bfcda1b616967c88cd538278a1911fe27a7d2f3c6491534cd70d70",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/eyelessness-seigneury.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/eyelessness-seigneury.png"
+        },
+        {
+            "filename": "eyelessness-pterodactyloid.png",
+            "length": 472860,
+            "sha512": "279150e3893547528edd92b9c800ac1affaee0aa393870850f70b01cc4d052bc0d222529fdcc496c5149c39755d96894df2af665920a17028a7f412456837312",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/eyelessness-pterodactyloid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/eyelessness-pterodactyloid.png"
+        },
+        {
+            "filename": "burdenless-phytophenological.png",
+            "length": 589570,
+            "sha512": "74fffb3fbec292bab58ec7332d0f1fde26aad3b3c9b6842eee128ae80bb44e2db9c973999d88ac13bb58e93e8cd069377c7cd48802e86f14532c5d898553a6c4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/burdenless-phytophenological.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/burdenless-phytophenological.png"
+        },
+        {
+            "filename": "burdenless-Vulpecula.png",
+            "length": 152484,
+            "sha512": "2cd46b2e0fcb9e1df6e14e21a63e46a3200a39e231a6b40805e512013500438002db955fa726247c5c35e9d9fe20e93513f0c83898cfbf144174bf1eff01dfe4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/burdenless-Vulpecula.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/burdenless-Vulpecula.png"
+        },
+        {
+            "filename": "burdenless-semblative.png",
+            "length": 225855,
+            "sha512": "34685613a53cb577c54379a54578d73d232bd273eed90d747c03db3fd15dfac0209eb704f91ee935d7f89c61fc2e019505bff0836a040d92754b2b603cbe34c2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/burdenless-semblative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/burdenless-semblative.png"
+        },
+        {
+            "filename": "burdenless-unmoor.png",
+            "length": 107373,
+            "sha512": "0dc7661d800280126ca4e83c61c5bca86e2bcc8f0734e83e4380637c07c58697be54ebd3291d8945e2538fe58ec8fd576087d33197c3625eb81aeeec1ac71c2c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/burdenless-unmoor.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/burdenless-unmoor.png"
+        },
+        {
+            "filename": "bungarum-xanthoproteic.png",
+            "length": 734332,
+            "sha512": "c912948a81044c70bf3a5662bbfe6d7d36dfebc498831e0253367a332728c2e8f3d7afcb5725688c8840c927fe35dad79cb8cc4c50259ed9d63fc7b3cba3c40e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/bungarum-xanthoproteic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/bungarum-xanthoproteic.png"
+        },
+        {
+            "filename": "bungarum-somatotropism.png",
+            "length": 652902,
+            "sha512": "4c53216dc540c8125fdffe965bec7c5126f921d3a8b97dac7e0d9d7a587b1772221c0a8fa5bc5ec1a339522da7db90a1f1ade1513f518ef6951cd9bcdd99f08b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/bungarum-somatotropism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/bungarum-somatotropism.png"
+        },
+        {
+            "filename": "bungarum-glycocin.png",
+            "length": 248828,
+            "sha512": "45f8bae5826e5284b44beba14b0f793ab5c65d573c3cdbaa7a9d020a035210883cddfe4f3251ea55a2f22f759b8602153363d24cdb9cea785dd679b15fc664dd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/bungarum-glycocin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/bungarum-glycocin.png"
+        },
+        {
+            "filename": "bungarum-diborate.png",
+            "length": 796822,
+            "sha512": "e9f4744b3670a5474afd6211d78dd517e09f63845c9513dacc4ba89f50a0cec5edcb60b51f93a599a0fa31568e4387968eda6a24b0df2e5e82d521744afdd2d3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/bungarum-diborate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/bungarum-diborate.png"
+        },
+        {
+            "filename": "POLYBORINAE498S_hydronegative.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/POLYBORINAE498S_hydronegative.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/POLYBORINAE498S_hydronegative.rw.dat"
+        },
+        {
+            "filename": "POLYBORINAE498S_hydronegative.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/POLYBORINAE498S_hydronegative.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/POLYBORINAE498S_hydronegative.dat"
+        },
+        {
+            "filename": "POLYBORINAE498S_typorama.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/POLYBORINAE498S_typorama.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/POLYBORINAE498S_typorama.rw.dat"
+        },
+        {
+            "filename": "POLYBORINAE498S_typorama.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/POLYBORINAE498S_typorama.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/POLYBORINAE498/POLYBORINAE498S_typorama.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

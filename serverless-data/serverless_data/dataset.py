@@ -26,7 +26,7 @@ class DataFile:
         if not self.local_filename:
             if os.path.exists(self.filename):
                 self.local_filename = self.filename
-                self.filename = os.path.basename(self.local_filename)
+                self.filename = os.path.basename(self.filename)
                 self.update()
 
     def update(self, overwrite: bool = False):
@@ -70,22 +70,21 @@ class Dataset(Citable):
         elif self.access_policy == 'allusers':
             md += 'Access to this dataset requires accepting terms and conditions. '
             md += 'Join the Globus Group [{}]({}) to acknowledge acceptance.\n\n'.format(self.groupname,self.groupuuid)
-            md += '[Request Access](https://app.globus.org/groups/{}/join")\n\n'.format(self.groupuuid)
+            md += '[Request Access](https://app.globus.org/groups/{}/join)\n\n'.format(self.groupuuid)
         else:
             md += 'Access to this dataset requires approval. '
             md += 'Request to to join the Globus Group [{}]({}) for access.\n\n'.format(self.groupname, self.groupuuid)
             md += '[Request Access](https://app.globus.org/groups/{}/join)\n\n'.format(self.groupuuid)
         md += 'This dataset is available via Globus Transfer or HTTPS.\n'
 
-        path = '/serverless/{}/'.format(self.identifier)
+        path = '/serverless/{}/{}/'.format(self.access_policy, self.identifier)
         path = urllib.parse.quote(path)
         md += '[Click here]({}{}) to view the files in the Globus web app.\n'.format(base_app_path, path)
 
         images = []
         if self.manifest:
-            table_name = 'Files'
-            f_headers = ['File Name', 'Size (Bytes)', 'Hash']
-            f_rows = []
+            md += '## Files\n'
+            md +=' | File Name | Size (Bytes) | Hash]\n'
             for f in self.manifest:
                 name = f.filename
                 if f.url:
@@ -93,13 +92,7 @@ class Dataset(Citable):
                     if f.filename[-3:] == 'png':
                         images.append('![{}]({})'.format(f.filename, f.url))
                 short_hash = '{}...'.format(f.sha512[:8])
-                f_rows.append([name, f.length, short_hash])
-            writer = MarkdownTableWriter(
-                        table_name=table_name,
-                        headers=f_headers,
-                        value_matrix=f_rows,
-                        )
-            md += writer.dumps()
+                md += ' | {} | {} | {} |\n'.format(name, f.length, short_hash)
         if images:
             md += '{}## Images\n'.format(h_prefix)
             for image in images:

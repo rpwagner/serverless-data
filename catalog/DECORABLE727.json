@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) DECORABLE727P",
+    "identifier": "DECORABLE727",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-06T06:07:33.498332",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "inflame"
+    ],
+    "manifest": [
+        {
+            "filename": "unswooning-sloughy.png",
+            "length": 541082,
+            "sha512": "53357f96124cf0bd0ff0191cdd82339eb9d630e593bdebe6fb4c98c14b36f10fabf876643df2898943b3f067804ffcc39658726dcf3e09604f5121df0025f0af",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-sloughy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/unswooning-sloughy.png"
+        },
+        {
+            "filename": "unswooning-rivell.png",
+            "length": 353424,
+            "sha512": "5118e90e2218089d44622dedddb2f529b2999f4ec265a9d81f7cdd7b63ceef0e82364fcd877e472479b479b7503b27b04a48bc27a0db1422d3a8d4d6eebc263a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-rivell.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/unswooning-rivell.png"
+        },
+        {
+            "filename": "unswooning-amil.png",
+            "length": 270073,
+            "sha512": "7d5629cb853dc228c5b53e6f76673f72eb32fa0e5cf2d73ec9c6510d819c1b6da47d763ea563d994afc8a40920040dd17be5dfd0224da996c04dfa5c2a89e442",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-amil.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/unswooning-amil.png"
+        },
+        {
+            "filename": "unswooning-unpurpled.png",
+            "length": 60926,
+            "sha512": "f0bea5c8399fb407ed48e6b354700bb48e19418683c36007f9e2a05b902353e80bccf7f10d1ea84a66716b204601a1dd905c2bbcccb1845aa04876d657dfffde",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-unpurpled.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/unswooning-unpurpled.png"
+        },
+        {
+            "filename": "inframercurian-Suerre.png",
+            "length": 625323,
+            "sha512": "d9d68e8391945326b9bd63b88ec2a06e75a3db8bd8d8328c30b8ad6a469c735e788da2c779a52b592b9dbe807889bb0765867f7fb4634535a09741336a328293",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inframercurian-Suerre.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inframercurian-Suerre.png"
+        },
+        {
+            "filename": "inframercurian-undeceitful.png",
+            "length": 357708,
+            "sha512": "41e4e241f14fe3d5084c87ec89f056070f064058f0ac5990ac9d00bc8b1f0e8e31fe78c03f30a1f29f6929567eeac2b7ab08dc9e550c225c8abe0b828e139c8b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inframercurian-undeceitful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inframercurian-undeceitful.png"
+        },
+        {
+            "filename": "inframercurian-aurochs.png",
+            "length": 196057,
+            "sha512": "b3dfd5264ea1e2b8c6a5c9fb68a3f3116ab56701ac78dd35b4204838e3940023856ededa3058c2ed496418cfcbd125d3db60ad40dfe6201443c1d0f4173da275",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inframercurian-aurochs.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inframercurian-aurochs.png"
+        },
+        {
+            "filename": "inframercurian-galvanization.png",
+            "length": 100573,
+            "sha512": "23d556467b140d3aff00c3810ab14be39499326d2304e8b4f9e46ce86432ad1746de8d81055db4a13128c7565b5011ba2246dad21754ec5bb4e718cfaba46ad9",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inframercurian-galvanization.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inframercurian-galvanization.png"
+        },
+        {
+            "filename": "wallpapering-unpedestal.png",
+            "length": 537991,
+            "sha512": "29ca5a99124ac61f6d842fa09304a7307be0b65387440fd471c59340a28619a0506e1c448ca3326ca09a4cdf65361c08445ea87bc7c7a9922b85c7c7695e89b0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/wallpapering-unpedestal.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/wallpapering-unpedestal.png"
+        },
+        {
+            "filename": "wallpapering-unoppressive.png",
+            "length": 409568,
+            "sha512": "644ed0384b26b22ec450c743a836ce47944ef23eef79baaa3b81d462fcf97c873a50b1a392da9800f0b1a72f01f1c4bda0cdd52c265db169bdd6a1d6bc10bb50",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/wallpapering-unoppressive.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/wallpapering-unoppressive.png"
+        },
+        {
+            "filename": "wallpapering-Grapta.png",
+            "length": 34989,
+            "sha512": "2cec7dfca28d0268e70812e69af286b177f27327312e8315f5023d1788535a765ecba25323258a0b4caf8906100cb42d9cf9274fed1c60f60cd4183d3df1535c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/wallpapering-Grapta.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/wallpapering-Grapta.png"
+        },
+        {
+            "filename": "wallpapering-meconioid.png",
+            "length": 424793,
+            "sha512": "2cf4f8e599d46dc019f3b81367673c4fb8b379f334bad44dc412b5c35dc890d57bd7575b4f7625d6d2240b9a34b45aca5f3cd58f290496dc76c80f5f9e4fb116",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/wallpapering-meconioid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/wallpapering-meconioid.png"
+        },
+        {
+            "filename": "sillyton-dilutedness.png",
+            "length": 555464,
+            "sha512": "8c084f44d90a9651b6fb872857b9595dd6e739fb1003a5fd20379caf34c7279ea93df6c8ffa58188849f5daac9e279bbfca20fed9f23e54099396ffad7476cfc",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/sillyton-dilutedness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/sillyton-dilutedness.png"
+        },
+        {
+            "filename": "sillyton-fluoaluminate.png",
+            "length": 480842,
+            "sha512": "1fb16b0625313cde562a4c84a4e56b85bec707ea1365cda75a564e57ef3786219f27454db2fa87d81d73b1a9044c8ad6b1119d895783a738df173ed9c036794a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/sillyton-fluoaluminate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/sillyton-fluoaluminate.png"
+        },
+        {
+            "filename": "sillyton-proctoscopic.png",
+            "length": 324933,
+            "sha512": "555762d28416dea415f7c6827c46c3223c7f54d9cd161b297dfc9d32c78f5af098d1130775d7d3fb4398d71b8cb9599a9a8e078f27ec5c983b2ddd8644a161c0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/sillyton-proctoscopic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/sillyton-proctoscopic.png"
+        },
+        {
+            "filename": "sillyton-gunshot.png",
+            "length": 497010,
+            "sha512": "a1b6d8d0f4095927d65b54dda521f74e82a656ffde562021ba3609423e40e393470836508ad72d5fa4bc1c45a5aa3d216ee1c00d402c07f1bffdacc4a49dca40",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/sillyton-gunshot.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/sillyton-gunshot.png"
+        },
+        {
+            "filename": "inadequately-stomatography.png",
+            "length": 492422,
+            "sha512": "10a0a2e21c15d82fef5f2adb55aa5536fd73923057dce15d9ad391158d4793252a516d1bc4c6c5a89998b082fbd95c054fd867f83533b8a2b861daca756bf3d2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inadequately-stomatography.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inadequately-stomatography.png"
+        },
+        {
+            "filename": "inadequately-semiconsciousness.png",
+            "length": 389402,
+            "sha512": "801a83ef480b411e3db0cc99a593f9bc8872df91a9919d8d5c257748a50dd0c13eefed69129bc226c2b3344336bc99442d918983eaeb526600cfcb2e05e28742",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inadequately-semiconsciousness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inadequately-semiconsciousness.png"
+        },
+        {
+            "filename": "inadequately-interfactional.png",
+            "length": 350042,
+            "sha512": "9b02840375a8f368d76ae11ca6db395a25db62735b1db975d5ed897454a23fc837e0ef4a762c0d307e742a2ea90d591796296ee52026ffd5743f3609c4871641",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inadequately-interfactional.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inadequately-interfactional.png"
+        },
+        {
+            "filename": "inadequately-lemur.png",
+            "length": 74402,
+            "sha512": "29b2b196e9f8ca799b9fc6c8b5a7580b7bfa7da44a010d442a1f5aa63670ae966d46be1194cbb0a0baf266cc80b67acd5dbf7446f66c3095ab346bfb32bf7539",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/inadequately-lemur.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/inadequately-lemur.png"
+        },
+        {
+            "filename": "counterirritation-idleness.png",
+            "length": 612673,
+            "sha512": "9245172c974a5f1de27cfb06f6f53cfc637eec29b39765d70b8a9967d979c0a805cd966bea9767f8a4716a90de23fcfd031914a65ddcd6861af2673dd8922fc5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/counterirritation-idleness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/counterirritation-idleness.png"
+        },
+        {
+            "filename": "counterirritation-ornoite.png",
+            "length": 565519,
+            "sha512": "4a3cd476af7859b51b872ca7a3cc34cd1d5421eb86e9234b041a2f84720c8fca780c10bc1ae58c56b10b6565ee863c896797b8101860f5809531b8808d269c2b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/counterirritation-ornoite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/counterirritation-ornoite.png"
+        },
+        {
+            "filename": "counterirritation-Jacobinize.png",
+            "length": 210446,
+            "sha512": "937b1f22699dd6cb2a4490fc7d4e4250e2327b5363a54ee068b1905d939a6fcbf501e7176be1faa7e12eabd9940ff3e9f0c8975fb1ae9e8406c341c7df61935b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/counterirritation-Jacobinize.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/counterirritation-Jacobinize.png"
+        },
+        {
+            "filename": "counterirritation-rectigrade.png",
+            "length": 287006,
+            "sha512": "ccd3e1d381436cc37b8b780f187a2dbdeafb931f088554257d8fff18ee5ae4d9e104424286b8481eed09a1098a9682e357575590fac76a5127f8e447f272650c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/counterirritation-rectigrade.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/counterirritation-rectigrade.png"
+        },
+        {
+            "filename": "DECORABLE727P_nosewheel.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/DECORABLE727P_nosewheel.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/DECORABLE727P_nosewheel.rw.dat"
+        },
+        {
+            "filename": "DECORABLE727P_nosewheel.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/DECORABLE727P_nosewheel.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/DECORABLE727P_nosewheel.dat"
+        },
+        {
+            "filename": "DECORABLE727P_prebankruptcy.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/DECORABLE727P_prebankruptcy.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/DECORABLE727P_prebankruptcy.rw.dat"
+        },
+        {
+            "filename": "DECORABLE727P_prebankruptcy.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/DECORABLE727P_prebankruptcy.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/DECORABLE727/DECORABLE727P_prebankruptcy.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

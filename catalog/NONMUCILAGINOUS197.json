@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) NONMUCILAGINOUS197C",
+    "identifier": "NONMUCILAGINOUS197",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-03T22:43:22.229734",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "sclerodermatous"
+    ],
+    "manifest": [
+        {
+            "filename": "ducted-forewarm.png",
+            "length": 542224,
+            "sha512": "b3923fe011dff9f344537b8594a734e3725ec6a718d51d2cfc7e828cf9550b3715f668e154357716478e9adb7d36fc738873e2661be784133a732523f0b01c0c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-forewarm.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/ducted-forewarm.png"
+        },
+        {
+            "filename": "ducted-phallicism.png",
+            "length": 314531,
+            "sha512": "c41266dbcd49823a4bbed32f8379f9583d69aa66df1aefa0bc2b2bdf0b55c62190d1310a402677cebd7a775200fe21df14b45715ce7e04157e53f18a4c8ddac7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-phallicism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/ducted-phallicism.png"
+        },
+        {
+            "filename": "ducted-setarious.png",
+            "length": 282691,
+            "sha512": "0d80c8972928abf57e21fc158a200d48c04c8972de689e8f0f0ada10225682e462c940651f7a566a172479c4be84a77c3604a94400b8886274a1c2d2478e0fa6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-setarious.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/ducted-setarious.png"
+        },
+        {
+            "filename": "ducted-brotherly.png",
+            "length": 99162,
+            "sha512": "4585f1078142c45c04415cb2605a4b4e72bfbac390d35735d7f24687ed3bfc8ba562bbbce46b9b483db504f813f62d778052b05f7f7e36043180748d526e7100",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-brotherly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/ducted-brotherly.png"
+        },
+        {
+            "filename": "chrysoprase-accept.png",
+            "length": 852591,
+            "sha512": "6bbde5d368022dd1d21d90179a900dc6abc44372bc927140ef2923f6d1c5783760c78d525f1402da828d696c587f921ac4ffce67010de2e51e1754a104fd4631",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/chrysoprase-accept.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/chrysoprase-accept.png"
+        },
+        {
+            "filename": "chrysoprase-Skye.png",
+            "length": 293880,
+            "sha512": "c62e420566970beb30f82bdc7ada931b9161b6c729511ea7836358cdda0427da2796ddae9671199bf2fd02f5b137d8580478c0666fdd171aec1e25432e1b7163",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/chrysoprase-Skye.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/chrysoprase-Skye.png"
+        },
+        {
+            "filename": "chrysoprase-enshield.png",
+            "length": 134721,
+            "sha512": "00e49cf921f83a0fd017450cd664336827ec3c6de5c320a5584b41c55178fde651a01865c41929a3f28ab71b841e13e15fe63fafc8d25da5fa1adf51a4fd5b78",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/chrysoprase-enshield.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/chrysoprase-enshield.png"
+        },
+        {
+            "filename": "chrysoprase-souchong.png",
+            "length": 443971,
+            "sha512": "00cef2401e7d229d82324a56a150171a6bd1965db6d03ab90227da6456be36cf18fe77fb187a38f059cf2baaffd5e6426195df58a5a956532a5b01d5fa8613e3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/chrysoprase-souchong.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/chrysoprase-souchong.png"
+        },
+        {
+            "filename": "cadetcy-perscent.png",
+            "length": 570109,
+            "sha512": "8f530f5795f7c997032b236593a1bafba2a6aefbe65c8bc4c0c7956a64175c9481a85ce2a1e70680681b4456b609f976bfa70862cffd69f144c19debb3c88b69",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/cadetcy-perscent.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/cadetcy-perscent.png"
+        },
+        {
+            "filename": "cadetcy-engyscope.png",
+            "length": 458986,
+            "sha512": "5bc5a3b25c4b3db4f1f379dd2b8484f2698b2d9b45965dfd17df6eeae61e3d7dda1b80a11e0874d25a67ea60c701e76d2da3c335ae175c73a409c2f07bfb8226",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/cadetcy-engyscope.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/cadetcy-engyscope.png"
+        },
+        {
+            "filename": "cadetcy-overt.png",
+            "length": 260011,
+            "sha512": "dd931595a892a370c318f33ddc7fddf3666716c0e2da73dc04a8e87f841176ead6279caa39492d7cfcf9f1806b4d2282b914bf2a2fab8b1bc416aa7f3fe0de51",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/cadetcy-overt.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/cadetcy-overt.png"
+        },
+        {
+            "filename": "cadetcy-rememberer.png",
+            "length": 571581,
+            "sha512": "d485ab12252d3e78c4d7ea61cb2762f1fb94b9e0fbac6a645fe6ae02751d0a3cf1d5c4053c9d8118892f2e4c02268e39d75fe593235fd589b4f665676b6cd5ba",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/cadetcy-rememberer.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/cadetcy-rememberer.png"
+        },
+        {
+            "filename": "sulphocyan-cushlamochree.png",
+            "length": 553856,
+            "sha512": "9a229fee976c2e8034597c88ba70160205a09d95b26ff260033b24314cd1e997dd989122fecf4bd46656728d53de49d13ed916b644da7f3aaabf3748c7408abb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/sulphocyan-cushlamochree.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/sulphocyan-cushlamochree.png"
+        },
+        {
+            "filename": "sulphocyan-plurinominal.png",
+            "length": 434532,
+            "sha512": "7f351507313d69032c2f278e3358931fc517796aab999b01ab21412e07222adfb30b1be9d7b7c6b2f16201b10442f478d963004564b9d6d61deabbc39ddb33a0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/sulphocyan-plurinominal.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/sulphocyan-plurinominal.png"
+        },
+        {
+            "filename": "sulphocyan-chiloma.png",
+            "length": 160657,
+            "sha512": "3c0b7844d01af3c92cb317c69211bbd7d894471d3bbaf196c6ee779484a533c3e0af7a6e932d67b05a872c65373019cac51f086463e795dad384846bfc237bb5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/sulphocyan-chiloma.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/sulphocyan-chiloma.png"
+        },
+        {
+            "filename": "sulphocyan-cephalogram.png",
+            "length": 358880,
+            "sha512": "91a2c996fb027f091483e1041fe1c24bb46f0b7aaab88f604276bd0b6ad4708f8e2a52c2448934bfa3cca506572beb5a14bf70b15184520a344e8bc882029f24",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/sulphocyan-cephalogram.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/sulphocyan-cephalogram.png"
+        },
+        {
+            "filename": "puffing-pithecism.png",
+            "length": 558846,
+            "sha512": "8057a5c55073e99948f0ae32e3ab5d50d49a28f73374116c55fa7c4d0f1f26861b6e51208f4e21781a1f7382381838a0e6f7df37c4394ca9cc99f6cbf6a5ed99",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/puffing-pithecism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/puffing-pithecism.png"
+        },
+        {
+            "filename": "puffing-blauwbok.png",
+            "length": 353026,
+            "sha512": "d64027a2a646c67b986b1996c35d5f50560d0d9356764c9e07c35c2da81e81e4261a697173e60451ff94cda929247052956c2aa87dfa7098b312f4164ab32bdf",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/puffing-blauwbok.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/puffing-blauwbok.png"
+        },
+        {
+            "filename": "puffing-thyroprotein.png",
+            "length": 135647,
+            "sha512": "01e0aaf68925422ec69a02853f12fa48bb1b7875df04ea46b35391ea3286d911ec896055e3d6d043708fe494a7c543a57398f0bf42586c19a4826357b78fa47e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/puffing-thyroprotein.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/puffing-thyroprotein.png"
+        },
+        {
+            "filename": "puffing-endocolpitis.png",
+            "length": 311972,
+            "sha512": "fe06fcce0e537c170807bab594ed04218a79c8011ab04cc43d0d71ab047c313aaaa12164db4d5e203c465cb3a7695094032747f436b7b75290c0afad0acb99a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/puffing-endocolpitis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/puffing-endocolpitis.png"
+        },
+        {
+            "filename": "Helvella-scythework.png",
+            "length": 562536,
+            "sha512": "0f7209060f7c87f80f5ff3601f8447778d452c43c7f2fe335be4d35b75dc9bc08190205987c3882383ea05532eb3a4b50278510a72ce38e7201af1567ef7fca6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/Helvella-scythework.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/Helvella-scythework.png"
+        },
+        {
+            "filename": "Helvella-dissimilation.png",
+            "length": 339024,
+            "sha512": "4c5c7de28d4fab7b02544dde03380bab8c815dbefc25d3866e0c0d8f801c28a06dfd44794ff1e9dadc606b2b99ec024dca06bdd69e31deeda64182f7b2398b74",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/Helvella-dissimilation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/Helvella-dissimilation.png"
+        },
+        {
+            "filename": "Helvella-diseasedness.png",
+            "length": 249572,
+            "sha512": "bda96cbb41f60f97a4f37d6cc0bf50e427a73df9f51960b27fc7a8b2d98114c10d0c487e0626e15c9e9c09316bf61c51c73e3c59e84618a6cb861ede57e1fa85",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/Helvella-diseasedness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/Helvella-diseasedness.png"
+        },
+        {
+            "filename": "Helvella-antemillennial.png",
+            "length": 370454,
+            "sha512": "4bb2e7d8d469aad8be3f5899e0ea02545eb305e07303e347679750b6c848ca8f03c74ee479c80e6ae07e6c0aaa4a29df3df766ef04d644981056e9c176800bfb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/Helvella-antemillennial.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/Helvella-antemillennial.png"
+        },
+        {
+            "filename": "NONMUCILAGINOUS197C_glossologist.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_glossologist.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_glossologist.rw.dat"
+        },
+        {
+            "filename": "NONMUCILAGINOUS197C_glossologist.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_glossologist.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_glossologist.dat"
+        },
+        {
+            "filename": "NONMUCILAGINOUS197C_moorn.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_moorn.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_moorn.rw.dat"
+        },
+        {
+            "filename": "NONMUCILAGINOUS197C_moorn.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_moorn.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/NONMUCILAGINOUS197/NONMUCILAGINOUS197C_moorn.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

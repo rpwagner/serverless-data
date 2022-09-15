@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) PSYCHOSOCIAL631N",
+    "identifier": "PSYCHOSOCIAL631",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-08-24T21:31:26.626638",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "Chrysosplenium"
+    ],
+    "manifest": [
+        {
+            "filename": "mimmoud-discordance.png",
+            "length": 567618,
+            "sha512": "f7987d89118f7392786dc2bd5c7469bfb1e08ef3d7c086f3cda7e24fc7bbb5c1a82e5ba25c2c685e699557707c32958e592a86cefb9e535cd6f565e08a048904",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/mimmoud-discordance.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/mimmoud-discordance.png"
+        },
+        {
+            "filename": "mimmoud-parachromophoric.png",
+            "length": 535630,
+            "sha512": "85f095e5d748277d2ca173eef0b04a155b1d212580bb96fb10b0b7014f2ab81cb29428f9a9428969172363de43cd64ff065a0d2d03d7c3f002a53ca4b842ff62",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/mimmoud-parachromophoric.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/mimmoud-parachromophoric.png"
+        },
+        {
+            "filename": "mimmoud-tetricity.png",
+            "length": 135568,
+            "sha512": "3020761b88ccd80d89f9c01a9ecac1638e05244b134f3f06a1cdf573da569b4a8f82042c8b6ba7f9c21920b4905e8d3dd98292014c20b61e237059cdf0ac5827",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/mimmoud-tetricity.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/mimmoud-tetricity.png"
+        },
+        {
+            "filename": "mimmoud-injustice.png",
+            "length": 452940,
+            "sha512": "e3fbfa2b9383ded8a44b5974419b25745aeb74396d4604d53ef2a46e6576dffbfeeeca46f090e787efd51dca02d58dc2cdf191f09aa3dd53b298043f5753887e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/mimmoud-injustice.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/mimmoud-injustice.png"
+        },
+        {
+            "filename": "spewing-ventroaxillary.png",
+            "length": 571025,
+            "sha512": "16187230aa29c3a9b56bf916e7a32cea369b1c186b1db2c2e33a18b1adf2b860cfaf79fbcda48d637395b8805a21f5a6ebfb6405f950035fd6344cc01d4f8295",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/spewing-ventroaxillary.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/spewing-ventroaxillary.png"
+        },
+        {
+            "filename": "spewing-expiry.png",
+            "length": 586447,
+            "sha512": "34a878a3565b82522f1893b6dfad450a397989db3145157136688075828150a300fdae8a7d0a5fac920dec0c25adfe6f5275cd53f0930f38e49aa53fba17d84a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/spewing-expiry.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/spewing-expiry.png"
+        },
+        {
+            "filename": "spewing-aftosa.png",
+            "length": 288947,
+            "sha512": "0f5c5c1160a1425217797ff7b09d98301e70fa668fe12d3437118adaf9be68052023715bc3ea67c8ce82f1bca799233a8830753fdb4eec90eecc3c7a8b0ae677",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/spewing-aftosa.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/spewing-aftosa.png"
+        },
+        {
+            "filename": "spewing-beholder.png",
+            "length": 657817,
+            "sha512": "06b708059d54e037eaffcfaf730475357ffa999ce66e8387a3b3a996c2d41f9395fbb52f95b4e246d6779103b179fd157b92f27f3b84627ebe1256a075932571",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/spewing-beholder.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/spewing-beholder.png"
+        },
+        {
+            "filename": "Dunlap-rhymemaking.png",
+            "length": 534504,
+            "sha512": "68689ab34167c0ccd720930b809f381bfe90981f257044ed3adef92e8159899b6c8729d3262e114cd52789a591bc9ae48d59e28898a97a5e7720c58dd677486d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/Dunlap-rhymemaking.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/Dunlap-rhymemaking.png"
+        },
+        {
+            "filename": "Dunlap-triphenyl.png",
+            "length": 389143,
+            "sha512": "c6496c26618e882f28172d45eefc14a6e6356460d6cccc1576b2113917d455a006fcebf009e30ed17d37bbbf742edb755b3ebf668ce26ee8b3eda5c1d8feb234",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/Dunlap-triphenyl.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/Dunlap-triphenyl.png"
+        },
+        {
+            "filename": "Dunlap-divergingly.png",
+            "length": 210455,
+            "sha512": "4b13a882fac95d2cba70de3322c10edb99f885eafacc33b38e2b0c56ab63d9f2b3de470831ffc2dc6b7d9df9f82ec42f5850c12eee3c2377936a7985f9433fa6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/Dunlap-divergingly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/Dunlap-divergingly.png"
+        },
+        {
+            "filename": "Dunlap-thouse.png",
+            "length": 390096,
+            "sha512": "b053abb62cf3368402d1fd8bc011927e6ae778838aa13e19d2d10245841c5cdda769c0a28b00ff3540deafec952efabd61adb3a2691b560bd3e7624e14169eba",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/Dunlap-thouse.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/Dunlap-thouse.png"
+        },
+        {
+            "filename": "palladium-groat.png",
+            "length": 556206,
+            "sha512": "8bdd64d4a9cda0a52ea68663690e07e5b6416b0ed1f2ab364232dced27bb7e283a1ad9797fec581c0963642d7f71b350797a8e6dd374760e94293d6e71007642",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/palladium-groat.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/palladium-groat.png"
+        },
+        {
+            "filename": "palladium-holm.png",
+            "length": 377455,
+            "sha512": "7039fe2c38428d408f23d54b82b26484e6dbbc37dd28fa48e738f721f66be1b0467e839f2f7aedeac1e20538904f26346478940ca1c6c59aea26bfc6ea3a901b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/palladium-holm.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/palladium-holm.png"
+        },
+        {
+            "filename": "palladium-crebricostate.png",
+            "length": 208274,
+            "sha512": "69b10597148c20730029429b755f2485c3f1ede0c13fc98cbd460e7808411d54b066541cf81ed637133ab38e16815fc8fd27c48d04a0d95441007f10fb6e8cdd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/palladium-crebricostate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/palladium-crebricostate.png"
+        },
+        {
+            "filename": "palladium-forestaysail.png",
+            "length": 468816,
+            "sha512": "55cbab0231ac918b7b6cd6a25db357bf5f31e340ffdab3fc2e9d1ef19f579a87adaaccc6a5a3cbc5672e5ff01c4fa0ebb7eea8583f325788b96009932cf53c27",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/palladium-forestaysail.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/palladium-forestaysail.png"
+        },
+        {
+            "filename": "nonsiccative-novative.png",
+            "length": 563322,
+            "sha512": "ccd030647a7dc791739c7cff1c666313e2f6ffc5f955bf0ef199fdd80490542efa5b7ee0813822d2224565029c1c218c857f9de9e07464178e56aa824c544e2c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/nonsiccative-novative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/nonsiccative-novative.png"
+        },
+        {
+            "filename": "nonsiccative-interfilar.png",
+            "length": 328972,
+            "sha512": "cfeaa8a2bdebdab1aa64ce951378b67b79f0f84f26fab66da095d8afe796450fd45dceec833ba0e9654a046a04f49dc5482f77683e8da8530e4c4a4696c4aaf4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/nonsiccative-interfilar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/nonsiccative-interfilar.png"
+        },
+        {
+            "filename": "nonsiccative-stephanic.png",
+            "length": 134469,
+            "sha512": "ac002f84eaafcf2c0fff471b248701b16c140d778ff93c9b81a2e71e1f459745a17818dd9d2fcb4070fc1b529280bac47dc25b37875a7d97c462216cd69ea5c7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/nonsiccative-stephanic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/nonsiccative-stephanic.png"
+        },
+        {
+            "filename": "nonsiccative-poppycock.png",
+            "length": 461443,
+            "sha512": "0178c41f8d98d672aef19837b44eebced02ea01c36313bba3d2c09d8f0b0b4c11e7b66c36c1801327524b7e4964033bf117fb8bb1cfbf571ec7c2d6a6589ac29",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/nonsiccative-poppycock.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/nonsiccative-poppycock.png"
+        },
+        {
+            "filename": "anglewing-wolfkin.png",
+            "length": 685046,
+            "sha512": "712a9bdc648cd1ff1cd262270582d7483f04f188601184c54f8a33e04cb213acd2e5e77e3781a667bf9e4e7424210fbb4daefe2de274f249297f82d93b688c80",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/anglewing-wolfkin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/anglewing-wolfkin.png"
+        },
+        {
+            "filename": "anglewing-expansive.png",
+            "length": 588795,
+            "sha512": "6f09ccb45e8ff45398621ccc4cc62e0e88259470adfbe05ec5edab609c5a43fcaaa7ba8fdfe840408eb57deef2c6b428e165ee1f8cc2340aa29b0efecc2d756a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/anglewing-expansive.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/anglewing-expansive.png"
+        },
+        {
+            "filename": "anglewing-tremandraceous.png",
+            "length": 167599,
+            "sha512": "e1aa70f8da71daba1f42a60e3170e0b5106f0b33f14abe17eb5f1ad796e1d8dff15e8f47298d9b0d240fb89db5e55d80a6febf6994097ceee589e646a233387f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/anglewing-tremandraceous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/anglewing-tremandraceous.png"
+        },
+        {
+            "filename": "anglewing-choya.png",
+            "length": 516547,
+            "sha512": "3520e5b8fa96728cfb04b15fe94f46efa358099e893e4e0680c2d3c6a589f3cf169b721493e761a2c41916a2b27f4cc9f261560695c0a38c835d2262e6154d66",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/anglewing-choya.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/anglewing-choya.png"
+        },
+        {
+            "filename": "PSYCHOSOCIAL631N_Undine.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_Undine.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_Undine.rw.dat"
+        },
+        {
+            "filename": "PSYCHOSOCIAL631N_Undine.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_Undine.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_Undine.dat"
+        },
+        {
+            "filename": "PSYCHOSOCIAL631N_ilka.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_ilka.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_ilka.rw.dat"
+        },
+        {
+            "filename": "PSYCHOSOCIAL631N_ilka.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_ilka.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/PSYCHOSOCIAL631/PSYCHOSOCIAL631N_ilka.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

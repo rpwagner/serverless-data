@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) CENTILLION440W",
+    "identifier": "CENTILLION440",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-12T04:57:40.727875",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "lecama",
+        "sclerodermatous"
+    ],
+    "manifest": [
+        {
+            "filename": "tetramorphic-overseverity.png",
+            "length": 499347,
+            "sha512": "b201ac37334953efcb2736bc9327f0cf0ea314410c7f51177f51f5fc724ea1e633e26cb7d2e3934b937e394546d0a92bb885c0d69f74a6a758085dd89e49293c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-overseverity.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tetramorphic-overseverity.png"
+        },
+        {
+            "filename": "tetramorphic-turbinoid.png",
+            "length": 346524,
+            "sha512": "09b4a9a898e3b32a575b5a4a19007bd708cca134dfae92cdffbb922a2e7d1b8f66d0f7387dac39e412e32c9ef1c69cbe4cf4d3ab4500fd1f5f276dbe0b0ae477",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-turbinoid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tetramorphic-turbinoid.png"
+        },
+        {
+            "filename": "tetramorphic-mona.png",
+            "length": 247077,
+            "sha512": "ac87dd0a848a94a73084e7e71fb5ae8a7a4d7121146170051b7f5bd93276512105d0e57f86b3be7f2cb2edc0b49e52c754aa522cc61e49ba5ff48b38590d9ee0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-mona.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tetramorphic-mona.png"
+        },
+        {
+            "filename": "tetramorphic-retree.png",
+            "length": 344150,
+            "sha512": "608da549addd59e9a930091d375676707f4e7a3308ae63731d2ba3d052fac121cde90ee33f55ab818c4e5d55d01e7e9949bef6e236dba340c0ef696c89a8cb79",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-retree.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tetramorphic-retree.png"
+        },
+        {
+            "filename": "heartbrokenly-undose.png",
+            "length": 564706,
+            "sha512": "35bd1512b776a379bd73f44f13b1954c02be60a0b09d5c726854dabbf5ff84b7e4de2762b86aadfb49241992d023b7d503a55adacc2df2f2774bd5283be083a7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/heartbrokenly-undose.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/heartbrokenly-undose.png"
+        },
+        {
+            "filename": "heartbrokenly-recurve.png",
+            "length": 446811,
+            "sha512": "81569a28bd57c8c4bd9c7a232768400c2f39f9311a3e4726ca2bda678cc174bfc54b253c3f93aa8cbafe39cdb5b5794d7fa5b7c5c5a3abbc5d66156c0e0395d5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/heartbrokenly-recurve.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/heartbrokenly-recurve.png"
+        },
+        {
+            "filename": "heartbrokenly-arrosive.png",
+            "length": 129970,
+            "sha512": "31e3b0aa91632669bdba80b61f3b13e6b9a8f00b0b810aec434405990e0b68b66ed8726ec3d7b636b3dd2fbcf80137a88acc1d9ee13b482104e013e4f4396a4a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/heartbrokenly-arrosive.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/heartbrokenly-arrosive.png"
+        },
+        {
+            "filename": "heartbrokenly-transigence.png",
+            "length": 437674,
+            "sha512": "cc6d5c6177bf093f938ff01e678ec878cf4b536195a9825c5c915fb2a49afa1ada60f228c1180e98d479b7ce7c8413ca21e3086cbb55183a3778bcd301d4b9c4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/heartbrokenly-transigence.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/heartbrokenly-transigence.png"
+        },
+        {
+            "filename": "vicenary-neffy.png",
+            "length": 569313,
+            "sha512": "344438d75e080dde8a5e802e0d5e91c0d5c3997eb4cbdc165c997664362322a3c751ecf523d0f43dbe7cbebce27619d3346c19e3ff58c6b3a27da056196e3cd7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/vicenary-neffy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/vicenary-neffy.png"
+        },
+        {
+            "filename": "vicenary-catholical.png",
+            "length": 436081,
+            "sha512": "d4b881199368f1d2cf854fad13b962da739db02112e9709a64910e4072750093a76ac9faa51d168cd2bb9208deeb93ec8f48e73d03034f86b2cdb5bd2b5eb5bb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/vicenary-catholical.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/vicenary-catholical.png"
+        },
+        {
+            "filename": "vicenary-picromerite.png",
+            "length": 360886,
+            "sha512": "078ff23de82d40c1f8c6e6bb436becaf3e343727bbef257393c7f7b909e91bf105e39ef4ad628a15891f4fff6da9d06b83149fb330ec03e4b1c52619de97a470",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/vicenary-picromerite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/vicenary-picromerite.png"
+        },
+        {
+            "filename": "vicenary-vomerobasilar.png",
+            "length": 484281,
+            "sha512": "1ea288ef31b6e8e71c7eb93907d84b2ada0cbf34ac222c027a6c4970883d91aad5f8fafe1feb6a4bc0870a909dfbb3cb503fbf96f118bf4ddecaee566c6a825f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/vicenary-vomerobasilar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/vicenary-vomerobasilar.png"
+        },
+        {
+            "filename": "unlath-necrology.png",
+            "length": 642132,
+            "sha512": "f928de34901c99b88cfafd6c789764e6e607bfea220cf006bc0bf900e25e9e77a4bc19465bdafb0420b38b876b5d5abafad888b84b7d26e07b506a32517a743c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/unlath-necrology.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/unlath-necrology.png"
+        },
+        {
+            "filename": "unlath-aquage.png",
+            "length": 96785,
+            "sha512": "6c4fbae3bfa36291acd7b08dbd3c2cce47e13227514573f6b11ba9799f67ae4238aec4f2af618abe99db34059ee6abe820399f80e9c7f084176accac72f7d946",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/unlath-aquage.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/unlath-aquage.png"
+        },
+        {
+            "filename": "unlath-perstringement.png",
+            "length": 157197,
+            "sha512": "1c275ab1a0d522668b2e4d8d83469d0aa0ac9fabdaf0b1d36267ca1bc697cbd7604635d24178106b374bb0b80c84cbad82f0b4ed8cbfc4b0ea6cfbaf7d714540",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/unlath-perstringement.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/unlath-perstringement.png"
+        },
+        {
+            "filename": "unlath-unfasten.png",
+            "length": 576229,
+            "sha512": "a49649f8f54af1a82172109d693c0e8da8b172c5705a535235df099f796a4b44257c50f4030eeb4066db22dacb7d66065c86e847ce0a6315323c657e20f43fb8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/unlath-unfasten.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/unlath-unfasten.png"
+        },
+        {
+            "filename": "Ichthyornis-homoveratric.png",
+            "length": 614897,
+            "sha512": "b5854fdd12efbe5121f2de0142729f2ed4d604004eb32689dd5a1ed0979581d35457b4144fb4ed4f649f84c5d9a8fcd9f04911de05c7864653d5c608bddc12c4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/Ichthyornis-homoveratric.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/Ichthyornis-homoveratric.png"
+        },
+        {
+            "filename": "Ichthyornis-fanon.png",
+            "length": 368760,
+            "sha512": "8364ce22e76a9d3cd37d0b2f3d9f07ab8075f6b5b0fed2f5d30a8fc2392588768b9c6f384bb62214aacbc783524684809850ae75a533e1ecdf1259add8a3873e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/Ichthyornis-fanon.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/Ichthyornis-fanon.png"
+        },
+        {
+            "filename": "Ichthyornis-Sundar.png",
+            "length": 248180,
+            "sha512": "c0c0ae4e12436647932143f4bff66bff76ecadc601b4a591a1a60ccaa62d1aa8936df68c7f05fe70a87418b4aa628d3c7ef1c2dc113c3307a7bd80e83a871501",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/Ichthyornis-Sundar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/Ichthyornis-Sundar.png"
+        },
+        {
+            "filename": "Ichthyornis-ephod.png",
+            "length": 500721,
+            "sha512": "18c10446429596bdb5b3027973eb714b1be6aebbf2170933dd19bd0a94b62e0e79e231c9f0edcf410fc3e0ce9fa831fd7dc84b7412a7f04333405994097ac5d0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/Ichthyornis-ephod.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/Ichthyornis-ephod.png"
+        },
+        {
+            "filename": "tourn-pretensive.png",
+            "length": 575362,
+            "sha512": "1826a3d71725d323a39dfebf2933d16492f7787dd9e8221ee2ee22b65daf7017f611fe27aaa5a3f820749d0ca51b66eed531e3e8a5c60f7d5ca8d47e40c2da0c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tourn-pretensive.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tourn-pretensive.png"
+        },
+        {
+            "filename": "tourn-acantholysis.png",
+            "length": 78796,
+            "sha512": "d91a798803abcbf58deb13b2c09d44dd124d15dcee0f0c4b5726285aeb17b74260ba7aaaa7ef5450cfe0d4079f3724d90454e3773e0a36c1d74b6e3589389781",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tourn-acantholysis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tourn-acantholysis.png"
+        },
+        {
+            "filename": "tourn-pudge.png",
+            "length": 296894,
+            "sha512": "a1a624fdc4e3dba0c67fc5a7cfdfc762afb7251a047f8d75951e7f6810192d2651b9bfec6c161b3cec8de7ef8d0804fab2e9d2bfe6d5a252c2c3c56975f32e2f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tourn-pudge.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tourn-pudge.png"
+        },
+        {
+            "filename": "tourn-motoric.png",
+            "length": 591328,
+            "sha512": "ca1f0c8e7209dbf38ba35136a0c979b0c2a6119c0ab5b208f7e7874e8136d819d0d991047bece59de2bb019beb2c2e14f9520712b3970ae509cb147692c85f11",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tourn-motoric.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/tourn-motoric.png"
+        },
+        {
+            "filename": "CENTILLION440W_dimercuric.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/CENTILLION440W_dimercuric.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/CENTILLION440W_dimercuric.rw.dat"
+        },
+        {
+            "filename": "CENTILLION440W_dimercuric.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/CENTILLION440W_dimercuric.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/CENTILLION440W_dimercuric.dat"
+        },
+        {
+            "filename": "CENTILLION440W_mushheaded.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/CENTILLION440W_mushheaded.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/CENTILLION440W_mushheaded.rw.dat"
+        },
+        {
+            "filename": "CENTILLION440W_mushheaded.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/CENTILLION440W_mushheaded.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/allusers/CENTILLION440/CENTILLION440W_mushheaded.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

@@ -83,7 +83,7 @@ def show_save(img, name, cm=None, show=True, save=True):
     if show:
         plt.show()
     if save:
-        fig.savefig(name+'.png', dpi=120)
+        fig.savefig(name, dpi=120)
     plt.close()
 
 def make_images(folder, word_maker):
@@ -96,22 +96,22 @@ def make_images(folder, word_maker):
         cimg = make_colorful_image()
         b = imgflat*np.abs(cimg)**.2
         lastwords = word_maker(4)
-        imgname = '{}/{}-{}'.format(folder, firstword, lastwords[0])
+        imgname = '{}/{}-{}.png'.format(folder, firstword, lastwords[0])
         image_names.append(imgname)
         show_save(img,imgname, show=False)
 
         cm = random.sample(list(cm_names),1)[0]
-        imgname = '{}/{}-{}'.format(folder, firstword, lastwords[0])
+        imgname = '{}/{}-{}.png'.format(folder, firstword, lastwords[1])
         image_names.append(imgname)
         show_save(imgflat,imgname, cm, show=False)
 
         cm = random.sample(list(cm_names),1)[0]
-        imgname = '{}/{}-{}'.format(folder, firstword, lastwords[0])
+        imgname = '{}/{}-{}.png'.format(folder, firstword, lastwords[2])
         image_names.append(imgname)
         show_save(cimg,imgname, cm, show=False)
 
         cm = random.sample(list(cm_names),1)[0]
-        imgname = '{}/{}-{}'.format(folder, firstword, lastwords[0])
+        imgname = '{}/{}-{}.png'.format(folder, firstword, lastwords[3])
         image_names.append(imgname)
         show_save(b,imgname, cm, show=False)
     return image_names
@@ -139,7 +139,6 @@ def get_mock_dataset(internal_id,
     images = make_images(dset_dir, word_getter)
     manifest = []
     for img in images:
-        img = '{}.png'.format(img)
         imgbase = os.path.basename(img)
         url = '{}/serverless/{}/{}/{}'.format(base_url, policy['access_policy'], internal_id, imgbase)
         manifest.append(DataFile(img, url=url))
@@ -190,9 +189,9 @@ def make_full_catalog():
     range_in_days = 21
     max_datasets_per_policy = 6
     tmpdir = tempfile.TemporaryDirectory(prefix='/Users/rpwagner/tmp/mock/')
-    coll_dir = '{}/collection/'.format(tmpdir.name)
+    coll_dir = '{}/collection'.format(tmpdir.name)
     os.mkdir(coll_dir)
-    cat_dir = '{}/catalog/'.format(tmpdir.name)
+    cat_dir = '{}/catalog'.format(tmpdir.name)
     os.mkdir(cat_dir)
     cd = {'name': 'Serverless Data Image Catalog',
               'identifier': 'serverless-images',

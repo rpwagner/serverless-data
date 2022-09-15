@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) PRONENESS405F",
+    "identifier": "PRONENESS405",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-06T15:37:30.617672",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "lecama",
+        "Chrysosplenium"
+    ],
+    "manifest": [
+        {
+            "filename": "turbosupercharger-arthrodiran.png",
+            "length": 595878,
+            "sha512": "847599e52fc8e449310e8a621bdddca4163fafcc9b1a107fdb8c67ce16e1e67507da5281cf54ded6eae29bc691b3bc3a9f79d8b1b0f369275b86d0b4e543f99c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-arthrodiran.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/turbosupercharger-arthrodiran.png"
+        },
+        {
+            "filename": "turbosupercharger-emanationist.png",
+            "length": 296106,
+            "sha512": "73e4c91ee326a9a3f07fb859bf469a12b801a90b61ed3605a0b89611112d8e6838a7adbf7f10b6d4162b434f5dcce91a782d4a7259c3c38b782e82fd08180e8f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-emanationist.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/turbosupercharger-emanationist.png"
+        },
+        {
+            "filename": "turbosupercharger-addax.png",
+            "length": 131143,
+            "sha512": "97a326203e78c62fcfe82859ba0b2f01b4321b7f7f8855a17718a5f6f3cdd7a9fad9b21a1cc83e302ee8c54df5f545a59f41193fc5712cfb58146d3767d35b87",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-addax.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/turbosupercharger-addax.png"
+        },
+        {
+            "filename": "turbosupercharger-vier.png",
+            "length": 468997,
+            "sha512": "7d2d7f53b1bafeb3c22ba6aa51d5f2d79312e5cdc8720cd685c5a1c556eb4d44310474ac023ff2f1c93024c03e0de981f50bd4bad79a4708e2542b8f7e76f8ca",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-vier.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/turbosupercharger-vier.png"
+        },
+        {
+            "filename": "unsayable-proscapular.png",
+            "length": 659648,
+            "sha512": "c863788ac83c7ad4c91baaa4bc00d57edf8085f54d3f2f8754103ba548e89aab752c554f2f0422991740d1fb4f5d1b1f90e61f942d1ef3e3f15a1ed7b1631a50",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/unsayable-proscapular.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/unsayable-proscapular.png"
+        },
+        {
+            "filename": "unsayable-pigfoot.png",
+            "length": 524840,
+            "sha512": "54409a93b6c316bc2b9f651d9167f477e27cda0ee64d0d88261eb219ee0af5b6ec890f0fd4370e7ecad1fd22ab37e3a501326832da139e9d4361941f5c0a829a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/unsayable-pigfoot.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/unsayable-pigfoot.png"
+        },
+        {
+            "filename": "unsayable-prorate.png",
+            "length": 246260,
+            "sha512": "8d6ee2293f92d6bf8cd120a18ec5c9fa5664ca3eef5981459bd67ca4773fdb4b877698422e20f5dca02bb4f2f338d1cdc11fb93ee33386dfcccace8d1ca521be",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/unsayable-prorate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/unsayable-prorate.png"
+        },
+        {
+            "filename": "unsayable-furnitureless.png",
+            "length": 576026,
+            "sha512": "d1dd6cf207b3c96f726549d82c86a4ed50d54ccc670cbc74c890b98d9f657e46435010dd51ae6fc0c664add1628f891cb0275d5bc5a11d9a180c456d910bddc7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/unsayable-furnitureless.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/unsayable-furnitureless.png"
+        },
+        {
+            "filename": "qualifiedly-orange.png",
+            "length": 547597,
+            "sha512": "ec359dbd5b8c9c5d04c9df0a7ab8597870c3956ad65c721ab264605332bdec30e85372463da7f5475a4b8c529171ecfaf3b11f587bcf0dc4f7c9a3f6656bedb2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-orange.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/qualifiedly-orange.png"
+        },
+        {
+            "filename": "qualifiedly-unlandmarked.png",
+            "length": 483952,
+            "sha512": "435ac1701058e01006d60cc189843e43873b04c5da8a5cb4d088d6488cc1dcc5aa451700d0b79b98392877afa9d194d134d66b841c1355e2f4d75d427c225938",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-unlandmarked.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/qualifiedly-unlandmarked.png"
+        },
+        {
+            "filename": "qualifiedly-borolanite.png",
+            "length": 210741,
+            "sha512": "76586f83f57710e3cb8688f41d2f8e478c4f153010720ed2dbeb1b9e910b3968df15a5dced56c61e9e86f5886cc5aeabf521c6234094d2ca819411d5857adf20",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-borolanite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/qualifiedly-borolanite.png"
+        },
+        {
+            "filename": "qualifiedly-stickiness.png",
+            "length": 371220,
+            "sha512": "7315bed73ada3acd76ae8ed1cb1e6f109c279a8dd534c80a04f03779fccab755bfd05801701df45af1a87b79bd158357e5ea9462e19552b1e24074e8b6822a70",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/qualifiedly-stickiness.png"
+        },
+        {
+            "filename": "defensible-palmitone.png",
+            "length": 614642,
+            "sha512": "59bd11c9785010de8abc06281763566348c293f77ac8235e1c6559b722d5f1f5986ca00d11617b650acb5c378b7ef82e8143271baa139b64c3b5a435936cd6ec",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/defensible-palmitone.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/defensible-palmitone.png"
+        },
+        {
+            "filename": "defensible-urticate.png",
+            "length": 341370,
+            "sha512": "172ff9ebf6b1eb69e250b5ab5362db928506e48d8b3def08fa45f939e7a7cb1b4f8d0168ecd8f022d1eecd951529a38cd47a425fffcc883d998bc28a15e84cc6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/defensible-urticate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/defensible-urticate.png"
+        },
+        {
+            "filename": "defensible-dilate.png",
+            "length": 253914,
+            "sha512": "6b20b6d3799c48f2f3feb7062b27ec1d2fe364e3debf4e227360a354545cb27d6dfc4c560bd2b49d28a49e89ba48c74128d7a058f6e370cf9113a666dcd8b429",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/defensible-dilate.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/defensible-dilate.png"
+        },
+        {
+            "filename": "defensible-melter.png",
+            "length": 323461,
+            "sha512": "84af6c1ded6b9bc2f95d8bee1586d66bafb284f1c625d6d2c45bc7fcae35bdf74aa1c9c878c172f5524a3da2366f4e9a66e7caa1c1d9acc28f1686365cece598",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/defensible-melter.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/defensible-melter.png"
+        },
+        {
+            "filename": "hurrock-handball.png",
+            "length": 677477,
+            "sha512": "cf4991f3d26bad38f74e3c8a8c99766191268596b0caf3c64a1f467f93ae10e782789b3efd4bb821a4a699fef47355f3b2fcb1ca5afef889f3986095eb19b3e3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/hurrock-handball.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/hurrock-handball.png"
+        },
+        {
+            "filename": "hurrock-subplat.png",
+            "length": 621782,
+            "sha512": "3e88e82643a985fe88f72526107e32af17647fa565aedbbd1033965a4259d8ac853e60bf2b4ad01272ea1166cd624df080a891ad588c68d5c71a65deee6afea6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/hurrock-subplat.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/hurrock-subplat.png"
+        },
+        {
+            "filename": "hurrock-epiphyseolysis.png",
+            "length": 193116,
+            "sha512": "ebc8c124d6cd74911a3e737b319e709f9352107a3e0f24285d90acd72a90c03c42f9668ecaafef46991598bf35c00b10b5cba3a3dd725c16157905589e87bc3e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/hurrock-epiphyseolysis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/hurrock-epiphyseolysis.png"
+        },
+        {
+            "filename": "hurrock-auriculately.png",
+            "length": 718511,
+            "sha512": "7bb0d2f3beaab2de845559c8b9dfe935bfe26df91d7741bae304ba09abd1ed2b6d7869fa9228a582ddc4b64316e0d23a8ee7605433eabbceff9695d2d14e7778",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/hurrock-auriculately.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/hurrock-auriculately.png"
+        },
+        {
+            "filename": "amyrol-contentless.png",
+            "length": 582423,
+            "sha512": "73f69ecd66cd80fc084101413adee23d2d18d2b16c80beed260d905cd2d44afff616363f75bbc9007db81146f00564f5e9b0e66f6145447ef3190473c7dc4568",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/amyrol-contentless.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/amyrol-contentless.png"
+        },
+        {
+            "filename": "amyrol-pretestify.png",
+            "length": 495945,
+            "sha512": "c378be63f05b31f846309886d3a5a2fa60ec64fd4f6174ac5fb8e17ede22d0627a6a1e4ef9ac9e663cd72052d71a0905476494fcc4372cdc4d6704d64589f925",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/amyrol-pretestify.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/amyrol-pretestify.png"
+        },
+        {
+            "filename": "amyrol-unilobal.png",
+            "length": 160552,
+            "sha512": "76880cc20a03aa27d06dcc2b402d52db8ab1f9cd973304170554943612684c5e1f14cddfa39ff264bf7848161dd0e82f3e528accd37b1c3b50eead9d7de1531d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/amyrol-unilobal.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/amyrol-unilobal.png"
+        },
+        {
+            "filename": "amyrol-medicamentation.png",
+            "length": 348740,
+            "sha512": "7928982f4728cc398ee9ab77c3efb43da96394f6f00e5dc24a194e092473f0e99892d39a9ec566a5a18dbcc8722b5ef0e4a7a1d956f9fd89c1e641977d10c870",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/amyrol-medicamentation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/amyrol-medicamentation.png"
+        },
+        {
+            "filename": "PRONENESS405F_prealkalic.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/PRONENESS405F_prealkalic.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/PRONENESS405F_prealkalic.rw.dat"
+        },
+        {
+            "filename": "PRONENESS405F_prealkalic.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/PRONENESS405F_prealkalic.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/PRONENESS405F_prealkalic.dat"
+        },
+        {
+            "filename": "PRONENESS405F_Petaurista.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/PRONENESS405F_Petaurista.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/PRONENESS405F_Petaurista.rw.dat"
+        },
+        {
+            "filename": "PRONENESS405F_Petaurista.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/PRONENESS405F_Petaurista.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/public/PRONENESS405/PRONENESS405F_Petaurista.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "public",
+    "groupname": "",
+    "groupuuid": ""
+}

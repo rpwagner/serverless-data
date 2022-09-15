@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) HISTOZOIC885G",
+    "identifier": "HISTOZOIC885",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-14T02:09:15.691932",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "inflame"
+    ],
+    "manifest": [
+        {
+            "filename": "monophylite-homodoxian.png",
+            "length": 530288,
+            "sha512": "fcdf759e49b7a020e17fa0a5b2685b23bb1d21ba6289321c46c0fa22bbf803376534b8921b809a146157f69502e52cdb5ad736303699463e6f5a6609e13baa92",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-homodoxian.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/monophylite-homodoxian.png"
+        },
+        {
+            "filename": "monophylite-Callianassa.png",
+            "length": 435857,
+            "sha512": "402b9a0312918faf86ffea6a6bad287614c73321d2f5de1e2a39f4a31f812bcb09011461a934d548ae29dbdb7f5675bf6b8880acd0dfbc4cf441f96d2948e7c6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-Callianassa.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/monophylite-Callianassa.png"
+        },
+        {
+            "filename": "monophylite-unprescient.png",
+            "length": 26444,
+            "sha512": "62e150c08bbe5f9362887303401efdf211b84939ea59d6c6a7a2672a6083c4fe135bab123c44f41d53ef7d96b025cb3735b0534e6e14f4087ce301a558e9f4bf",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-unprescient.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/monophylite-unprescient.png"
+        },
+        {
+            "filename": "monophylite-ochletic.png",
+            "length": 495798,
+            "sha512": "d47491a82682f9110bbc0b2e1a8b8d2add361d09e7ab55e2d07c03fc5b175ff5307a4734684e4a4895bc610599e23e9e73c044b61d6d47c027c0d74959369826",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-ochletic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/monophylite-ochletic.png"
+        },
+        {
+            "filename": "pituitousness-soudagur.png",
+            "length": 516831,
+            "sha512": "e64779a59424489955055bfe4ce468469914da2688c9c1fa93cb9caec0245f0f1689e1ca4841b034571027a0f337ee944600af333553a64f8f27a01d05bb1c1a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/pituitousness-soudagur.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/pituitousness-soudagur.png"
+        },
+        {
+            "filename": "pituitousness-spekboom.png",
+            "length": 431386,
+            "sha512": "9c8ee1318aab838663cbef13ee446de6b1f9a390892eebe9f01bbddcb4263190044c1329eeddf57d797d27d159b99568633e4243961ec89e8767b193b6d42669",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/pituitousness-spekboom.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/pituitousness-spekboom.png"
+        },
+        {
+            "filename": "pituitousness-aletap.png",
+            "length": 20768,
+            "sha512": "122d80394dd60254871a1df2d68a5add56644bcc03a501338f78bd84425a782995f2159f6a075b62c5d30324684a0094a691dfa0f39e23be6570fcbbd828f947",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/pituitousness-aletap.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/pituitousness-aletap.png"
+        },
+        {
+            "filename": "pituitousness-philocathartic.png",
+            "length": 428962,
+            "sha512": "ac575033d18b30fd69b8dbef51fd0910e0666c111bc81493452360e4db8f704b2744c04eb9bbb63eccfec32b1933bc614d16850d0cd53a7bebd648c9f4b62d40",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/pituitousness-philocathartic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/pituitousness-philocathartic.png"
+        },
+        {
+            "filename": "Amphicyonidae-vassalship.png",
+            "length": 698788,
+            "sha512": "16750248a32362c8e575a5e44b1955296596e0a7ef23f85854f79f9af366c627e0406888e04636d3d9e5591276d643785da1d195c681832b79fbb30b0f90c399",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/Amphicyonidae-vassalship.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/Amphicyonidae-vassalship.png"
+        },
+        {
+            "filename": "Amphicyonidae-veratroidine.png",
+            "length": 130243,
+            "sha512": "8627996c87246022afcd515fe038630b5bbe73c85492120c909c1062453b642c9c47204500eb985eea37752f37a55e5f696c42cfa061295743ee222c27d88221",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/Amphicyonidae-veratroidine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/Amphicyonidae-veratroidine.png"
+        },
+        {
+            "filename": "Amphicyonidae-Sarabaite.png",
+            "length": 170083,
+            "sha512": "8b2d8a60c727e61bb5761bfdd6d6ae5ae2bd28a231dadb6a257f337b8eb174fe1c819c74ee6377342cae3147b945935bdb9594d9649faa06c136bd0569f56a7d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/Amphicyonidae-Sarabaite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/Amphicyonidae-Sarabaite.png"
+        },
+        {
+            "filename": "Amphicyonidae-gnawingly.png",
+            "length": 581391,
+            "sha512": "e44a8643fa30258260c93b12e56f2509b73753ea3b808bbf891907d0227b88b0a33e7d0aee3947b71e20ee82294b7d6f2d3d5f0b6650b6edba9af8fac73bbec5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/Amphicyonidae-gnawingly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/Amphicyonidae-gnawingly.png"
+        },
+        {
+            "filename": "imperite-Hesionidae.png",
+            "length": 644562,
+            "sha512": "781190cf7a1f43780961b3ceac00455d34d36a24959a035cd3ff8d827afc185781686dd9ebb2e4a24473ed01869eacfbee9cde02d10f8e8aa503037bb1d206f5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/imperite-Hesionidae.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/imperite-Hesionidae.png"
+        },
+        {
+            "filename": "imperite-muriatic.png",
+            "length": 449612,
+            "sha512": "63f5533af4444a2bed7b14a800e9ccfe5a072188da38096101fad07f5e033ea2f15260ec54660a45b2f7fa4eff2ca56bb4791e0b9ea81a6836947dda2e14e10e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/imperite-muriatic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/imperite-muriatic.png"
+        },
+        {
+            "filename": "imperite-neffy.png",
+            "length": 192111,
+            "sha512": "a308744887dc723f824a25703863ae98ed73ed37251f0540a32fc97e9066fb1e278d501f1fdec6dc42fda2fe9963f783c6d7f3894dcbb813d9c48c1d7d81c009",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/imperite-neffy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/imperite-neffy.png"
+        },
+        {
+            "filename": "imperite-bactericidin.png",
+            "length": 145634,
+            "sha512": "a17bab6abeaae684a0fac5e70345d0e28724645350c2a18e926bc6f6fafc5804591776f5925bc928fb1ba79f837c37d4995b06564c22b7147715dbd0212f7329",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/imperite-bactericidin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/imperite-bactericidin.png"
+        },
+        {
+            "filename": "vulvar-philosophistical.png",
+            "length": 629672,
+            "sha512": "eed3479920c14a060ac579744d90ee14678af2aea18dd618877ef2fd9f1c07e183943249bb43b01dde4a18e345256a22dad32c794c2ef52a1c4ab8699b2ae48e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/vulvar-philosophistical.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/vulvar-philosophistical.png"
+        },
+        {
+            "filename": "vulvar-prayerfulness.png",
+            "length": 390188,
+            "sha512": "126c84140735723ce39f0ef1f627dea013d85c182b8a3437502de07ace822d221d364172c15413647dfebbe85e0e7e1e8161af3f71580b3b7bc138a848ccca4c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/vulvar-prayerfulness.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/vulvar-prayerfulness.png"
+        },
+        {
+            "filename": "vulvar-entomophytous.png",
+            "length": 38277,
+            "sha512": "127fd5590e23eaa3948f73d307874d64613efd33e89698ad15ac19ce87dd8bf8fa352d788e99689c86996fbcf84508ad55de9b9702d937f2b93ee27609295616",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/vulvar-entomophytous.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/vulvar-entomophytous.png"
+        },
+        {
+            "filename": "vulvar-streakily.png",
+            "length": 446945,
+            "sha512": "9f982c06631c8a30dbda75016a0dcd442993179addddd955d58b053ee5060c3b9b0bb56b0e3dd276e2c20f58b062842e57105a84372c00eb01f3e7569fc08bfd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/vulvar-streakily.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/vulvar-streakily.png"
+        },
+        {
+            "filename": "nonenforceability-antralgia.png",
+            "length": 453911,
+            "sha512": "64ef328803a7e1d86320f156964a4b8d1276c346485b72b9adead695cb67d1d25a171dc7f9a733df909515eeca5f818e79fca2bdf3121552e7ef765f042fe5ae",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/nonenforceability-antralgia.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/nonenforceability-antralgia.png"
+        },
+        {
+            "filename": "nonenforceability-twanker.png",
+            "length": 40081,
+            "sha512": "c8003b504d6b74ba16a3c51b3f7c6d407d50964f9a249ac6b6f746718f9717a201a985a133115fbb9a7ccfba8b6e0e722a5a555997108b9ce33460c317aa6780",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/nonenforceability-twanker.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/nonenforceability-twanker.png"
+        },
+        {
+            "filename": "nonenforceability-exocoelar.png",
+            "length": 106887,
+            "sha512": "b51c49b75f7b1c036db2b052c7a47108c222ae8df80dcb0c0568f1be11e8f5be8e0fe63996db128c22d64fa7a7d5ec90e7a425b57f231b9759065e355da621ef",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/nonenforceability-exocoelar.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/nonenforceability-exocoelar.png"
+        },
+        {
+            "filename": "nonenforceability-restiff.png",
+            "length": 377550,
+            "sha512": "2f926e3e9f787b65bf7d9eaa5bb157597582374a9a3756e82ce3bfd7a7ac34bae41422163806fbc01352753a03c34b682dc82b8eda55292113cb18f770817f45",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/nonenforceability-restiff.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/nonenforceability-restiff.png"
+        },
+        {
+            "filename": "HISTOZOIC885G_unpremonished.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/HISTOZOIC885G_unpremonished.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/HISTOZOIC885G_unpremonished.rw.dat"
+        },
+        {
+            "filename": "HISTOZOIC885G_unpremonished.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/HISTOZOIC885G_unpremonished.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/HISTOZOIC885G_unpremonished.dat"
+        },
+        {
+            "filename": "HISTOZOIC885G_torque.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/HISTOZOIC885G_torque.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/HISTOZOIC885G_torque.rw.dat"
+        },
+        {
+            "filename": "HISTOZOIC885G_torque.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/HISTOZOIC885G_torque.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/HISTOZOIC885/HISTOZOIC885G_torque.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) AUTACOIDAL812S",
+    "identifier": "AUTACOIDAL812",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-11T18:08:32.086623",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "inflame",
+        "Chrysosplenium"
+    ],
+    "manifest": [
+        {
+            "filename": "starchroot-quickset.png",
+            "length": 639833,
+            "sha512": "39fb2111dacecd69686dcbca86c364292fd1247256bef688e65c481c2ef39f40f6d06e133d5220a3d3d30e33334fbd9a486f270325cc5031856eab1dce40d632",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/starchroot-quickset.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/starchroot-quickset.png"
+        },
+        {
+            "filename": "starchroot-rassle.png",
+            "length": 563730,
+            "sha512": "d910db93b08f275736e7770c823750701a2a3e0d2441a39fe96e1c250bc81fe570ba07ca44073e5b7a19cefcd92a9e6015135d46b72b0fac472f36b0c93224aa",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/starchroot-rassle.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/starchroot-rassle.png"
+        },
+        {
+            "filename": "starchroot-appliably.png",
+            "length": 28525,
+            "sha512": "7637835d87745f4aab91641a987126b8ab8cc108880a0fd6cbc9b14890e1c0c56485fa26af676af17fef6d881600e3e7423d52af3e53ba7484422bfb1923d41b",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/starchroot-appliably.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/starchroot-appliably.png"
+        },
+        {
+            "filename": "starchroot-monoprionid.png",
+            "length": 556601,
+            "sha512": "314500a3dbbde4b33b9f3ca0ec30e9b2fbe46108d7a8a312c29836ebdd561200882087b065825ab52bacebc71bbd9cdc425232c4bd8389e4f34b99b259c38575",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/starchroot-monoprionid.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/starchroot-monoprionid.png"
+        },
+        {
+            "filename": "ultraterrene-chloridize.png",
+            "length": 608837,
+            "sha512": "57d79f7fa1346d664a85510430dfaac8c39a31fe2288bf91f01d273ca3dda13e0931575c9d69f3c80e639e756d16ef42df0fa99053f734ca5b6c150707ff8041",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/ultraterrene-chloridize.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/ultraterrene-chloridize.png"
+        },
+        {
+            "filename": "ultraterrene-dishearteningly.png",
+            "length": 305031,
+            "sha512": "3432e0d59ce67a8793204e4cc0e1a6a6297d4be4ef15dc9a3a6aaa564f48181447406f422fbaf4c2e4e8089e2aff0e23157345d611ae454ab8ffdc22d4b60aa0",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/ultraterrene-dishearteningly.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/ultraterrene-dishearteningly.png"
+        },
+        {
+            "filename": "ultraterrene-unwreathe.png",
+            "length": 20611,
+            "sha512": "54d17a187ba9359f7bd820cad27c309d481694435598cb345d45851cf28dbe9afbd79359dd6e38f90ad82df98dfce1d523153eeee07498df4d47760395a815a5",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/ultraterrene-unwreathe.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/ultraterrene-unwreathe.png"
+        },
+        {
+            "filename": "ultraterrene-saccharogenic.png",
+            "length": 130324,
+            "sha512": "a10ea7c5f56e84a37ca7b6321c1060e9a5843b708db7eedcd1c28669383415a4eb134884a44959f53e3fc2314684b9709f74bf3885647ee74ce469a2b911d738",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/ultraterrene-saccharogenic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/ultraterrene-saccharogenic.png"
+        },
+        {
+            "filename": "pancreozymin-absorptivity.png",
+            "length": 598420,
+            "sha512": "8846a35a220b1836dcf105a4bd06133cdb683653bd114904ca477678cbc7b7ccea58772f237fd89c6d8c0bb531d1c02956b7e712861e5f5b3bfbbaa7c42ca24e",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/pancreozymin-absorptivity.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/pancreozymin-absorptivity.png"
+        },
+        {
+            "filename": "pancreozymin-Selung.png",
+            "length": 602140,
+            "sha512": "133f02bc3174058e4e2473074a4cd3d2840c982f8a677dd2ce50f4ae47dbd2a077060668bbec9a0cde65cb21a2e66512823dd54b8cdab17c006c41b4304a4dc3",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/pancreozymin-Selung.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/pancreozymin-Selung.png"
+        },
+        {
+            "filename": "pancreozymin-abey.png",
+            "length": 46866,
+            "sha512": "1ab23dabdd0111784d60cfa980120d4f383069f4b2f0f00bd69d3fa7ab51e645017d153482566ecb8c8dedb1f9562df6bb9faf0cf955e722fe9e6db5667e2abb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/pancreozymin-abey.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/pancreozymin-abey.png"
+        },
+        {
+            "filename": "pancreozymin-Margarelon.png",
+            "length": 76580,
+            "sha512": "1e212dd5c9c62a8372f93d07a9d86b04c68b6dece3f20711350f7863d6df8d598b62617ed9867c5ebd229af2267370eba72234be608cd12b0333dc730124ee90",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/pancreozymin-Margarelon.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/pancreozymin-Margarelon.png"
+        },
+        {
+            "filename": "centaurus-sportfully.png",
+            "length": 594299,
+            "sha512": "7f44ad66d7d56af985ba4e0c6a3b56548dbd2ef4c9800fc74fef021fee20f77fba23263ee2cec77f24ef60ecdf3b804e9d47536d3c766f4fc2b8c5d920196b24",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/centaurus-sportfully.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/centaurus-sportfully.png"
+        },
+        {
+            "filename": "centaurus-meninting.png",
+            "length": 84136,
+            "sha512": "73caeb1591a0de43c470257e65e5d356ba24d3519ff9ab3812b5a3dcf95ef390fb56589c592b866b2d07a8dd69dc9b71269b0dfb4229d75ef19fef99690c062f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/centaurus-meninting.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/centaurus-meninting.png"
+        },
+        {
+            "filename": "centaurus-chondrogenesis.png",
+            "length": 265981,
+            "sha512": "fb5f37499e1ff00932980683d39073c53156a7be11f25d9d8509a44b3f6bd75dca7268a0d1a0199ac4917ab519cd031950c60b7546084d276b40fc4ed2059ed7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/centaurus-chondrogenesis.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/centaurus-chondrogenesis.png"
+        },
+        {
+            "filename": "centaurus-Sifatite.png",
+            "length": 530287,
+            "sha512": "7425a1de034bef96934add9ad6833071ce0bdbc443ebbe7cfdf913d5f21039d6242cffc39d961c2162355bc851e021d8d99bd9971688794a51714d0542ce909d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/centaurus-Sifatite.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/centaurus-Sifatite.png"
+        },
+        {
+            "filename": "nondesecration-Daedalist.png",
+            "length": 627278,
+            "sha512": "763565d01c653a5d213edbd6271977e18bdaa140c127152347be5902e41c5d162bd654f51cf657007960c285c9232a84e805b59d74a8dcafd2118c2b6c2f15af",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/nondesecration-Daedalist.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/nondesecration-Daedalist.png"
+        },
+        {
+            "filename": "nondesecration-cicerone.png",
+            "length": 507367,
+            "sha512": "a74ee022b58fa582ea0516f37433e7e431e6ed88a90ba2d2006a6db83e0c492e995d7c69ddd9f438d55f794999891d3d97a74b1d1423265257b8db8236e0991f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/nondesecration-cicerone.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/nondesecration-cicerone.png"
+        },
+        {
+            "filename": "nondesecration-nonradical.png",
+            "length": 188461,
+            "sha512": "7575546fd34d2900afaf338e45e5f75ec74d4efb196af1f549c4acb8a6f2c50d3b98f713252b203e4a2c4a9d03c6417dc8e769f72ff388d7468b31a1b2d71a2c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/nondesecration-nonradical.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/nondesecration-nonradical.png"
+        },
+        {
+            "filename": "nondesecration-beauism.png",
+            "length": 386697,
+            "sha512": "6e70b4734fa852a33aafb9023e204bdb9110df24b63ceb46226f5bcd30b7ad8d3d5a44ac24ad62d81069525bdfe8cfa5ed8580575068f62c51ca1ce6ab229acf",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/nondesecration-beauism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/nondesecration-beauism.png"
+        },
+        {
+            "filename": "disgorgement-federatively.png",
+            "length": 813241,
+            "sha512": "cbc97a17417946fbbea088937e060544d035d26cb01a794f7d69f386c27c77ac2e38cd9988b5613954d9835077846f0b9e09924657e0fb7b043b061d922e3e84",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/disgorgement-federatively.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/disgorgement-federatively.png"
+        },
+        {
+            "filename": "disgorgement-alabaster.png",
+            "length": 704316,
+            "sha512": "12e02dbd61cc87b64b6f4404bcc0fd0cac59e89a4fadd59b6d7e09ffc4bba27b1da4027eebf2da494061191c54419e34643a843cd5eae606d71fb5ad31487e9c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/disgorgement-alabaster.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/disgorgement-alabaster.png"
+        },
+        {
+            "filename": "disgorgement-Manetti.png",
+            "length": 17184,
+            "sha512": "0c70442b5bebe54a1e4f4f41b6d779f0adc1fa593c61836cfc93727c25e65360b6a5727763606601978afcdfbc148893e6c2c58e89fd873b16f4eb7137c1a2c7",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/disgorgement-Manetti.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/disgorgement-Manetti.png"
+        },
+        {
+            "filename": "disgorgement-undutiful.png",
+            "length": 682360,
+            "sha512": "03ac9b30dd47af35ebf527778144d700b89bb4cb664f20d86e344a6ad80e6ae30db4acef54250a1724f8edb9b859853364b2421950ba40fdcb37c3b4f28cfe15",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/disgorgement-undutiful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/disgorgement-undutiful.png"
+        },
+        {
+            "filename": "AUTACOIDAL812S_schoolery.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/AUTACOIDAL812S_schoolery.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/AUTACOIDAL812S_schoolery.rw.dat"
+        },
+        {
+            "filename": "AUTACOIDAL812S_schoolery.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/AUTACOIDAL812S_schoolery.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/AUTACOIDAL812S_schoolery.dat"
+        },
+        {
+            "filename": "AUTACOIDAL812S_ynambu.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/AUTACOIDAL812S_ynambu.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/AUTACOIDAL812S_ynambu.rw.dat"
+        },
+        {
+            "filename": "AUTACOIDAL812S_ynambu.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/AUTACOIDAL812/AUTACOIDAL812S_ynambu.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/609yv1t6/collection/restricted/AUTACOIDAL812/AUTACOIDAL812S_ynambu.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}
