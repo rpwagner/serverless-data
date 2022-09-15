@@ -26,7 +26,8 @@ Access to this dataset requires accepting terms and conditions. Join the Globus 
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/allusers/ORLEWISE861/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash |
+
  | [undersearch-chiliarchy.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-chiliarchy.png) | 532019 | cd8de9d8... |
  | [undersearch-androsporangium.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-androsporangium.png) | 351461 | 84d21613... |
  | [undersearch-seignioral.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/ORLEWISE861/undersearch-seignioral.png) | 255463 | 366afb6f... |

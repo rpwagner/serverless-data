@@ -84,7 +84,7 @@ class Dataset(Citable):
         images = []
         if self.manifest:
             md += '## Files\n'
-            md +=' | File Name | Size (Bytes) | Hash]\n'
+            md +=' | File Name | Size (Bytes) | Hash |\n'
             for f in self.manifest:
                 name = f.filename
                 if f.url:

@@ -26,7 +26,8 @@ Access to this dataset requires approval. Request to to join the Globus Group [S
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/restricted/MAGNETOMOTIVE835/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash |
+
  | [smoorich-immew.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-immew.png) | 559623 | e4b92eac... |
  | [smoorich-beduke.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-beduke.png) | 426560 | 427ed3a4... |
  | [smoorich-Lutianus.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-Lutianus.png) | 283247 | add6faa3... |

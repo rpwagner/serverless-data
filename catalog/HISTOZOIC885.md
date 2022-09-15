@@ -26,7 +26,8 @@ Access to this dataset requires approval. Request to to join the Globus Group [S
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/restricted/HISTOZOIC885/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash |
+
  | [monophylite-homodoxian.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-homodoxian.png) | 530288 | fcdf759e... |
  | [monophylite-Callianassa.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-Callianassa.png) | 435857 | 402b9a03... |
  | [monophylite-unprescient.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HISTOZOIC885/monophylite-unprescient.png) | 26444 | 62e150c0... |

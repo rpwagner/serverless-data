@@ -23,7 +23,9 @@ This dataset is publicy available.
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/public/BOUNDEDNESS285/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+
+ | File Name | Size (Bytes) | Hash |
+ 
  | [beveil-infinitarily.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-infinitarily.png) | 538759 | 50f9d095... |
  | [beveil-anapaestical.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png) | 442923 | 884925bf... |
  | [beveil-Gleditsia.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png) | 26155 | 2b388046... |

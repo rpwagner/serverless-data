@@ -26,7 +26,8 @@ Access to this dataset requires accepting terms and conditions. Join the Globus 
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/allusers/MAGA679/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash|
+ 
  | [transformistic-divinization.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-divinization.png) | 536817 | 376baa50... |
  | [transformistic-renegado.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-renegado.png) | 396127 | 1043b9bb... |
  | [transformistic-cofaster.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-cofaster.png) | 245562 | b1c99650... |

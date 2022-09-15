@@ -26,7 +26,8 @@ Access to this dataset requires approval. Request to to join the Globus Group [S
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/restricted/DECORABLE727/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash|
+ 
  | [unswooning-sloughy.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-sloughy.png) | 541082 | 53357f96... |
  | [unswooning-rivell.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-rivell.png) | 353424 | 5118e90e... |
  | [unswooning-amil.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-amil.png) | 270073 | 7d5629cb... |

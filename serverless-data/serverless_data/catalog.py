@@ -20,7 +20,8 @@ class Catalog(Citable):
     def _as_markdown(self, h_prefix = ''):
         md = super()._as_markdown(h_prefix)
         if self.datasets:
-            md += '## Datasets\n'
+            md += '## Datasets\n\n'
+            
             md += '| {} | {} | {} | {} | {} |\n'.format('Name', 'ID', 'Creator', 'Created', 'Number of Files')
             dset_rows = []
             for dset in self.datasets:

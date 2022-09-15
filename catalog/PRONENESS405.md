@@ -23,7 +23,8 @@ This dataset is publicy available.
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/public/PRONENESS405/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash|
+ 
  | [turbosupercharger-arthrodiran.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-arthrodiran.png) | 595878 | 847599e5... |
  | [turbosupercharger-emanationist.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-emanationist.png) | 296106 | 73e4c91e... |
  | [turbosupercharger-addax.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/turbosupercharger-addax.png) | 131143 | 97a32620... |

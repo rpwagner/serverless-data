@@ -26,7 +26,8 @@ Access to this dataset requires approval. Request to to join the Globus Group [S
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/restricted/POLYBORINAE498/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash |
+
  | [Marsiliaceae-anklebone.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-anklebone.png) | 669622 | 081a6d37... |
  | [Marsiliaceae-Pramnian.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-Pramnian.png) | 418019 | 05e43d54... |
  | [Marsiliaceae-navar.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-navar.png) | 18207 | 2e768a0c... |

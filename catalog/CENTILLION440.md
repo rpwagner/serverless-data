@@ -26,7 +26,8 @@ Access to this dataset requires accepting terms and conditions. Join the Globus 
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/allusers/CENTILLION440/) to view the files in the Globus web app.
 ## Files
- | File Name | Size (Bytes) | Hash]
+ | File Name | Size (Bytes) | Hash|
+ 
  | [tetramorphic-overseverity.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-overseverity.png) | 499347 | b201ac37... |
  | [tetramorphic-turbinoid.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-turbinoid.png) | 346524 | 09b4a9a8... |
  | [tetramorphic-mona.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-mona.png) | 247077 | ac87dd0a... |
