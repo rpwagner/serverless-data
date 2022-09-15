@@ -14,10 +14,14 @@ seo:
 - Created: 2022-08-29T04:35:39.938612
 - Version: 0.1
 - License: CC BY 4.0
+
+
 ## Description
 A few random images as a dataset
 
 Keywords: image
+
+
 ## Data Access
 Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
 
@@ -25,6 +29,8 @@ Access to this dataset requires accepting terms and conditions. Join the Globus 
 
 This dataset is available via Globus Transfer or HTTPS.
 [Click here](https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path=/serverless/allusers/MAGA679/) to view the files in the Globus web app.
+
+
 ## Files
 | File Name | Size (Bytes) | Hash|
  
@@ -56,6 +62,8 @@ This dataset is available via Globus Transfer or HTTPS.
 | [MAGA679S_discontiguity.dat](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_discontiguity.dat) | 14 | 8e652935 |
 | [MAGA679S_knavess.rw.dat](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_knavess.rw.dat) | 14 | 8e652935 |
 | [MAGA679S_knavess.dat](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/MAGA679S_knavess.dat) | 14 | 8e652935 |
+
+
 ## Images
 ![transformistic-divinization.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-divinization.png) ![transformistic-renegado.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-renegado.png) ![transformistic-cofaster.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-cofaster.png) ![transformistic-conirostral.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-conirostral.png) ![sanguine-gluemaking.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-gluemaking.png) ![sanguine-basiparaplastin.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-basiparaplastin.png) ![sanguine-interwar.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-interwar.png) ![sanguine-melanorrhea.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/sanguine-melanorrhea.png) ![charbon-unjustled.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-unjustled.png) ![charbon-turgid.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-turgid.png) ![charbon-deforce.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-deforce.png) ![charbon-histoid.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/charbon-histoid.png) ![misconduct-proclaiming.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-proclaiming.png) ![misconduct-unmockingly.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-unmockingly.png) ![misconduct-Rajendra.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-Rajendra.png) ![misconduct-systemless.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/misconduct-systemless.png) ![Herbartianism-bipyramid.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-bipyramid.png) ![Herbartianism-spatialize.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-spatialize.png) ![Herbartianism-incavated.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-incavated.png) ![Herbartianism-otkon.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/Herbartianism-otkon.png) ![clinograph-Curucanecan.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-Curucanecan.png) ![clinograph-anconad.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-anconad.png) ![clinograph-mucluc.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-mucluc.png) ![clinograph-peculiarsome.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/clinograph-peculiarsome.png) 
 
