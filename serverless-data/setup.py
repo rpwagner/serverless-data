@@ -15,7 +15,8 @@ setup(
         "The Serverless Data Research Repository is an example of how to \
         host research data using existing services."
     ),
-    install_requires=[],
+    install_requires=['globus_sdk',
+                          'pytablewriter'],
     python_requires=">=3.10.1",
     classifiers=[
         "Development Status :: 4 - Beta",
