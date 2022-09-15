@@ -2,6 +2,7 @@ from dataclasses import dataclass
 import hashlib
 import os
 from typing import List, Set
+from serverless_data.dc import Citable
 
 # probably should store all constants in one location
 BUF_SIZE = 4194304  # read in 4MB chunks
@@ -21,7 +22,7 @@ class DataFile:
             if os.path.exists(self.filename):
                 self.local_filename = self.filename
                 self.filename = os.path.basename(self.local_filename)
-        self.update()
+                self.update()
 
     def update(self, overwrite: bool = False):
         if not self.length or overwrite:
@@ -44,14 +45,11 @@ class DataFile:
 
 
 @dataclass
-class Dataset:
-    internal_id: str
-    # to do: this should be a datetime object
-    created: str = ''
-    # short name of the lab member (Kyle, Angelica, Phil, etc.)
-    authors: str | List[str] | Set[str] | None = None
-    description = ''
+class Dataset(Citable):
+    # DataCite resourceTypeGeneral = Dataset
+    resourceTypeGeneral: str = 'Dataset'
     tags: str | Set[str] = None
     manifest: DataFile | List[DataFile] | Set[DataFile] | None = None
     # Globus search subject ID
     subject: str = ""
+    license: str = ''
