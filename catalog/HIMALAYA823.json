@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) HIMALAYA823V",
+    "identifier": "HIMALAYA823",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-14T14:29:48.921893",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "pathoradiography",
+        "Chromatium"
+    ],
+    "manifest": [
+        {
+            "filename": "unvoluntary-hidrotic.png",
+            "length": 577294,
+            "sha512": "11af9596d876859a1102b2f9ef7160fa42477c81bc5d92bc24c5be0c9877faf54743a975d792bfd1139627be764da0035d3b6dc64fe6444bf7ebf65305ad8a76",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/unvoluntary-hidrotic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/unvoluntary-hidrotic.png"
+        },
+        {
+            "filename": "unvoluntary-hidrotic.png",
+            "length": 577294,
+            "sha512": "11af9596d876859a1102b2f9ef7160fa42477c81bc5d92bc24c5be0c9877faf54743a975d792bfd1139627be764da0035d3b6dc64fe6444bf7ebf65305ad8a76",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/unvoluntary-hidrotic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/unvoluntary-hidrotic.png"
+        },
+        {
+            "filename": "unvoluntary-hidrotic.png",
+            "length": 577294,
+            "sha512": "11af9596d876859a1102b2f9ef7160fa42477c81bc5d92bc24c5be0c9877faf54743a975d792bfd1139627be764da0035d3b6dc64fe6444bf7ebf65305ad8a76",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/unvoluntary-hidrotic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/unvoluntary-hidrotic.png"
+        },
+        {
+            "filename": "unvoluntary-hidrotic.png",
+            "length": 577294,
+            "sha512": "11af9596d876859a1102b2f9ef7160fa42477c81bc5d92bc24c5be0c9877faf54743a975d792bfd1139627be764da0035d3b6dc64fe6444bf7ebf65305ad8a76",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/unvoluntary-hidrotic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/unvoluntary-hidrotic.png"
+        },
+        {
+            "filename": "singlehanded-outtrump.png",
+            "length": 82115,
+            "sha512": "a967aa2e3cb092384a8a2338fb736018ae494320fcf01d65ef8d3cc2ed609d40a0a70b8e3a16aacf91db0106b11381731e9fe709c766b4b15b4cfd1459549a3a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/singlehanded-outtrump.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/singlehanded-outtrump.png"
+        },
+        {
+            "filename": "singlehanded-outtrump.png",
+            "length": 82115,
+            "sha512": "a967aa2e3cb092384a8a2338fb736018ae494320fcf01d65ef8d3cc2ed609d40a0a70b8e3a16aacf91db0106b11381731e9fe709c766b4b15b4cfd1459549a3a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/singlehanded-outtrump.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/singlehanded-outtrump.png"
+        },
+        {
+            "filename": "singlehanded-outtrump.png",
+            "length": 82115,
+            "sha512": "a967aa2e3cb092384a8a2338fb736018ae494320fcf01d65ef8d3cc2ed609d40a0a70b8e3a16aacf91db0106b11381731e9fe709c766b4b15b4cfd1459549a3a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/singlehanded-outtrump.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/singlehanded-outtrump.png"
+        },
+        {
+            "filename": "singlehanded-outtrump.png",
+            "length": 82115,
+            "sha512": "a967aa2e3cb092384a8a2338fb736018ae494320fcf01d65ef8d3cc2ed609d40a0a70b8e3a16aacf91db0106b11381731e9fe709c766b4b15b4cfd1459549a3a",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/singlehanded-outtrump.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/singlehanded-outtrump.png"
+        },
+        {
+            "filename": "vet-intextine.png",
+            "length": 595745,
+            "sha512": "b3bc8b30ace2369354f61282b6abfeedb76e8d4589c2ebfde3c6f1d766faa0ca7d876cd198a3d7dadc45032fa618625f895dd3d110d37b47538e7f83b5c86c78",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/vet-intextine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/vet-intextine.png"
+        },
+        {
+            "filename": "vet-intextine.png",
+            "length": 595745,
+            "sha512": "b3bc8b30ace2369354f61282b6abfeedb76e8d4589c2ebfde3c6f1d766faa0ca7d876cd198a3d7dadc45032fa618625f895dd3d110d37b47538e7f83b5c86c78",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/vet-intextine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/vet-intextine.png"
+        },
+        {
+            "filename": "vet-intextine.png",
+            "length": 595745,
+            "sha512": "b3bc8b30ace2369354f61282b6abfeedb76e8d4589c2ebfde3c6f1d766faa0ca7d876cd198a3d7dadc45032fa618625f895dd3d110d37b47538e7f83b5c86c78",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/vet-intextine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/vet-intextine.png"
+        },
+        {
+            "filename": "vet-intextine.png",
+            "length": 595745,
+            "sha512": "b3bc8b30ace2369354f61282b6abfeedb76e8d4589c2ebfde3c6f1d766faa0ca7d876cd198a3d7dadc45032fa618625f895dd3d110d37b47538e7f83b5c86c78",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/vet-intextine.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/vet-intextine.png"
+        },
+        {
+            "filename": "sedilia-uncabined.png",
+            "length": 509944,
+            "sha512": "bd9dcc9f9399ed79d92f8152868ac1bff42036a5a576c8ed810e142c3ee128e69a868096c2acd0c08030f0617fb959ae83af9daae73e30a56a58d1ace1c2cdb4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/sedilia-uncabined.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/sedilia-uncabined.png"
+        },
+        {
+            "filename": "sedilia-uncabined.png",
+            "length": 509944,
+            "sha512": "bd9dcc9f9399ed79d92f8152868ac1bff42036a5a576c8ed810e142c3ee128e69a868096c2acd0c08030f0617fb959ae83af9daae73e30a56a58d1ace1c2cdb4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/sedilia-uncabined.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/sedilia-uncabined.png"
+        },
+        {
+            "filename": "sedilia-uncabined.png",
+            "length": 509944,
+            "sha512": "bd9dcc9f9399ed79d92f8152868ac1bff42036a5a576c8ed810e142c3ee128e69a868096c2acd0c08030f0617fb959ae83af9daae73e30a56a58d1ace1c2cdb4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/sedilia-uncabined.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/sedilia-uncabined.png"
+        },
+        {
+            "filename": "sedilia-uncabined.png",
+            "length": 509944,
+            "sha512": "bd9dcc9f9399ed79d92f8152868ac1bff42036a5a576c8ed810e142c3ee128e69a868096c2acd0c08030f0617fb959ae83af9daae73e30a56a58d1ace1c2cdb4",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/sedilia-uncabined.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/sedilia-uncabined.png"
+        },
+        {
+            "filename": "rewind-hobbledehoy.png",
+            "length": 448866,
+            "sha512": "98047c5129d63241d6c84780f440bb8011d71b0d9925adb987b4401f0506b8b4702ce773da70de3cdc2dec5eb62d9e770853b1a02c20fec278967957f081aa66",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/rewind-hobbledehoy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/rewind-hobbledehoy.png"
+        },
+        {
+            "filename": "rewind-hobbledehoy.png",
+            "length": 448866,
+            "sha512": "98047c5129d63241d6c84780f440bb8011d71b0d9925adb987b4401f0506b8b4702ce773da70de3cdc2dec5eb62d9e770853b1a02c20fec278967957f081aa66",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/rewind-hobbledehoy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/rewind-hobbledehoy.png"
+        },
+        {
+            "filename": "rewind-hobbledehoy.png",
+            "length": 448866,
+            "sha512": "98047c5129d63241d6c84780f440bb8011d71b0d9925adb987b4401f0506b8b4702ce773da70de3cdc2dec5eb62d9e770853b1a02c20fec278967957f081aa66",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/rewind-hobbledehoy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/rewind-hobbledehoy.png"
+        },
+        {
+            "filename": "rewind-hobbledehoy.png",
+            "length": 448866,
+            "sha512": "98047c5129d63241d6c84780f440bb8011d71b0d9925adb987b4401f0506b8b4702ce773da70de3cdc2dec5eb62d9e770853b1a02c20fec278967957f081aa66",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/rewind-hobbledehoy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/rewind-hobbledehoy.png"
+        },
+        {
+            "filename": "Japonize-Aucan.png",
+            "length": 384979,
+            "sha512": "31ffafcd6777ec4bde26d00fe5b26dc59504b415f4dbc5174b9f892932e6c0354b3873708efd51e850fabf55f935ee1f9cc9ca67ef941bc6394dbcd8ff33eacb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/Japonize-Aucan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/Japonize-Aucan.png"
+        },
+        {
+            "filename": "Japonize-Aucan.png",
+            "length": 384979,
+            "sha512": "31ffafcd6777ec4bde26d00fe5b26dc59504b415f4dbc5174b9f892932e6c0354b3873708efd51e850fabf55f935ee1f9cc9ca67ef941bc6394dbcd8ff33eacb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/Japonize-Aucan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/Japonize-Aucan.png"
+        },
+        {
+            "filename": "Japonize-Aucan.png",
+            "length": 384979,
+            "sha512": "31ffafcd6777ec4bde26d00fe5b26dc59504b415f4dbc5174b9f892932e6c0354b3873708efd51e850fabf55f935ee1f9cc9ca67ef941bc6394dbcd8ff33eacb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/Japonize-Aucan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/Japonize-Aucan.png"
+        },
+        {
+            "filename": "Japonize-Aucan.png",
+            "length": 384979,
+            "sha512": "31ffafcd6777ec4bde26d00fe5b26dc59504b415f4dbc5174b9f892932e6c0354b3873708efd51e850fabf55f935ee1f9cc9ca67ef941bc6394dbcd8ff33eacb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/Japonize-Aucan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/Japonize-Aucan.png"
+        },
+        {
+            "filename": "HIMALAYA823V_unrelaxable.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/HIMALAYA823V_unrelaxable.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/HIMALAYA823V_unrelaxable.rw.dat"
+        },
+        {
+            "filename": "HIMALAYA823V_unrelaxable.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/HIMALAYA823V_unrelaxable.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/HIMALAYA823V_unrelaxable.dat"
+        },
+        {
+            "filename": "HIMALAYA823V_dissuited.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/HIMALAYA823V_dissuited.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/HIMALAYA823V_dissuited.rw.dat"
+        },
+        {
+            "filename": "HIMALAYA823V_dissuited.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/HIMALAYA823/HIMALAYA823V_dissuited.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/HIMALAYA823/HIMALAYA823V_dissuited.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

@@ -1,10 +1,13 @@
 from dataclasses import dataclass, asdict
+import urllib.parse
 import hashlib
 import os
 from typing import List, Set
 import json
 from pytablewriter import MarkdownTableWriter
 from serverless_data.dc import Citable
+
+base_app_path = 'https://app.globus.org/file-manager?origin_id=6528bad5-bc02-497d-8a4f-a38547d0e72a&origin_path='
 
 # probably should store all constants in one location
 BUF_SIZE = 4194304  # read in 4MB chunks
@@ -58,19 +61,25 @@ class Dataset(Citable):
     access_policy: str = 'public'
     groupname: str = ''
     groupuuid: str = ''
-    
+
     def _as_markdown(self, h_prefix = ''):
         md = super()._as_markdown(h_prefix)
-        if self.access_policy != 'public':
-            md += '{}## Access Policy\n'.format(h_prefix)
-            if self.access_policy == 'terms':
-                md += 'Access to this dataset requires accepting terms and conditions. '
-                md += 'Join the Globus Group {} to acknowledge acceptance.\n'.format(self.groupname)
-                md += '[Request Access url="https://app.globus.org/groups/{}/join"]\n'.format(self.groupuuid)
-            else:
-                md += 'Access to this dataset requires approval. '
-                md += 'Request membership in the Globus Group {} to request access.\n'.format(self.groupname)
-                md += '[Request Access url="https://app.globus.org/groups/{}/join"]\n'.format(self.groupuuid)
+        md += '{}## Data Access\n'.format(h_prefix)
+        if self.access_policy == 'public':
+            md += 'This dataset is publicy available.\n'
+        elif self.access_policy == 'allusers':
+            md += 'Access to this dataset requires accepting terms and conditions. '
+            md += 'Join the Globus Group [{}]({}) to acknowledge acceptance.\n\n'.format(self.groupname,self.groupuuid)
+            md += '[Request Access](https://app.globus.org/groups/{}/join")\n\n'.format(self.groupuuid)
+        else:
+            md += 'Access to this dataset requires approval. '
+            md += 'Request to to join the Globus Group [{}]({}) for access.\n\n'.format(self.groupname, self.groupuuid)
+            md += '[Request Access](https://app.globus.org/groups/{}/join)\n\n'.format(self.groupuuid)
+        md += 'This dataset is available via Globus Transfer or HTTPS.\n'
+
+        path = '/serverless/{}/'.format(self.identifier)
+        path = urllib.parse.quote(path)
+        md += '[Click here]({}{}) to view the files in the Globus web app.\n'.format(base_app_path, path)
 
         images = []
         if self.manifest:
@@ -81,10 +90,9 @@ class Dataset(Citable):
                 name = f.filename
                 if f.url:
                     name = '[{}]({})'.format(name, f.url)
+                    if f.filename[-3:] == 'png':
+                        images.append('![{}]({})'.format(f.filename, f.url))
                 short_hash = '{}...'.format(f.sha512[:8])
-                image = ''
-                if f.filename[-3:] == 'png' and f.url:
-                    images.append('![{}]({})'.format(f.filename, f.url))
                 f_rows.append([name, f.length, short_hash])
             writer = MarkdownTableWriter(
                         table_name=table_name,
@@ -97,6 +105,7 @@ class Dataset(Citable):
             for image in images:
                 md += '{} '.format(image)
         md += '\n\n'
+        md += '[Back to catalog](../)\n\n'
 
         return md
 

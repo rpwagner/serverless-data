@@ -24,7 +24,8 @@ class Catalog(Citable):
             dset_headers = ['Name', 'ID', 'Creator', 'Created', 'Number of Files']
             dset_rows = []
             for dset in self.datasets:
-                dset_rows.append([dset.name, dset.identifier, dset.creator,
+                name = '[{}]({}.html)'.format(dset.name, dset.identifier)
+                dset_rows.append([name, dset.identifier, dset.creator,
                                   dset.created, len(dset.manifest)])
             writer = MarkdownTableWriter(
                         table_name=table_name,

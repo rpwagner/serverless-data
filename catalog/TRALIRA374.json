@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) TRALIRA374E",
+    "identifier": "TRALIRA374",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-05T06:27:13.806322",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "Chromatium",
+        "reekingly"
+    ],
+    "manifest": [
+        {
+            "filename": "sumpsimus-acraspedote.png",
+            "length": 604104,
+            "sha512": "c2d479d0c8373d3b1e5bc442546151581a43e202e20fdb12bd02981b83d3864046a34c7f36923693a19a924641cdace13ae5a813bb8536f9f250cd7400110774",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/sumpsimus-acraspedote.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/sumpsimus-acraspedote.png"
+        },
+        {
+            "filename": "sumpsimus-acraspedote.png",
+            "length": 604104,
+            "sha512": "c2d479d0c8373d3b1e5bc442546151581a43e202e20fdb12bd02981b83d3864046a34c7f36923693a19a924641cdace13ae5a813bb8536f9f250cd7400110774",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/sumpsimus-acraspedote.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/sumpsimus-acraspedote.png"
+        },
+        {
+            "filename": "sumpsimus-acraspedote.png",
+            "length": 604104,
+            "sha512": "c2d479d0c8373d3b1e5bc442546151581a43e202e20fdb12bd02981b83d3864046a34c7f36923693a19a924641cdace13ae5a813bb8536f9f250cd7400110774",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/sumpsimus-acraspedote.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/sumpsimus-acraspedote.png"
+        },
+        {
+            "filename": "sumpsimus-acraspedote.png",
+            "length": 604104,
+            "sha512": "c2d479d0c8373d3b1e5bc442546151581a43e202e20fdb12bd02981b83d3864046a34c7f36923693a19a924641cdace13ae5a813bb8536f9f250cd7400110774",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/sumpsimus-acraspedote.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/sumpsimus-acraspedote.png"
+        },
+        {
+            "filename": "nonfiduciary-Gippy.png",
+            "length": 506267,
+            "sha512": "ee4071147a080d1d3c5ddb612e65b018a92ac39f5498f53d3a521298566c6d2b6569e0389bea46873bd46c5efee8920ced1afa215367d6cc3b3d04cfb1c89376",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/nonfiduciary-Gippy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/nonfiduciary-Gippy.png"
+        },
+        {
+            "filename": "nonfiduciary-Gippy.png",
+            "length": 506267,
+            "sha512": "ee4071147a080d1d3c5ddb612e65b018a92ac39f5498f53d3a521298566c6d2b6569e0389bea46873bd46c5efee8920ced1afa215367d6cc3b3d04cfb1c89376",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/nonfiduciary-Gippy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/nonfiduciary-Gippy.png"
+        },
+        {
+            "filename": "nonfiduciary-Gippy.png",
+            "length": 506267,
+            "sha512": "ee4071147a080d1d3c5ddb612e65b018a92ac39f5498f53d3a521298566c6d2b6569e0389bea46873bd46c5efee8920ced1afa215367d6cc3b3d04cfb1c89376",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/nonfiduciary-Gippy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/nonfiduciary-Gippy.png"
+        },
+        {
+            "filename": "nonfiduciary-Gippy.png",
+            "length": 506267,
+            "sha512": "ee4071147a080d1d3c5ddb612e65b018a92ac39f5498f53d3a521298566c6d2b6569e0389bea46873bd46c5efee8920ced1afa215367d6cc3b3d04cfb1c89376",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/nonfiduciary-Gippy.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/nonfiduciary-Gippy.png"
+        },
+        {
+            "filename": "proslaveryism-Titanism.png",
+            "length": 582877,
+            "sha512": "ee736d8c34346a3dbe8c9acf4eda01f201754ffece7ee1332f3d51fb691098a4ebb4c75c6f1ebe2854a74e3bbde14455912fd8b6624a03378b3302e741f516bd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/proslaveryism-Titanism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/proslaveryism-Titanism.png"
+        },
+        {
+            "filename": "proslaveryism-Titanism.png",
+            "length": 582877,
+            "sha512": "ee736d8c34346a3dbe8c9acf4eda01f201754ffece7ee1332f3d51fb691098a4ebb4c75c6f1ebe2854a74e3bbde14455912fd8b6624a03378b3302e741f516bd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/proslaveryism-Titanism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/proslaveryism-Titanism.png"
+        },
+        {
+            "filename": "proslaveryism-Titanism.png",
+            "length": 582877,
+            "sha512": "ee736d8c34346a3dbe8c9acf4eda01f201754ffece7ee1332f3d51fb691098a4ebb4c75c6f1ebe2854a74e3bbde14455912fd8b6624a03378b3302e741f516bd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/proslaveryism-Titanism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/proslaveryism-Titanism.png"
+        },
+        {
+            "filename": "proslaveryism-Titanism.png",
+            "length": 582877,
+            "sha512": "ee736d8c34346a3dbe8c9acf4eda01f201754ffece7ee1332f3d51fb691098a4ebb4c75c6f1ebe2854a74e3bbde14455912fd8b6624a03378b3302e741f516bd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/proslaveryism-Titanism.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/proslaveryism-Titanism.png"
+        },
+        {
+            "filename": "muid-mau.png",
+            "length": 270317,
+            "sha512": "ef56ab381f7e281aea3f8234be9cda31825db6b18a8f1f1097c35f8ffbf117dacbe667809908e5e5016024b074a8219dbcdc1e21761f473e97d6e902e056a68c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/muid-mau.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/muid-mau.png"
+        },
+        {
+            "filename": "muid-mau.png",
+            "length": 270317,
+            "sha512": "ef56ab381f7e281aea3f8234be9cda31825db6b18a8f1f1097c35f8ffbf117dacbe667809908e5e5016024b074a8219dbcdc1e21761f473e97d6e902e056a68c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/muid-mau.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/muid-mau.png"
+        },
+        {
+            "filename": "muid-mau.png",
+            "length": 270317,
+            "sha512": "ef56ab381f7e281aea3f8234be9cda31825db6b18a8f1f1097c35f8ffbf117dacbe667809908e5e5016024b074a8219dbcdc1e21761f473e97d6e902e056a68c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/muid-mau.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/muid-mau.png"
+        },
+        {
+            "filename": "muid-mau.png",
+            "length": 270317,
+            "sha512": "ef56ab381f7e281aea3f8234be9cda31825db6b18a8f1f1097c35f8ffbf117dacbe667809908e5e5016024b074a8219dbcdc1e21761f473e97d6e902e056a68c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/muid-mau.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/muid-mau.png"
+        },
+        {
+            "filename": "missible-barbecue.png",
+            "length": 442950,
+            "sha512": "b9e61a352e61a1736cb295f1dad53210d1f0c710d8e7d9fa78d59173283ed3e0a95eae9c6d4eb4c3a49bfe74e338e65eccc589213aa02896e5fee9150fdfe5ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/missible-barbecue.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/missible-barbecue.png"
+        },
+        {
+            "filename": "missible-barbecue.png",
+            "length": 442950,
+            "sha512": "b9e61a352e61a1736cb295f1dad53210d1f0c710d8e7d9fa78d59173283ed3e0a95eae9c6d4eb4c3a49bfe74e338e65eccc589213aa02896e5fee9150fdfe5ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/missible-barbecue.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/missible-barbecue.png"
+        },
+        {
+            "filename": "missible-barbecue.png",
+            "length": 442950,
+            "sha512": "b9e61a352e61a1736cb295f1dad53210d1f0c710d8e7d9fa78d59173283ed3e0a95eae9c6d4eb4c3a49bfe74e338e65eccc589213aa02896e5fee9150fdfe5ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/missible-barbecue.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/missible-barbecue.png"
+        },
+        {
+            "filename": "missible-barbecue.png",
+            "length": 442950,
+            "sha512": "b9e61a352e61a1736cb295f1dad53210d1f0c710d8e7d9fa78d59173283ed3e0a95eae9c6d4eb4c3a49bfe74e338e65eccc589213aa02896e5fee9150fdfe5ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/missible-barbecue.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/missible-barbecue.png"
+        },
+        {
+            "filename": "unhelpful-ambulant.png",
+            "length": 364927,
+            "sha512": "95ccfcbbb6fd80085c4651e4da94bce5d7c1c096abf1178871728e2f44587aeb728d08752f39ed33df0ef2ce4df877747a614056efa442720eef23b2327304a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/unhelpful-ambulant.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/unhelpful-ambulant.png"
+        },
+        {
+            "filename": "unhelpful-ambulant.png",
+            "length": 364927,
+            "sha512": "95ccfcbbb6fd80085c4651e4da94bce5d7c1c096abf1178871728e2f44587aeb728d08752f39ed33df0ef2ce4df877747a614056efa442720eef23b2327304a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/unhelpful-ambulant.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/unhelpful-ambulant.png"
+        },
+        {
+            "filename": "unhelpful-ambulant.png",
+            "length": 364927,
+            "sha512": "95ccfcbbb6fd80085c4651e4da94bce5d7c1c096abf1178871728e2f44587aeb728d08752f39ed33df0ef2ce4df877747a614056efa442720eef23b2327304a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/unhelpful-ambulant.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/unhelpful-ambulant.png"
+        },
+        {
+            "filename": "unhelpful-ambulant.png",
+            "length": 364927,
+            "sha512": "95ccfcbbb6fd80085c4651e4da94bce5d7c1c096abf1178871728e2f44587aeb728d08752f39ed33df0ef2ce4df877747a614056efa442720eef23b2327304a2",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/unhelpful-ambulant.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/unhelpful-ambulant.png"
+        },
+        {
+            "filename": "TRALIRA374E_parvolin.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/TRALIRA374E_parvolin.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/TRALIRA374E_parvolin.rw.dat"
+        },
+        {
+            "filename": "TRALIRA374E_parvolin.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/TRALIRA374E_parvolin.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/TRALIRA374E_parvolin.dat"
+        },
+        {
+            "filename": "TRALIRA374E_ethanethial.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/TRALIRA374E_ethanethial.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/TRALIRA374E_ethanethial.rw.dat"
+        },
+        {
+            "filename": "TRALIRA374E_ethanethial.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/TRALIRA374/TRALIRA374E_ethanethial.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//restricted/TRALIRA374/TRALIRA374E_ethanethial.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "restricted",
+    "groupname": "Serverless Data Project One",
+    "groupuuid": "cf9d1f5b-3496-11ed-b941-972795fc9504"
+}

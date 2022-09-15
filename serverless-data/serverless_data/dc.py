@@ -51,18 +51,28 @@ class Citable:
         return d
 
     def _as_markdown(self, h_prefix = ''):
-      md = '{}# {}: {}\n'.format(h_prefix, self.resourceTypeGeneral, self.name)
-      md += '- Identifier: {}\n'.format(self.identifier)
-      md += '- Creator: {}\n'.format(self.creator)
-      md += '- Publisher: {}\n'.format(self.publisher)
-      md += '- Created: {}\n'.format(self.created)
-      md += '- Version: {}\n'.format(self.version)
-      md += '- License: {}\n'.format(self.license)
-      md += '{}## Description\n'.format(h_prefix)
-      md += '{}\n\n'.format(self.description)
-      if self.keywords:
-          md += 'Keywords: '
-          for k in self.keywords:
-              md += '{}, '.format(k)
-          md = '{}\n'.format(md[:-2])
-      return md
+        md = '---\n'
+        md += 'title: "{}"\n'.format(self.name)
+        md += 'author: "{}"\n.'.format(self.creator)
+        md += 'description: "{}"\n'.format(self.description)
+        md += 'date_created: "{}"\n'.format(self.created)
+        md += 'seo:\n'
+        md += '  type: {}\n'.format(self.resourceTypeGeneral)
+        md += '  id: {}\n'.format(self.identifier)
+        md += '---\n'
+
+        md += '{}# {}: {}\n'.format(h_prefix, self.resourceTypeGeneral, self.name)
+        md += '- Identifier: {}\n'.format(self.identifier)
+        md += '- Creator: {}\n'.format(self.creator)
+        md += '- Publisher: {}\n'.format(self.publisher)
+        md += '- Created: {}\n'.format(self.created)
+        md += '- Version: {}\n'.format(self.version)
+        md += '- License: {}\n'.format(self.license)
+        md += '{}## Description\n'.format(h_prefix)
+        md += '{}\n\n'.format(self.description)
+        if self.keywords:
+            md += 'Keywords: '
+            for k in self.keywords:
+                md += '{}, '.format(k)
+                md = '{}\n'.format(md[:-2])
+                return md

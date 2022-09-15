@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) SUBCUTIS607S",
+    "identifier": "SUBCUTIS607",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-02T18:29:18.693497",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "reekingly",
+        "reekingly"
+    ],
+    "manifest": [
+        {
+            "filename": "piratically-Amanda.png",
+            "length": 324019,
+            "sha512": "3eb567912597bf12c35db8da46ada92f7c16f4897a69f1447c00ce22c768cb903162360e63c15aa4c79bf54624c77f67c852655cd28f1a0751c90251f5a7854f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/piratically-Amanda.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/piratically-Amanda.png"
+        },
+        {
+            "filename": "piratically-Amanda.png",
+            "length": 324019,
+            "sha512": "3eb567912597bf12c35db8da46ada92f7c16f4897a69f1447c00ce22c768cb903162360e63c15aa4c79bf54624c77f67c852655cd28f1a0751c90251f5a7854f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/piratically-Amanda.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/piratically-Amanda.png"
+        },
+        {
+            "filename": "piratically-Amanda.png",
+            "length": 324019,
+            "sha512": "3eb567912597bf12c35db8da46ada92f7c16f4897a69f1447c00ce22c768cb903162360e63c15aa4c79bf54624c77f67c852655cd28f1a0751c90251f5a7854f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/piratically-Amanda.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/piratically-Amanda.png"
+        },
+        {
+            "filename": "piratically-Amanda.png",
+            "length": 324019,
+            "sha512": "3eb567912597bf12c35db8da46ada92f7c16f4897a69f1447c00ce22c768cb903162360e63c15aa4c79bf54624c77f67c852655cd28f1a0751c90251f5a7854f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/piratically-Amanda.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/piratically-Amanda.png"
+        },
+        {
+            "filename": "leiocome-Abraham.png",
+            "length": 68575,
+            "sha512": "b983724a7cce7b5b5b5aa8c42422c73dc4be37fbfd352f1d9150dd78d178e00358961960218119e25b9d0271cc4c7ba4a9190f297c2f0dcd4f55fe3629347afb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/leiocome-Abraham.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/leiocome-Abraham.png"
+        },
+        {
+            "filename": "leiocome-Abraham.png",
+            "length": 68575,
+            "sha512": "b983724a7cce7b5b5b5aa8c42422c73dc4be37fbfd352f1d9150dd78d178e00358961960218119e25b9d0271cc4c7ba4a9190f297c2f0dcd4f55fe3629347afb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/leiocome-Abraham.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/leiocome-Abraham.png"
+        },
+        {
+            "filename": "leiocome-Abraham.png",
+            "length": 68575,
+            "sha512": "b983724a7cce7b5b5b5aa8c42422c73dc4be37fbfd352f1d9150dd78d178e00358961960218119e25b9d0271cc4c7ba4a9190f297c2f0dcd4f55fe3629347afb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/leiocome-Abraham.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/leiocome-Abraham.png"
+        },
+        {
+            "filename": "leiocome-Abraham.png",
+            "length": 68575,
+            "sha512": "b983724a7cce7b5b5b5aa8c42422c73dc4be37fbfd352f1d9150dd78d178e00358961960218119e25b9d0271cc4c7ba4a9190f297c2f0dcd4f55fe3629347afb",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/leiocome-Abraham.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/leiocome-Abraham.png"
+        },
+        {
+            "filename": "sophomore-manichord.png",
+            "length": 568449,
+            "sha512": "842a39bd6512eaa01d02f98b4253039acb4ee9e8d4aa0effc3dd99eda9a347fab6a5a1650e9cfcc8f1b5aae7f484d685c82eed762a08f1790bbf27ee40f821a8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/sophomore-manichord.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/sophomore-manichord.png"
+        },
+        {
+            "filename": "sophomore-manichord.png",
+            "length": 568449,
+            "sha512": "842a39bd6512eaa01d02f98b4253039acb4ee9e8d4aa0effc3dd99eda9a347fab6a5a1650e9cfcc8f1b5aae7f484d685c82eed762a08f1790bbf27ee40f821a8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/sophomore-manichord.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/sophomore-manichord.png"
+        },
+        {
+            "filename": "sophomore-manichord.png",
+            "length": 568449,
+            "sha512": "842a39bd6512eaa01d02f98b4253039acb4ee9e8d4aa0effc3dd99eda9a347fab6a5a1650e9cfcc8f1b5aae7f484d685c82eed762a08f1790bbf27ee40f821a8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/sophomore-manichord.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/sophomore-manichord.png"
+        },
+        {
+            "filename": "sophomore-manichord.png",
+            "length": 568449,
+            "sha512": "842a39bd6512eaa01d02f98b4253039acb4ee9e8d4aa0effc3dd99eda9a347fab6a5a1650e9cfcc8f1b5aae7f484d685c82eed762a08f1790bbf27ee40f821a8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/sophomore-manichord.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/sophomore-manichord.png"
+        },
+        {
+            "filename": "insurable-sorrowful.png",
+            "length": 502904,
+            "sha512": "407dd161cc4086b35c9b8f488a806ba63d26483260d4dee17f513a379a1acd319a548a7590c9f5a2778369ac4dff3a4c5035931a8c838fa18c0080034d0e257d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/insurable-sorrowful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/insurable-sorrowful.png"
+        },
+        {
+            "filename": "insurable-sorrowful.png",
+            "length": 502904,
+            "sha512": "407dd161cc4086b35c9b8f488a806ba63d26483260d4dee17f513a379a1acd319a548a7590c9f5a2778369ac4dff3a4c5035931a8c838fa18c0080034d0e257d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/insurable-sorrowful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/insurable-sorrowful.png"
+        },
+        {
+            "filename": "insurable-sorrowful.png",
+            "length": 502904,
+            "sha512": "407dd161cc4086b35c9b8f488a806ba63d26483260d4dee17f513a379a1acd319a548a7590c9f5a2778369ac4dff3a4c5035931a8c838fa18c0080034d0e257d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/insurable-sorrowful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/insurable-sorrowful.png"
+        },
+        {
+            "filename": "insurable-sorrowful.png",
+            "length": 502904,
+            "sha512": "407dd161cc4086b35c9b8f488a806ba63d26483260d4dee17f513a379a1acd319a548a7590c9f5a2778369ac4dff3a4c5035931a8c838fa18c0080034d0e257d",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/insurable-sorrowful.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/insurable-sorrowful.png"
+        },
+        {
+            "filename": "pulmonal-preapprobation.png",
+            "length": 412241,
+            "sha512": "8c77995c0de81673497c43d30548bcd20652e5e1a846f2b83ec3015a425b411b30b120182c167dd7253a746e627d11f88604ba7e05d1bf71ce001f49958b1317",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/pulmonal-preapprobation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/pulmonal-preapprobation.png"
+        },
+        {
+            "filename": "pulmonal-preapprobation.png",
+            "length": 412241,
+            "sha512": "8c77995c0de81673497c43d30548bcd20652e5e1a846f2b83ec3015a425b411b30b120182c167dd7253a746e627d11f88604ba7e05d1bf71ce001f49958b1317",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/pulmonal-preapprobation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/pulmonal-preapprobation.png"
+        },
+        {
+            "filename": "pulmonal-preapprobation.png",
+            "length": 412241,
+            "sha512": "8c77995c0de81673497c43d30548bcd20652e5e1a846f2b83ec3015a425b411b30b120182c167dd7253a746e627d11f88604ba7e05d1bf71ce001f49958b1317",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/pulmonal-preapprobation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/pulmonal-preapprobation.png"
+        },
+        {
+            "filename": "pulmonal-preapprobation.png",
+            "length": 412241,
+            "sha512": "8c77995c0de81673497c43d30548bcd20652e5e1a846f2b83ec3015a425b411b30b120182c167dd7253a746e627d11f88604ba7e05d1bf71ce001f49958b1317",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/pulmonal-preapprobation.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/pulmonal-preapprobation.png"
+        },
+        {
+            "filename": "epidemically-quinoxaline.png",
+            "length": 589698,
+            "sha512": "866ac4aad4d0b3ac093989f5ba31c242311b879edd54833c884625bd2f910aee4a5a4bf41ea0b49a4ac4c372659b10f25292943add7eba421c4e64b90a53c355",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/epidemically-quinoxaline.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/epidemically-quinoxaline.png"
+        },
+        {
+            "filename": "epidemically-quinoxaline.png",
+            "length": 589698,
+            "sha512": "866ac4aad4d0b3ac093989f5ba31c242311b879edd54833c884625bd2f910aee4a5a4bf41ea0b49a4ac4c372659b10f25292943add7eba421c4e64b90a53c355",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/epidemically-quinoxaline.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/epidemically-quinoxaline.png"
+        },
+        {
+            "filename": "epidemically-quinoxaline.png",
+            "length": 589698,
+            "sha512": "866ac4aad4d0b3ac093989f5ba31c242311b879edd54833c884625bd2f910aee4a5a4bf41ea0b49a4ac4c372659b10f25292943add7eba421c4e64b90a53c355",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/epidemically-quinoxaline.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/epidemically-quinoxaline.png"
+        },
+        {
+            "filename": "epidemically-quinoxaline.png",
+            "length": 589698,
+            "sha512": "866ac4aad4d0b3ac093989f5ba31c242311b879edd54833c884625bd2f910aee4a5a4bf41ea0b49a4ac4c372659b10f25292943add7eba421c4e64b90a53c355",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/epidemically-quinoxaline.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/epidemically-quinoxaline.png"
+        },
+        {
+            "filename": "SUBCUTIS607S_prelawfulness.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/SUBCUTIS607S_prelawfulness.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/SUBCUTIS607S_prelawfulness.rw.dat"
+        },
+        {
+            "filename": "SUBCUTIS607S_prelawfulness.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/SUBCUTIS607S_prelawfulness.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/SUBCUTIS607S_prelawfulness.dat"
+        },
+        {
+            "filename": "SUBCUTIS607S_twigsome.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/SUBCUTIS607S_twigsome.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/SUBCUTIS607S_twigsome.rw.dat"
+        },
+        {
+            "filename": "SUBCUTIS607S_twigsome.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/SUBCUTIS607/SUBCUTIS607S_twigsome.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//public/SUBCUTIS607/SUBCUTIS607S_twigsome.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "public",
+    "groupname": "",
+    "groupuuid": ""
+}

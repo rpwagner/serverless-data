@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) RECEIVABLE853Y",
+    "identifier": "RECEIVABLE853",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-04T09:20:37.293002",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "pathoradiography",
+        "Chromatium"
+    ],
+    "manifest": [
+        {
+            "filename": "livableness-hyenanchin.png",
+            "length": 494921,
+            "sha512": "5f5ce544a56d4bce4430a353b3ee20eb35110715729295431918ca732fa69cac173671ad784d0e31facef41a9821c47d0d1a16d445fb4748ecaed85ef681d057",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/livableness-hyenanchin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/livableness-hyenanchin.png"
+        },
+        {
+            "filename": "livableness-hyenanchin.png",
+            "length": 494921,
+            "sha512": "5f5ce544a56d4bce4430a353b3ee20eb35110715729295431918ca732fa69cac173671ad784d0e31facef41a9821c47d0d1a16d445fb4748ecaed85ef681d057",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/livableness-hyenanchin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/livableness-hyenanchin.png"
+        },
+        {
+            "filename": "livableness-hyenanchin.png",
+            "length": 494921,
+            "sha512": "5f5ce544a56d4bce4430a353b3ee20eb35110715729295431918ca732fa69cac173671ad784d0e31facef41a9821c47d0d1a16d445fb4748ecaed85ef681d057",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/livableness-hyenanchin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/livableness-hyenanchin.png"
+        },
+        {
+            "filename": "livableness-hyenanchin.png",
+            "length": 494921,
+            "sha512": "5f5ce544a56d4bce4430a353b3ee20eb35110715729295431918ca732fa69cac173671ad784d0e31facef41a9821c47d0d1a16d445fb4748ecaed85ef681d057",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/livableness-hyenanchin.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/livableness-hyenanchin.png"
+        },
+        {
+            "filename": "stationer-nonrefraction.png",
+            "length": 520016,
+            "sha512": "662335f636d82945aba0208021ca1abdd25ce5d27131d63a51ed7492baf9d67e3bd687ebf23405bc729eb9a53fd925efc4f8b01839cf316644f21ce51b177c1c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/stationer-nonrefraction.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/stationer-nonrefraction.png"
+        },
+        {
+            "filename": "stationer-nonrefraction.png",
+            "length": 520016,
+            "sha512": "662335f636d82945aba0208021ca1abdd25ce5d27131d63a51ed7492baf9d67e3bd687ebf23405bc729eb9a53fd925efc4f8b01839cf316644f21ce51b177c1c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/stationer-nonrefraction.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/stationer-nonrefraction.png"
+        },
+        {
+            "filename": "stationer-nonrefraction.png",
+            "length": 520016,
+            "sha512": "662335f636d82945aba0208021ca1abdd25ce5d27131d63a51ed7492baf9d67e3bd687ebf23405bc729eb9a53fd925efc4f8b01839cf316644f21ce51b177c1c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/stationer-nonrefraction.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/stationer-nonrefraction.png"
+        },
+        {
+            "filename": "stationer-nonrefraction.png",
+            "length": 520016,
+            "sha512": "662335f636d82945aba0208021ca1abdd25ce5d27131d63a51ed7492baf9d67e3bd687ebf23405bc729eb9a53fd925efc4f8b01839cf316644f21ce51b177c1c",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/stationer-nonrefraction.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/stationer-nonrefraction.png"
+        },
+        {
+            "filename": "homostyled-preportray.png",
+            "length": 528430,
+            "sha512": "a837f19b86c8c341f3d6afd64d1ceb7db1eb3fb2b7d49425ddbbe5bcc9894384299c47c17d9cb58a6af28a0f9abff5c0daaf3d9104cd9ee2d68c016e855c45db",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/homostyled-preportray.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/homostyled-preportray.png"
+        },
+        {
+            "filename": "homostyled-preportray.png",
+            "length": 528430,
+            "sha512": "a837f19b86c8c341f3d6afd64d1ceb7db1eb3fb2b7d49425ddbbe5bcc9894384299c47c17d9cb58a6af28a0f9abff5c0daaf3d9104cd9ee2d68c016e855c45db",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/homostyled-preportray.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/homostyled-preportray.png"
+        },
+        {
+            "filename": "homostyled-preportray.png",
+            "length": 528430,
+            "sha512": "a837f19b86c8c341f3d6afd64d1ceb7db1eb3fb2b7d49425ddbbe5bcc9894384299c47c17d9cb58a6af28a0f9abff5c0daaf3d9104cd9ee2d68c016e855c45db",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/homostyled-preportray.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/homostyled-preportray.png"
+        },
+        {
+            "filename": "homostyled-preportray.png",
+            "length": 528430,
+            "sha512": "a837f19b86c8c341f3d6afd64d1ceb7db1eb3fb2b7d49425ddbbe5bcc9894384299c47c17d9cb58a6af28a0f9abff5c0daaf3d9104cd9ee2d68c016e855c45db",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/homostyled-preportray.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/homostyled-preportray.png"
+        },
+        {
+            "filename": "angulare-Apolistan.png",
+            "length": 86255,
+            "sha512": "a8a54800b03bc8a14f61e8b59dc848a399778333c060a9d444963a66313e21077841d55f3155773d062307ce9252a904a2f097b2a20e090026f1b5eb6ae5f8cd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/angulare-Apolistan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/angulare-Apolistan.png"
+        },
+        {
+            "filename": "angulare-Apolistan.png",
+            "length": 86255,
+            "sha512": "a8a54800b03bc8a14f61e8b59dc848a399778333c060a9d444963a66313e21077841d55f3155773d062307ce9252a904a2f097b2a20e090026f1b5eb6ae5f8cd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/angulare-Apolistan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/angulare-Apolistan.png"
+        },
+        {
+            "filename": "angulare-Apolistan.png",
+            "length": 86255,
+            "sha512": "a8a54800b03bc8a14f61e8b59dc848a399778333c060a9d444963a66313e21077841d55f3155773d062307ce9252a904a2f097b2a20e090026f1b5eb6ae5f8cd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/angulare-Apolistan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/angulare-Apolistan.png"
+        },
+        {
+            "filename": "angulare-Apolistan.png",
+            "length": 86255,
+            "sha512": "a8a54800b03bc8a14f61e8b59dc848a399778333c060a9d444963a66313e21077841d55f3155773d062307ce9252a904a2f097b2a20e090026f1b5eb6ae5f8cd",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/angulare-Apolistan.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/angulare-Apolistan.png"
+        },
+        {
+            "filename": "frontotemporal-crankum.png",
+            "length": 518340,
+            "sha512": "069ff803fc3eb7254b0ff27052e29ecee5122d114760ba3cf683ce5dcba2be9fac358a5f261e396126933730c635d367603b8cb8a22dca98bf74f92081ac4da8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/frontotemporal-crankum.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/frontotemporal-crankum.png"
+        },
+        {
+            "filename": "frontotemporal-crankum.png",
+            "length": 518340,
+            "sha512": "069ff803fc3eb7254b0ff27052e29ecee5122d114760ba3cf683ce5dcba2be9fac358a5f261e396126933730c635d367603b8cb8a22dca98bf74f92081ac4da8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/frontotemporal-crankum.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/frontotemporal-crankum.png"
+        },
+        {
+            "filename": "frontotemporal-crankum.png",
+            "length": 518340,
+            "sha512": "069ff803fc3eb7254b0ff27052e29ecee5122d114760ba3cf683ce5dcba2be9fac358a5f261e396126933730c635d367603b8cb8a22dca98bf74f92081ac4da8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/frontotemporal-crankum.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/frontotemporal-crankum.png"
+        },
+        {
+            "filename": "frontotemporal-crankum.png",
+            "length": 518340,
+            "sha512": "069ff803fc3eb7254b0ff27052e29ecee5122d114760ba3cf683ce5dcba2be9fac358a5f261e396126933730c635d367603b8cb8a22dca98bf74f92081ac4da8",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/frontotemporal-crankum.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/frontotemporal-crankum.png"
+        },
+        {
+            "filename": "sprawly-subgit.png",
+            "length": 467850,
+            "sha512": "e7d58c872a2cd522cf51d0ee30b068eb01f5f9e2184797a36d720adf4596fc66cec74c212439eebdb576662a4251260f80614ef264b2df5b4e2ed61bcaf5fe55",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/sprawly-subgit.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/sprawly-subgit.png"
+        },
+        {
+            "filename": "sprawly-subgit.png",
+            "length": 467850,
+            "sha512": "e7d58c872a2cd522cf51d0ee30b068eb01f5f9e2184797a36d720adf4596fc66cec74c212439eebdb576662a4251260f80614ef264b2df5b4e2ed61bcaf5fe55",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/sprawly-subgit.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/sprawly-subgit.png"
+        },
+        {
+            "filename": "sprawly-subgit.png",
+            "length": 467850,
+            "sha512": "e7d58c872a2cd522cf51d0ee30b068eb01f5f9e2184797a36d720adf4596fc66cec74c212439eebdb576662a4251260f80614ef264b2df5b4e2ed61bcaf5fe55",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/sprawly-subgit.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/sprawly-subgit.png"
+        },
+        {
+            "filename": "sprawly-subgit.png",
+            "length": 467850,
+            "sha512": "e7d58c872a2cd522cf51d0ee30b068eb01f5f9e2184797a36d720adf4596fc66cec74c212439eebdb576662a4251260f80614ef264b2df5b4e2ed61bcaf5fe55",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/sprawly-subgit.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/sprawly-subgit.png"
+        },
+        {
+            "filename": "RECEIVABLE853Y_Phytoflagellata.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/RECEIVABLE853Y_Phytoflagellata.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/RECEIVABLE853Y_Phytoflagellata.rw.dat"
+        },
+        {
+            "filename": "RECEIVABLE853Y_Phytoflagellata.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/RECEIVABLE853Y_Phytoflagellata.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/RECEIVABLE853Y_Phytoflagellata.dat"
+        },
+        {
+            "filename": "RECEIVABLE853Y_basification.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/RECEIVABLE853Y_basification.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/RECEIVABLE853Y_basification.rw.dat"
+        },
+        {
+            "filename": "RECEIVABLE853Y_basification.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/RECEIVABLE853/RECEIVABLE853Y_basification.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/RECEIVABLE853/RECEIVABLE853Y_basification.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}

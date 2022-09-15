@@ -1,0 +1,222 @@
+{
+    "name": "(Mock) PROCARRIER406I",
+    "identifier": "PROCARRIER406",
+    "creator": "Rick Wagner",
+    "publisher": "UCSD",
+    "created": "2022-09-11T15:25:22.282833",
+    "version": "0.1",
+    "description": "A few random images as a dataset",
+    "keywords": [
+        "image",
+        "random"
+    ],
+    "license": "CC BY 4.0",
+    "isPartOf": null,
+    "resourceTypeGeneral": "Dataset",
+    "tags": [
+        "antievolutionist",
+        "antievolutionist"
+    ],
+    "manifest": [
+        {
+            "filename": "tourmalinize-adipocere.png",
+            "length": 415141,
+            "sha512": "a24bc5059078a9a4acec5364a14b5c4ca226b3ec590842079ec5c3a16249effb8dfa1d91b8b25b22ef1fef95d937499acccb14323782d7343a7bb9b4808d0c1f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/tourmalinize-adipocere.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/tourmalinize-adipocere.png"
+        },
+        {
+            "filename": "tourmalinize-adipocere.png",
+            "length": 415141,
+            "sha512": "a24bc5059078a9a4acec5364a14b5c4ca226b3ec590842079ec5c3a16249effb8dfa1d91b8b25b22ef1fef95d937499acccb14323782d7343a7bb9b4808d0c1f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/tourmalinize-adipocere.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/tourmalinize-adipocere.png"
+        },
+        {
+            "filename": "tourmalinize-adipocere.png",
+            "length": 415141,
+            "sha512": "a24bc5059078a9a4acec5364a14b5c4ca226b3ec590842079ec5c3a16249effb8dfa1d91b8b25b22ef1fef95d937499acccb14323782d7343a7bb9b4808d0c1f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/tourmalinize-adipocere.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/tourmalinize-adipocere.png"
+        },
+        {
+            "filename": "tourmalinize-adipocere.png",
+            "length": 415141,
+            "sha512": "a24bc5059078a9a4acec5364a14b5c4ca226b3ec590842079ec5c3a16249effb8dfa1d91b8b25b22ef1fef95d937499acccb14323782d7343a7bb9b4808d0c1f",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/tourmalinize-adipocere.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/tourmalinize-adipocere.png"
+        },
+        {
+            "filename": "macrococcus-candystick.png",
+            "length": 110364,
+            "sha512": "602ec8466c08c44e9dff99d61c32c9b0c9422052285f6a38bcb1b1be26103b655f32b3b2bb675b32750fd8e2cfb49ca33a1c41597fe70f140b1b5ad210319853",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/macrococcus-candystick.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/macrococcus-candystick.png"
+        },
+        {
+            "filename": "macrococcus-candystick.png",
+            "length": 110364,
+            "sha512": "602ec8466c08c44e9dff99d61c32c9b0c9422052285f6a38bcb1b1be26103b655f32b3b2bb675b32750fd8e2cfb49ca33a1c41597fe70f140b1b5ad210319853",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/macrococcus-candystick.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/macrococcus-candystick.png"
+        },
+        {
+            "filename": "macrococcus-candystick.png",
+            "length": 110364,
+            "sha512": "602ec8466c08c44e9dff99d61c32c9b0c9422052285f6a38bcb1b1be26103b655f32b3b2bb675b32750fd8e2cfb49ca33a1c41597fe70f140b1b5ad210319853",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/macrococcus-candystick.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/macrococcus-candystick.png"
+        },
+        {
+            "filename": "macrococcus-candystick.png",
+            "length": 110364,
+            "sha512": "602ec8466c08c44e9dff99d61c32c9b0c9422052285f6a38bcb1b1be26103b655f32b3b2bb675b32750fd8e2cfb49ca33a1c41597fe70f140b1b5ad210319853",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/macrococcus-candystick.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/macrococcus-candystick.png"
+        },
+        {
+            "filename": "herbarial-speculative.png",
+            "length": 469732,
+            "sha512": "51f7044054dea7657d5b5ed395233a0d9e990af10ff9c2587f029ef44dc3e8c9eae0f6730746f9032d68e9e250e25073bb7157917521d57d1a113de2b5c19178",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/herbarial-speculative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/herbarial-speculative.png"
+        },
+        {
+            "filename": "herbarial-speculative.png",
+            "length": 469732,
+            "sha512": "51f7044054dea7657d5b5ed395233a0d9e990af10ff9c2587f029ef44dc3e8c9eae0f6730746f9032d68e9e250e25073bb7157917521d57d1a113de2b5c19178",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/herbarial-speculative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/herbarial-speculative.png"
+        },
+        {
+            "filename": "herbarial-speculative.png",
+            "length": 469732,
+            "sha512": "51f7044054dea7657d5b5ed395233a0d9e990af10ff9c2587f029ef44dc3e8c9eae0f6730746f9032d68e9e250e25073bb7157917521d57d1a113de2b5c19178",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/herbarial-speculative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/herbarial-speculative.png"
+        },
+        {
+            "filename": "herbarial-speculative.png",
+            "length": 469732,
+            "sha512": "51f7044054dea7657d5b5ed395233a0d9e990af10ff9c2587f029ef44dc3e8c9eae0f6730746f9032d68e9e250e25073bb7157917521d57d1a113de2b5c19178",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/herbarial-speculative.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/herbarial-speculative.png"
+        },
+        {
+            "filename": "wallow-Kafkaesque.png",
+            "length": 422673,
+            "sha512": "64daa476db6a5b36e9ecb189fa8004e885a2eae8dc7d51e0b776409aa227dae14f681b79a951962f16b8bb8f0473d05e1b9a2cc5cbd060c2fd3e59bae4a540ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/wallow-Kafkaesque.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/wallow-Kafkaesque.png"
+        },
+        {
+            "filename": "wallow-Kafkaesque.png",
+            "length": 422673,
+            "sha512": "64daa476db6a5b36e9ecb189fa8004e885a2eae8dc7d51e0b776409aa227dae14f681b79a951962f16b8bb8f0473d05e1b9a2cc5cbd060c2fd3e59bae4a540ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/wallow-Kafkaesque.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/wallow-Kafkaesque.png"
+        },
+        {
+            "filename": "wallow-Kafkaesque.png",
+            "length": 422673,
+            "sha512": "64daa476db6a5b36e9ecb189fa8004e885a2eae8dc7d51e0b776409aa227dae14f681b79a951962f16b8bb8f0473d05e1b9a2cc5cbd060c2fd3e59bae4a540ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/wallow-Kafkaesque.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/wallow-Kafkaesque.png"
+        },
+        {
+            "filename": "wallow-Kafkaesque.png",
+            "length": 422673,
+            "sha512": "64daa476db6a5b36e9ecb189fa8004e885a2eae8dc7d51e0b776409aa227dae14f681b79a951962f16b8bb8f0473d05e1b9a2cc5cbd060c2fd3e59bae4a540ee",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/wallow-Kafkaesque.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/wallow-Kafkaesque.png"
+        },
+        {
+            "filename": "uncypress-precapitalistic.png",
+            "length": 94488,
+            "sha512": "786a573d747ca3daab446531477ebe0d205beb1f18edf58f9e03aa05f192a620ef9243c43a0347bd2777da5d30e320b980f0be54f8b6585790a51e6a5c0c6917",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/uncypress-precapitalistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/uncypress-precapitalistic.png"
+        },
+        {
+            "filename": "uncypress-precapitalistic.png",
+            "length": 94488,
+            "sha512": "786a573d747ca3daab446531477ebe0d205beb1f18edf58f9e03aa05f192a620ef9243c43a0347bd2777da5d30e320b980f0be54f8b6585790a51e6a5c0c6917",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/uncypress-precapitalistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/uncypress-precapitalistic.png"
+        },
+        {
+            "filename": "uncypress-precapitalistic.png",
+            "length": 94488,
+            "sha512": "786a573d747ca3daab446531477ebe0d205beb1f18edf58f9e03aa05f192a620ef9243c43a0347bd2777da5d30e320b980f0be54f8b6585790a51e6a5c0c6917",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/uncypress-precapitalistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/uncypress-precapitalistic.png"
+        },
+        {
+            "filename": "uncypress-precapitalistic.png",
+            "length": 94488,
+            "sha512": "786a573d747ca3daab446531477ebe0d205beb1f18edf58f9e03aa05f192a620ef9243c43a0347bd2777da5d30e320b980f0be54f8b6585790a51e6a5c0c6917",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/uncypress-precapitalistic.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/uncypress-precapitalistic.png"
+        },
+        {
+            "filename": "personalize-shrubby.png",
+            "length": 490628,
+            "sha512": "c3df2d49f5dfb683f10ca8a00f4ac1cb4b9136510f87956f9fb75ac96c209dde6c17f2c33d146c2d903793baefbfd8b36281eb31bb150fc2ade5c8c17be29eb6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/personalize-shrubby.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/personalize-shrubby.png"
+        },
+        {
+            "filename": "personalize-shrubby.png",
+            "length": 490628,
+            "sha512": "c3df2d49f5dfb683f10ca8a00f4ac1cb4b9136510f87956f9fb75ac96c209dde6c17f2c33d146c2d903793baefbfd8b36281eb31bb150fc2ade5c8c17be29eb6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/personalize-shrubby.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/personalize-shrubby.png"
+        },
+        {
+            "filename": "personalize-shrubby.png",
+            "length": 490628,
+            "sha512": "c3df2d49f5dfb683f10ca8a00f4ac1cb4b9136510f87956f9fb75ac96c209dde6c17f2c33d146c2d903793baefbfd8b36281eb31bb150fc2ade5c8c17be29eb6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/personalize-shrubby.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/personalize-shrubby.png"
+        },
+        {
+            "filename": "personalize-shrubby.png",
+            "length": 490628,
+            "sha512": "c3df2d49f5dfb683f10ca8a00f4ac1cb4b9136510f87956f9fb75ac96c209dde6c17f2c33d146c2d903793baefbfd8b36281eb31bb150fc2ade5c8c17be29eb6",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/personalize-shrubby.png",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/personalize-shrubby.png"
+        },
+        {
+            "filename": "PROCARRIER406I_arctation.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/PROCARRIER406I_arctation.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/PROCARRIER406I_arctation.rw.dat"
+        },
+        {
+            "filename": "PROCARRIER406I_arctation.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/PROCARRIER406I_arctation.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/PROCARRIER406I_arctation.dat"
+        },
+        {
+            "filename": "PROCARRIER406I_succuss.rw.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/PROCARRIER406I_succuss.rw.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/PROCARRIER406I_succuss.rw.dat"
+        },
+        {
+            "filename": "PROCARRIER406I_succuss.dat",
+            "length": 14,
+            "sha512": "8e652935f9f73de44cc2e9468c87155bf8bc431adc2da9dd6d6b4ca7106662fcd54595ecb4393b7a76a5a31ebef491cc395dd2c4ac57b194af074750d459a059",
+            "url": "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PROCARRIER406/PROCARRIER406I_succuss.dat",
+            "local_filename": "/Users/rpwagner/tmp/mock/z9y6o8go/collection//allusers/PROCARRIER406/PROCARRIER406I_succuss.dat"
+        }
+    ],
+    "subject": "",
+    "access_policy": "allusers",
+    "groupname": "Serverless Data Users",
+    "groupuuid": "260da91f-3496-11ed-b941-972795fc9504"
+}
