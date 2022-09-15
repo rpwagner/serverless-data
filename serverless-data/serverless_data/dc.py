@@ -61,14 +61,14 @@ class Citable:
         md += '  id: {}\n'.format(self.identifier)
         md += '---\n'
 
-        md += '{}# {}: {}\n'.format(h_prefix, self.resourceTypeGeneral, self.name)
+        md += '# {}: {}\n'.format(self.resourceTypeGeneral, self.name)
         md += '- Identifier: {}\n'.format(self.identifier)
         md += '- Creator: {}\n'.format(self.creator)
         md += '- Publisher: {}\n'.format(self.publisher)
         md += '- Created: {}\n'.format(self.created)
         md += '- Version: {}\n'.format(self.version)
-        md += '- License: {}\n'.format(self.license)
-        md += '{}## Description\n'.format(h_prefix)
+        md += '- License: {}\n\n'.format(self.license)
+        md += '## Description\n\n'
         md += '{}\n\n'.format(self.description)
         if self.keywords:
             md += 'Keywords: '
