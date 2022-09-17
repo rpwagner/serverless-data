@@ -109,20 +109,20 @@ def put_file(filename, destination,
                                                 client_config,
                                                 no_browser)
 
-    if not destination.startswith('https'):
-        if destination.startswith('/'):
-            destination_url = f'{base_url}{destination}'
-        else:
-            destination_url = f'{base_url}/{destination}'
-
     if destination.endswith('/'):
         file_basename = os.path.basename(filename)        
-        destination_url = f'{destination_url}{file_basename}'
+        destination = f'{destination}{file_basename}'
+
+    if not destination.lower().startswith('https'):
+        if destination.startswith('/'):
+            destination = f'{base_url}{destination}'
+        else:
+            destination = f'{base_url}/{destination}'
 
     headers = {'Authorization': f'Bearer {https_token}'}
 
     if VERBOSE:
-        click.echo(f'Filename: {filename}\nDestination: {destination_url}')
+        click.echo(f'Filename: {filename}\nDestination: {destination}')
 
     # open file to stream out
     try:
@@ -131,7 +131,7 @@ def put_file(filename, destination,
         click.echo(f'Could not open file {filename}')
         sys.exit()
 
-    resp = requests.put(destination_url,
+    resp = requests.put(destination,
                             headers=headers, data=put_data, allow_redirects=False)
     # don't believe the status code
     # Globus may attempt a step up authorization and send a page
@@ -140,9 +140,9 @@ def put_file(filename, destination,
     if not resp.text:
         c = str(resp.status_code)
         if VERBOSE:
-            click.echo(f'PUT to {destination_url} status {c}')
+            click.echo(f'PUT to {destination} status {c}')
     else:
-        click.echo(f'FAILED PUT to {destination_url}')
+        click.echo(f'FAILED PUT to {destination}')
         sys.exit()
 
 if __name__ == '__main__':
