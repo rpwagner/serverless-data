@@ -15,8 +15,6 @@ def get_https_token(collection_id, client_config='', no_browser=False):
     # e.g, https://example.edu
 
     ctx = click.get_current_context()
-    fail_msg = ''
-    
     scopes = [f'https://auth.globus.org/scopes/{collection_id}/https',
                   'urn:globus:auth:scope:transfer.api.globus.org:all']
     try:        
@@ -134,19 +132,22 @@ def put_file(ctx, filename, destination,
     except:
         ctx.fail(f'Could not open file {filename}')
 
-
-    resp = requests.put(destination,
-                            headers=headers, data=put_data, allow_redirects=False)
-    # don't believe the status code
-    # Globus may attempt a step up authorization and send a page
-    # with a client-side redirect
-    # https://www.w3.org/TR/WCAG20-TECHS/H76.html
-    if not resp.text:
-        c = str(resp.status_code)
-        if VERBOSE:
-            click.echo(f'PUT to {destination} status {c}')
-    else:
+    try:
+        resp = requests.put(destination,
+                                headers=headers, data=put_data, allow_redirects=False)
+        # don't believe the status code
+        # Globus may attempt a step up authorization and send a page
+        # with a client-side redirect
+        # https://www.w3.org/TR/WCAG20-TECHS/H76.html
+        if not resp.text:
+            c = str(resp.status_code)
+            if VERBOSE:
+                click.echo(f'PUT to {destination} status {c}')
+            else:
+                ctx.fail(f'FAILED PUT to {destination}')
+    except:
         ctx.fail(f'FAILED PUT to {destination}')
+
 
 if __name__ == '__main__':
     put_file()
