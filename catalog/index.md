@@ -1,40 +1,48 @@
----
-title: "Serverless Data Image Catalog"
-author: "Rick Wagner"
-.description: "A catalog of random images for the Serverless Research Data Repository"
-date_created: "2022-09-14"
-seo:
-  type: Collection
-  id: serverless-images
----
-# Collection: Serverless Data Image Catalog
-- Identifier: serverless-images
-- Creator: Rick Wagner
-- Publisher: UCSD
-- Created: 2022-09-14
-- Version: 0.1
-- License: CC BY 4.0
+# Serverless Image Data Repository
 
+![Random Image](https://g-e77286.ca528.03c0.data.globus.org/public/unostentation-exhalation.png)
 
-## Description
-A catalog of random images for the Serverless Research Data Repository
+## Random Images
 
-Keywords: research
+[Browse the catalog](catalog/)
 
+The Serverless Image Data Repository contains datasets of
+randomly-generated images.
 
-## Datasets
+## Data Access
 
-| Name | ID | Creator | Created | Number of Files |
+This repository demonstrates how to host dataset files on Globus collections while
+providing a publicly available site for data discovery. The site is
+hosted using [GitHub Pages](https://pages.github.com) a free service
+that can deploy sites written in Markdown. Because the Globus
+collection hosting the datasets provides HTTPS access, images from the
+collection are embedded in catalog pages.
 
-|  [(Mock) BOUNDEDNESS285G](BOUNDEDNESS285.html)   | BOUNDEDNESS285 | Rick Wagner | 2022-08-30T03:17:24.767050 | 28 |
-|  [(Mock) PRONENESS405F](PRONENESS405.html)   | PRONENESS405 | Rick Wagner | 2022-09-06T15:37:30.617672 | 28 |
-|  [(Mock) NONMUCILAGINOUS197C](NONMUCILAGINOUS197.html)   | NONMUCILAGINOUS197 | Rick Wagner | 2022-09-03T22:43:22.229734 | 28 |
-|  [(Mock) ORLEWISE861S](ORLEWISE861.html)   | ORLEWISE861 | Rick Wagner | 2022-09-08T10:24:28.308446 | 28 |
-|  [(Mock) PSYCHOSOCIAL631N](PSYCHOSOCIAL631.html)   | PSYCHOSOCIAL631 | Rick Wagner | 2022-08-24T21:31:26.626638 | 28 |
-|  [(Mock) CENTILLION440W](CENTILLION440.html)   | CENTILLION440 | Rick Wagner | 2022-09-12T04:57:40.727875 | 28 |
-|  [(Mock) MAGA679S](MAGA679.html)   | MAGA679 | Rick Wagner | 2022-08-29T04:35:39.938612 | 28 |
-|  [(Mock) POLYBORINAE498S](POLYBORINAE498.html)   | POLYBORINAE498 | Rick Wagner | 2022-08-24T22:45:32.522276 | 28 |
-|  [(Mock) AUTACOIDAL812S](AUTACOIDAL812.html)   | AUTACOIDAL812 | Rick Wagner | 2022-09-11T18:08:32.086623 | 28 |
-|  [(Mock) MAGNETOMOTIVE835Q](MAGNETOMOTIVE835.html)   | MAGNETOMOTIVE835 | Rick Wagner | 2022-09-06T09:18:32.431044 | 28 |
-|  [(Mock) DECORABLE727P](DECORABLE727.html)   | DECORABLE727 | Rick Wagner | 2022-09-06T06:07:33.498332 | 28 |
-|  [(Mock) HISTOZOIC885G](HISTOZOIC885.html)   | HISTOZOIC885 | Rick Wagner | 2022-09-14T02:09:15.691932 | 28 |
+This site represents the catalog, with metadata about the catalog
+itself and the datasets in the repository. The catalog is completely
+public while the datasets are group in three levels of access:
+
+- Public
+- Accept Terms & Conditions
+- Moderated Access
+
+Public is completely public, including anonymous access via HTTPS. 
+
+Accept Terms & Conditions means that a user must join the the [Serverless Data
+Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/about)
+Globus Group, provided they accept the terms & conditions. All Globus users
+can join the Group without any actions by repository personnel. This is the “just sign
+up” model where joining the Group provides a list of registered users.
+
+Moderate Access means that the user can ask to join the [Serverless
+Data Project
+One](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/about)
+Globus Group, but a group manager must approve members. This is the “request access” model.
+
+An inspiration for this concept is the [X-ray Tomography Data
+Bank](https://tomobank.readthedocs.io/). TomoBank uses a Globus
+collection at Argonne to store files and publishes descriptions of its
+datasets on [ReadTheDocs](https://readthedocs.org). Because the
+dataset metadata is on Github in the [TomoBank
+repo](https://github.com/tomography/tomobank), users can submit new
+datasets through pull requests.
