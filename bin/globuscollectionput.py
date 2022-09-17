@@ -7,27 +7,23 @@ import requests
 import click
 import globus_sdk
 from fair_research_login import NativeClient
-    
-# By default, we will assume this is Native App
-# If you want to use this as a service script,
-# Register a new app with Globus and put your own
-# Confidential Client ID and Secret here
-# https://docs.globus.org/api/auth/developer-guide/#register-app
-# https://developers.globus.org/
 
 CLIENT_ID = 'fe8e6f96-8254-4554-b4f6-0ba17e526669'
 
-def get_https_token(collection_id, client_config=''):
+def get_https_token(collection_id, client_config='', no_browser=False):
     # returns the access token for the HTTPS collection
     # and base url of the collection,
-    # e.g, https://g-b0978f.0ed28.75bc.data.globus.org
+    # e.g, https://example.edu
 
     scopes = [f'https://auth.globus.org/scopes/{collection_id}/https',
                   'urn:globus:auth:scope:transfer.api.globus.org:all']
     try:        
         if not client_config:
             client = NativeClient(client_id=CLIENT_ID, app_name='Serverless Data Examples')
-            tokens = client.login(requested_scopes=scopes, refresh_tokens=True)
+            tokens = client.login(requested_scopes=scopes,
+                                      no_local_server=no_browser,
+                                      no_browser=no_browser,
+                                      refresh_tokens=True)
             https_token = tokens[collection_id]['access_token']
             transfer_token = tokens['transfer.api.globus.org']['access_token']
         else:
@@ -65,10 +61,12 @@ def get_https_token(collection_id, client_config=''):
 @click.argument('filename')
 @click.argument('destination')
 @click.argument('collection_id')
+@click.option('-n', '--no-browser', is_flag=True, show_default=True, default=False,
+                  help='Do not use the local server and do not try to open browser. Use this when running remote (e.g., over SSH).')
 @click.option('-c', '--client-config', type=str, default='', show_default=False, help='Confidential Client configuration file.')
 @click.option('-v', '--verbose', is_flag=True, show_default=True, default=False, help='Print more information.')
 def put_file(filename, destination,
-                 collection_id, client_config='', verbose=False):
+                 collection_id, no_browser, client_config='', verbose=False):
     """
     Use HTTPS to PUT a file to a Globus Collection 
 
@@ -79,36 +77,37 @@ def put_file(filename, destination,
     COLLECTION_ID UUID of the Globus Collection
 
     \b
-    By default, this is a Native App, and will prompt the user
-    to login via Globus and then store their access and refresh
-    tokens for reuse. You may also provide the path to a JSON
-    file containign the client ID and secret of a Confidential
-    Client specified as 'client_id' and 'client_secret', e.g.,
+    By default, this is a Native App, and will prompt the user to login via
+    Globus and then store their access and refresh tokens for reuse. You may
+    also provide the path to a JSON file containing the client ID and secret
+    of a Confidential Client specified as 'client_id' and 'client_secret':
     \b
     {
        "client_id": "82d3a...",
        "client_secret": "QmUvb..."
     }
 
+    \b
+    Follow these instructions to create a Confidential Client:
+    https://docs.globus.org/api/auth/developer-guide/#register-app
 
     \b
-    If DESTINATION is a path, it will be appended to the base URL
-    of the collection to make the destination URL.
+    If DESTINATION is a path, it will be appended to the base URL of the
+    collection to make the destination URL.
 
     \b
-    If the destination ends with a slash, e.g. /foo/ or
-    https://g-b0978f.0ed28.75bc.data.globus.org/foo/,
+    If the destination ends with a slash, e.g. /foo/ or https://example.edu/foo/
     the file will be uploaded with its base name, like
-    https://g-b0978f.0ed28.75bc.data.globus.org/foo/data.json
-    Otherwise, the DESTINATION will be path the file on the
-    collection after upload.
+    https://example.edu/foo/data.json. Otherwise, the DESTINATION will be the
+    path of the file on the collection after upload.
     """
 
     global VERBOSE
     VERBOSE = verbose
     
     https_token, base_url = get_https_token(collection_id,
-                                                client_config)
+                                                client_config,
+                                                no_browser)
 
     if not destination.startswith('https'):
         if destination.startswith('/'):
