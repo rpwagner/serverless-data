@@ -38,3 +38,5 @@ Keywords: research
 |  [(Mock) MAGNETOMOTIVE835Q](MAGNETOMOTIVE835.html)   | MAGNETOMOTIVE835 | Rick Wagner | 2022-09-06T09:18:32.431044 | 28 |
 |  [(Mock) DECORABLE727P](DECORABLE727.html)   | DECORABLE727 | Rick Wagner | 2022-09-06T06:07:33.498332 | 28 |
 |  [(Mock) HISTOZOIC885G](HISTOZOIC885.html)   | HISTOZOIC885 | Rick Wagner | 2022-09-14T02:09:15.691932 | 28 |
+
+Back to [Serverless Image Data Repository](./)

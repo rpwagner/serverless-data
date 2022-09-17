@@ -4,7 +4,7 @@
 
 ## Random Images
 
-[Browse the catalog](catalog/)
+[Browse the catalog](catalog.html)
 
 The Serverless Image Data Repository contains datasets of
 randomly-generated images.
@@ -46,3 +46,5 @@ datasets on [ReadTheDocs](https://readthedocs.org). Because the
 dataset metadata is on Github in the [TomoBank
 repo](https://github.com/tomography/tomobank), users can submit new
 datasets through pull requests.
+
+Back to [Serverless Research Data Repository](../)
