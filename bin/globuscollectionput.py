@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import os
-import sys
 import json
 import requests
 import click
@@ -15,6 +14,9 @@ def get_https_token(collection_id, client_config='', no_browser=False):
     # and base url of the collection,
     # e.g, https://example.edu
 
+    ctx = click.get_current_context()
+    fail_msg = ''
+    
     scopes = [f'https://auth.globus.org/scopes/{collection_id}/https',
                   'urn:globus:auth:scope:transfer.api.globus.org:all']
     try:        
@@ -33,16 +35,18 @@ def get_https_token(collection_id, client_config='', no_browser=False):
                 with open(client_config) as f:
                     c = json.load(f)
             except:
-                click.echo(f'Could not load client config file {client_config}')
-                sys.exit()
+                fail_msg = f'Could not load client config file {client_config}'
+                ctx.fail(fail_msg)
             client = globus_sdk.ConfidentialAppAuthClient(
                     c['client_id'], c['client_secret'])
             tokens = client.oauth2_client_credentials_tokens(requested_scopes=scopes)
             https_token = tokens.by_resource_server[collection_id]['access_token']
             transfer_token = tokens.by_resource_server['transfer.api.globus.org']['access_token']
     except:
-        click.echo('Failed to get tokens')
-        sys.exit()
+        if fail_msg:
+            ctx.fail(fail_msg)
+        else:
+            ctx.fail('Failed to get tokens')
 
     # get a TransferClient to find the base URL
     transfer_client = globus_sdk.TransferClient(
@@ -52,8 +56,7 @@ def get_https_token(collection_id, client_config='', no_browser=False):
     try:
         base_url = collection_info['https_server']
     except:
-        click.echo(f'HTTPS not found on collection {collection_id}')
-        sys.exit()
+        ctx.fail(f'HTTPS not found on collection {collection_id}')
 
     return (https_token, base_url)
 
@@ -65,7 +68,8 @@ def get_https_token(collection_id, client_config='', no_browser=False):
                   help='Do not use the local server and do not try to open browser. Use this when running remote (e.g., over SSH).')
 @click.option('-c', '--client-config', type=str, default='', show_default=False, help='Confidential Client configuration file.')
 @click.option('-v', '--verbose', is_flag=True, show_default=True, default=False, help='Print more information.')
-def put_file(filename, destination,
+@click.pass_context
+def put_file(ctx, filename, destination,
                  collection_id, no_browser, client_config='', verbose=False):
     """
     Use HTTPS to PUT a file to a Globus Collection 
@@ -128,8 +132,8 @@ def put_file(filename, destination,
     try:
         put_data = open(filename, 'rb')
     except:
-        click.echo(f'Could not open file {filename}')
-        sys.exit()
+        ctx.fail(f'Could not open file {filename}')
+
 
     resp = requests.put(destination,
                             headers=headers, data=put_data, allow_redirects=False)
@@ -142,8 +146,7 @@ def put_file(filename, destination,
         if VERBOSE:
             click.echo(f'PUT to {destination} status {c}')
     else:
-        click.echo(f'FAILED PUT to {destination}')
-        sys.exit()
+        ctx.fail(f'FAILED PUT to {destination}')
 
 if __name__ == '__main__':
     put_file()
