@@ -1,17 +1,29 @@
 # Serverless Image Data Repository
 
-| <img
-src="https://g-b0978f.0ed28.75bc.data.globus.org/public/unostentation-exhalation.png"
-alt="random image" width="100"/> | <img
-src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
-alt="random image" width="100"/> | <img
-src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
-alt="random image" width="100"/> | 
-<img
-src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png"
-alt="random image" width="100"/> |
-
-
+<table>
+	<tr>
+	<td>
+		<img src="https://g-b0978f.0ed28.75bc.data.globus.org/public/unostentation-exhalation.png"
+		alt="random image" width="100"/> 
+	</td>
+	<td>
+		<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
+	alt="random image" width="100"/> 
+	</td>
+	<td>
+	<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+	alt="random image" width="100"/> 
+	</td>
+	<td>
+	<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png"
+	alt="random image" width="100"/> 
+	</td>
+	</tr>
+</table>
+	
 ## Random Images
 
 [Browse the catalog](catalog.html)
