@@ -221,9 +221,9 @@ def make_full_catalog():
             catalog.datasets.append(dset)
 
     
-    with open('{}/index.json'.format(cat_dir ), "w") as f:
+    with open('{}/catalog.json'.format(cat_dir ), "w") as f:
         json.dump(asdict(catalog), f, indent=4)
-    with open('{}/index.md'.format(cat_dir), "w") as f:
+    with open('{}/catalog.md'.format(cat_dir), "w") as f:
         f.write(catalog._as_markdown())            
 
     print('temp catalog in {}'.format(tmpdir))
@@ -254,7 +254,7 @@ def make_small_catalog():
 
     dset = get_mock_dataset(internal_id, range_in_days, tags, word_getter, {'access_policy': 'public'}, base_dir)
 
-    print('Mock catalog in {}'.format(tmpdir.name))
+    print('Mock dataset in {}'.format(tmpdir.name))
     resp = input('Keep? [Y/N]\n')
     if not (resp == 'y' or resp == 'Y'):
         tmpdir.cleanup()
