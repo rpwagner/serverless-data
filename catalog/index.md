@@ -1,33 +1,5 @@
 # Serverless Image Data Repository
 
-<table>
-	<tr>
-	<td>
-		<img src="https://g-b0978f.0ed28.75bc.data.globus.org/public/unostentation-exhalation.png"
-		alt="random image" width="100"/> 
-	</td>
-	<td>
-		<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
-	alt="random image" width="100"/> 
-	</td>
-</tr>
-<tr>
-<td>
-	<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
-	alt="random image" width="100"/> 
-	</td>
-	<td>
-	<img
-	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png"
-	alt="random image" width="100"/> 
-	</td>
-	</tr>
-</table>
-	
-## Random Images
-
 [Browse the catalog](catalog.html)
 
 The Serverless Image Data Repository contains datasets of
@@ -70,5 +42,33 @@ datasets on [ReadTheDocs](https://readthedocs.org). Because the
 dataset metadata is on Github in the [TomoBank
 repo](https://github.com/tomography/tomobank), users can submit new
 datasets through pull requests.
+
+## Examples
+
+<table>
+	<tr>
+	<td>
+		<img src="https://g-b0978f.0ed28.75bc.data.globus.org/public/unostentation-exhalation.png"
+		alt="random image" width="200"/> 
+	</td>
+	<td>
+		<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
+	alt="random image" width="200"/> 
+	</td>
+</tr>
+<tr>
+<td>
+	<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
+	alt="random image" width="200"/> 
+	</td>
+	<td>
+	<img
+	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png"
+	alt="random image" width="200"/> 
+	</td>
+	</tr>
+</table>
 
 Back to [Serverless Research Data Repository](../)
