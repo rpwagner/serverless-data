@@ -11,7 +11,9 @@
 	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/PRONENESS405/qualifiedly-stickiness.png"
 	alt="random image" width="100"/> 
 	</td>
-	<td>
+</tr>
+<tr>
+<td>
 	<img
 	src="https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png"
 	alt="random image" width="100"/> 
