@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
+Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
 
 [Request Access](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
+
 | File Name | Size (Bytes) | Hash|
- 
 | [transformistic-divinization.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-divinization.png) | 536817 | 376baa50 |
 | [transformistic-renegado.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-renegado.png) | 396127 | 1043b9bb |
 | [transformistic-cofaster.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/MAGA679/transformistic-cofaster.png) | 245562 | b1c99650 |

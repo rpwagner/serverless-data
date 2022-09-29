@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
+Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
 
 [Request Access](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
-| File Name | Size (Bytes) | Hash |
 
+| File Name | Size (Bytes) | Hash |
 | [smoorich-immew.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-immew.png) | 559623 | e4b92eac |
 | [smoorich-beduke.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-beduke.png) | 426560 | 427ed3a4 |
 | [smoorich-Lutianus.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/MAGNETOMOTIVE835/smoorich-Lutianus.png) | 283247 | add6faa3 |

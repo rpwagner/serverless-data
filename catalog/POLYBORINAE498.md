@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
+Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
 
 [Request Access](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
-| File Name | Size (Bytes) | Hash |
 
+| File Name | Size (Bytes) | Hash |
 | [Marsiliaceae-anklebone.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-anklebone.png) | 669622 | 081a6d37 |
 | [Marsiliaceae-Pramnian.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-Pramnian.png) | 418019 | 05e43d54 |
 | [Marsiliaceae-navar.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/POLYBORINAE498/Marsiliaceae-navar.png) | 18207 | 2e768a0c |

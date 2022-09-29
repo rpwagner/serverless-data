@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
+Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
 
 [Request Access](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
+
 | File Name | Size (Bytes) | Hash|
- 
 | [tetramorphic-overseverity.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-overseverity.png) | 499347 | b201ac37 |
 | [tetramorphic-turbinoid.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-turbinoid.png) | 346524 | 09b4a9a8 |
 | [tetramorphic-mona.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/CENTILLION440/tetramorphic-mona.png) | 247077 | ac87dd0a |

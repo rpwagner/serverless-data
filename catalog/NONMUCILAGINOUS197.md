@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
+Access to this dataset requires accepting terms and conditions. Join the Globus Group [Serverless Data Users](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504) to acknowledge acceptance.
 
 [Request Access](https://app.globus.org/groups/260da91f-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
-| File Name | Size (Bytes) | Hash |
 
+| File Name | Size (Bytes) | Hash |
 | [ducted-forewarm.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-forewarm.png) | 542224 | b3923fe0 |
 | [ducted-phallicism.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-phallicism.png) | 314531 | c41266db |
 | [ducted-setarious.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/NONMUCILAGINOUS197/ducted-setarious.png) | 282691 | 0d80c897 |

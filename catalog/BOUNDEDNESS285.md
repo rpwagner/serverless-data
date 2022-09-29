@@ -31,7 +31,6 @@ This dataset is available via Globus Transfer or HTTPS.
 ## Files
 
 | File Name | Size (Bytes) | Hash |
-
 | [beveil-infinitarily.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-infinitarily.png) | 538759 | 50f9d095 |
 | [beveil-anapaestical.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-anapaestical.png) | 442923 | 884925bf |
 | [beveil-Gleditsia.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/public/BOUNDEDNESS285/beveil-Gleditsia.png) | 26155 | 2b388046 |

@@ -23,7 +23,7 @@ Keywords: image
 
 
 ## Data Access
-Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
+Access to this dataset requires approval. Request to to join the Globus Group [Serverless Data Project One](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504) for access.
 
 [Request Access](https://app.globus.org/groups/cf9d1f5b-3496-11ed-b941-972795fc9504/join)
 
@@ -32,8 +32,8 @@ This dataset is available via Globus Transfer or HTTPS.
 
 
 ## Files
+
 | File Name | Size (Bytes) | Hash|
- 
 | [unswooning-sloughy.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-sloughy.png) | 541082 | 53357f96 |
 | [unswooning-rivell.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-rivell.png) | 353424 | 5118e90e |
 | [unswooning-amil.png](https://g-b0978f.0ed28.75bc.data.globus.org/serverless/restricted/DECORABLE727/unswooning-amil.png) | 270073 | 7d5629cb |
