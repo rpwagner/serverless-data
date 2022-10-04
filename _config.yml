@@ -1,7 +1,4 @@
 theme: jekyll-theme-midnight
 title: Serverless Data Research Repository
 description: An example of how to host research data using existing services.
-#logo: ./assets/img/logo.png
 show_downloads: false
-plugins:
-  - jekyll-seo-tag
