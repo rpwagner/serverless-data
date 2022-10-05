@@ -69,16 +69,3 @@ This dataset is available via Globus Transfer or HTTPS.
 
 [Back to catalog](../)
 
-
-<script>
-let img = document.createElement('img');
-img.src = "https://g-b0978f.0ed28.75bc.data.globus.org/serverless/allusers/PSYCHOSOCIAL631/anglewing-choya.png";
-
-img.onload = function() {
-  alert(`Image loaded, size ${img.width}x${img.height}`);
-};
-
-img.onerror = function() {
-  alert("Error occurred while loading image");
-};
-</script>
