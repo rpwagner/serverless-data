@@ -143,8 +143,8 @@ def put_file(ctx, filename, destination,
             c = str(resp.status_code)
             if VERBOSE:
                 click.echo(f'PUT to {destination} status {c}')
-            else:
-                ctx.fail(f'FAILED PUT to {destination}')
+        else:
+            ctx.fail(f'FAILED PUT to {destination}')
     except:
         ctx.fail(f'FAILED PUT to {destination}')
 
